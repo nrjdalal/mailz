@@ -1,0 +1,235 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          alt=""
+          width="144px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Hi [Student Name]</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          >Team Halo Welcomes You To NMIMS
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Please refer the Email to know the Steps for Admission Confirmation
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3B82F6">
+      <mj-column>
+        <mj-text
+          color="white"
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Please Note</mj-text
+        >
+
+        <mj-text
+          color="white"
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >For Admission Confirmation and Student Number generation, these 3
+          things have to be completed by you as shared below
+        </mj-text>
+
+        <mj-text
+          color="white"
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Please read the Full Mail to understand the Steps
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          >Step 1: Email and Mobile Verification
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://images.unsplash.com/photo-1542744095-291d1f67b221?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          alt=""
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" font-size="12px" line-height="1.4">
+          You will receive an Email from NGASCE to verify your Email Address -
+          please click on it to verify
+          <br /><br />
+          You will receive a SMS from NGASCE to verify your Mobile Number -
+          please click on it to verify
+          <br /><br />
+          You can also use the link https://ngasce.secure.force.com/MobileVerify
+          from your Mobile to verify
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3B82F6" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          color="white"
+          align="center"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          >Step 2: Documents Submission
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3B82F6" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://images.unsplash.com/photo-1619418602850-35ad20aa1700?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80"
+          alt=""
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text color="white" align="left" font-size="12px" line-height="1.4">
+          You will receive an Email from our Documents Team (from
+          documents@halo.co.in) to submit the Documents required
+          <br /><br />
+          You can also visit https://www.halo.co.in/documents to understand the
+          Documents that you need to submit
+          <br /><br />
+          Kindly do not delay and submit the same within 1-2 days maximum
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          >Step 3: Fee Payment
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding-top="0">
+      <mj-column>
+        <mj-image
+          src="https://images.unsplash.com/photo-1556742212-5b321f3c261b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+          alt=""
+        />
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" font-size="12px" line-height="1.4">
+          Kindly ignore this section if you have paid the complete Fee
+          <br /><br />
+          If not, kindly visit www.halo.co.in/admission.php?9920583787 to make
+          the payment
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3B82F6" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          color="white"
+          align="center"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          >The Next Part
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#3B82F6" padding-top="0">
+      <mj-column>
+        <mj-text color="white" align="left" font-size="14px" line-height="1.4">
+          Once the above three steps are completed sucessfully, your Student
+          Number will be generated in 2-3 Working Days
+          <br /><br />
+          If any of your Documents are disapproved, you will receive an Email to
+          resubmit the same
+          <br /><br />
+          Once your Student Number is generated, you will receive an Email and
+          Call from our Student Support Team who will help you with next course
+          of action
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          >Contact Us
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >If at any stage if you are stuck and wish to take our help, you can
+          contact our Student Onboarding Executive at the contact points below
+        </mj-text>
+
+        <mj-text align="center" font-size="16px" line-height="1.4"
+          >Vishal Karira
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href=""> </mj-social-element>
+          <mj-social-element name="google" href=""> </mj-social-element>
+          <mj-social-element name="twitter" href=""> </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#3B82F6">
+      <mj-column>
+        <mj-text color="white" align="left" font-size="14px" line-height="1.4">
+          We have a Refer-a-Friend Scheme for our Students where you are awarded
+          if your Friend or Colleague enrolls with us.
+          <br /><br />
+          Please visit https://www.halo.co.in/refer/so to start referring your
+          Friends
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
