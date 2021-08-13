@@ -87,14 +87,19 @@
       </mj-column>
       <mj-column>
         <mj-text align="left" font-size="12px" line-height="1.4">
-          You will receive an Email from NGASCE to verify your Email Address -
-          please click on it to verify
+          You will receive an Email from NGASCE to verify your Email Address
+          <br />
+          <span style="font-weight: 500">Please click on it to verify</span>
           <br /><br />
           You will receive a SMS from NGASCE to verify your Mobile Number -
-          please click on it to verify
+          <br />
+          <span style="font-weight: 500">Please click on it to verify</span>
           <br /><br />
-          You can also use the link https://ngasce.secure.force.com/MobileVerify
-          from your Mobile to verify
+          You can also use the link to verify
+          <br />
+          <a style="font-weight: 500; text-decoration: underline"
+            >https://ngasce.secure.force.com/MobileVerify</a
+          >
         </mj-text>
       </mj-column>
     </mj-section>
