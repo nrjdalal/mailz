@@ -140,5 +140,82 @@
         <mj-button background-color="#126de5">Lorem ipsum</mj-button>
       </mj-column>
     </mj-section>
+
+    <!-- 6 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">6</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          padding-top="0"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 7 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">7</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Lorem ipsum dolor sit amet</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
+          volutpat.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 8 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">8</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text align="left" font-size="14px" line-height="1.4">
+          <li>Lorem ipsum dolor sit amet</li>
+          <li>Consectetur adipiscing elit</li>
+          <li>Quisque hendrerit mauris ac ex mollis</li>
+          <li>sed pulvinar ligula lacinia</li>
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
