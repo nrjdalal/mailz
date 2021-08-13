@@ -92,13 +92,18 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >Lorem Ipsum</mj-text
+          >Lorem ipsum dolor sit amet</mj-text
         >
 
-        <mj-text align="center" font-size="14px" line-height="1.4"
-          >Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
-          consectetur, adipisci velit...</mj-text
-        >
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
+          volutpat.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
