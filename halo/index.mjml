@@ -230,6 +230,18 @@
 
     <mj-section background-color="white">
       <mj-column>
+        <mj-text align="center" font-size="14px" line-height="1.4"
+          >© 2021 Lorem ipsum dolor sit amet
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >2603 Woodridge Lane, Memphis, TN 38104, USA
+        </mj-text>
+
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element name="facebook" href=""> </mj-social-element>
           <mj-social-element name="google" href=""> </mj-social-element>
