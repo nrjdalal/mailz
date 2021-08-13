@@ -59,7 +59,8 @@
         <mj-text
           color="white"
           align="center"
-          font-size="14px"
+          font-size="16px"
+          font-weight="500"
           line-height="1.4"
           padding-top="0"
           >Please read the Full Mail to understand the Steps
@@ -86,20 +87,29 @@
         />
       </mj-column>
       <mj-column>
-        <mj-text align="left" font-size="12px" line-height="1.4">
-          You will receive an Email from NGASCE to verify your Email Address
+        <mj-text align="left" font-size="14px" line-height="1.4">
+          <li style="word-break: break-word">
+            You will receive an Email from NGASCE to verify your Email Address -
+            <span style="font-weight: 500">Please click on it to verify</span>
+          </li>
+
           <br />
-          <span style="font-weight: 500">Please click on it to verify</span>
-          <br /><br />
-          You will receive a SMS from NGASCE to verify your Mobile Number -
+
+          <li style="word-break: break-word">
+            You will receive a SMS from NGASCE to verify your Mobile Number -
+            <span style="font-weight: 500">Please click on it to verify</span>
+          </li>
+
           <br />
-          <span style="font-weight: 500">Please click on it to verify</span>
-          <br /><br />
-          You can also use the link to verify
-          <br />
-          <a style="font-weight: 500; text-decoration: underline"
-            >https://ngasce.secure.force.com/MobileVerify</a
-          >
+
+          <li style="word-break: break-word">
+            You can also use the link to verify
+            <a
+              href="https://ngasce.secure.force.com/MobileVerify"
+              style="font-weight: 500; text-decoration: underline; color: black"
+              >https://ngasce.secure.force.com/MobileVerify</a
+            >
+          </li>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -124,14 +134,34 @@
         />
       </mj-column>
       <mj-column>
-        <mj-text color="white" align="left" font-size="12px" line-height="1.4">
-          You will receive an Email from our Documents Team (from
-          documents@halo.co.in) to submit the Documents required
-          <br /><br />
-          You can also visit https://www.halo.co.in/documents to understand the
-          Documents that you need to submit
-          <br /><br />
-          Kindly do not delay and submit the same within 1-2 days maximum
+        <mj-text color="white" align="left" font-size="14px" line-height="1.4">
+          <li style="word-break: break-word">
+            You will receive an Email from our Documents Team (from
+            <a
+              href="mailto:documents@halo.co.in"
+              style="font-weight: 500; text-decoration: underline; color: white"
+              >documents@halo.co.in</a
+            >
+            ) to submit the Documents required
+          </li>
+
+          <br />
+
+          <li style="word-break: break-word">
+            You can also visit
+            <a
+              href="https://www.halo.co.in/documents"
+              style="font-weight: 500; text-decoration: underline; color: white"
+              >https://www.halo.co.in/documents</a
+            >
+            to understand the Documents that you need to submit
+          </li>
+
+          <br />
+
+          <li style="word-break: break-word">
+            Kindly do not delay and submit the same within 1-2 days maximum
+          </li>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -155,11 +185,22 @@
         />
       </mj-column>
       <mj-column>
-        <mj-text align="left" font-size="12px" line-height="1.4">
-          Kindly ignore this section if you have paid the complete Fee
-          <br /><br />
-          If not, kindly visit www.halo.co.in/admission.php?9920583787 to make
-          the payment
+        <mj-text align="left" font-size="14px" line-height="1.4">
+          <li style="word-break: break-word">
+            Kindly ignore this section if you have paid the complete Fee
+          </li>
+
+          <br />
+
+          <li style="word-break: break-word">
+            If not, kindly visit
+            <a
+              href="https://www.halo.co.in/admission.php?9920583787"
+              style="font-weight: 500; text-decoration: underline; color: black"
+              >https://www.halo.co.in/admission.php?9920583787</a
+            >
+            to make the payment
+          </li>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -179,15 +220,21 @@
     <mj-section background-color="#3B82F6" padding-top="0">
       <mj-column>
         <mj-text color="white" align="left" font-size="14px" line-height="1.4">
-          Once the above three steps are completed sucessfully, your Student
-          Number will be generated in 2-3 Working Days
-          <br /><br />
-          If any of your Documents are disapproved, you will receive an Email to
-          resubmit the same
-          <br /><br />
-          Once your Student Number is generated, you will receive an Email and
-          Call from our Student Support Team who will help you with next course
-          of action
+          <li>
+            Once the above three steps are completed sucessfully, your Student
+            Number will be generated in 2-3 Working Days
+          </li>
+          <br />
+          <li>
+            If any of your Documents are disapproved, you will receive an Email
+            to resubmit the same
+          </li>
+          <br />
+          <li>
+            Once your Student Number is generated, you will receive an Email and
+            Call from our Student Support Team who will help you with next
+            course of action
+          </li>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -213,26 +260,73 @@
           contact our Student Onboarding Executive at the contact points below
         </mj-text>
 
-        <mj-text align="center" font-size="16px" line-height="1.4"
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          font-weight="500"
           >Vishal Karira
         </mj-text>
 
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="facebook" href=""> </mj-social-element>
-          <mj-social-element name="google" href=""> </mj-social-element>
-          <mj-social-element name="twitter" href=""> </mj-social-element>
-        </mj-social>
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          >Phone:
+          <a
+            href="tel:+919004341508"
+            style="font-weight: 500; text-decoration: underline; color: black"
+            >+919004341508</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          >WhatsApp:
+          <a
+            href="https://api.whatsapp.com/send?phone=+919004341508&text=Hi%20Vishal"
+            style="font-weight: 500; text-decoration: underline; color: black"
+            >+919004341508</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          >Email:
+          <a
+            href="mailto:student.onboarding@halo.co.in"
+            style="font-weight: 500; text-decoration: underline; color: black"
+            >student.onboarding@halo.co.in</a
+          >
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#3B82F6">
       <mj-column>
-        <mj-text color="white" align="left" font-size="14px" line-height="1.4">
+        <mj-text
+          color="white"
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+        >
           We have a Refer-a-Friend Scheme for our Students where you are awarded
           if your Friend or Colleague enrolls with us
           <br /><br />
-          Please visit https://www.halo.co.in/refer/so to start referring your
-          Friends
+          Please visit
+          <a
+            href="https://www.halo.co.in/refer/so"
+            style="font-weight: 500; text-decoration: underline; color: white"
+            >https://www.halo.co.in/refer/so</a
+          >
+          to start referring your Friends
         </mj-text>
       </mj-column>
     </mj-section>
