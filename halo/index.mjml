@@ -240,5 +240,12 @@
         </mj-social>
       </mj-column>
     </mj-section>
+
+    <!-- 10 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text align="center" font-size="20px">1</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
