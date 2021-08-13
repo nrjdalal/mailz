@@ -1,6 +1,7 @@
 <mjml>
   <mj-head> </mj-head>
   <mj-body>
+    <!-- Center Logo -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
@@ -22,6 +23,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- Right Logo -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
@@ -44,6 +46,7 @@
       </mj-column>
     </mj-section>
 
+    <!-- Left Logo -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
@@ -62,6 +65,26 @@
           alt=""
           width="144px"
           align="left"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- Icon Information -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">Icon Information</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          alt=""
+          width="144px"
         />
       </mj-column>
     </mj-section>
