@@ -10,7 +10,7 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/veroxyle.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
           width="192px"
         />
@@ -26,7 +26,7 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/veroxyle.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
           width="192px"
           align="right"
@@ -43,7 +43,7 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/veroxyle.svg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
           width="192px"
           align="left"
