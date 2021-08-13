@@ -217,5 +217,28 @@
         </mj-text>
       </mj-column>
     </mj-section>
+
+    <!-- 9 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">9</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://mjml.io/">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://mjml.io/">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
