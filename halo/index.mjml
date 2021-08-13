@@ -1,13 +1,13 @@
 <mjml>
   <mj-head> </mj-head>
   <mj-body>
-    <!-- Center Logo -->
+    <!-- 1 -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
     >
       <mj-column>
-        <mj-text align="center" font-size="20px">Header Center</mj-text>
+        <mj-text align="center" font-size="20px">1</mj-text>
       </mj-column>
     </mj-section>
 
@@ -23,13 +23,13 @@
       </mj-column>
     </mj-section>
 
-    <!-- Right Logo -->
+    <!-- 2 -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
     >
       <mj-column>
-        <mj-text align="center" font-size="20px">Header Right</mj-text>
+        <mj-text align="center" font-size="20px">2</mj-text>
       </mj-column>
     </mj-section>
 
@@ -46,13 +46,13 @@
       </mj-column>
     </mj-section>
 
-    <!-- Left Logo -->
+    <!-- 3 -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
     >
       <mj-column>
-        <mj-text align="center" font-size="20px">Header Left</mj-text>
+        <mj-text align="center" font-size="20px">3</mj-text>
       </mj-column>
     </mj-section>
 
@@ -69,20 +69,20 @@
       </mj-column>
     </mj-section>
 
-    <!-- Icon Information -->
+    <!-- 4 -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       border="5px solid #64748B"
     >
       <mj-column>
-        <mj-text align="center" font-size="20px">Icon Information</mj-text>
+        <mj-text align="center" font-size="20px">4</mj-text>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/icons/target.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
           width="96px"
         />
@@ -104,6 +104,40 @@
           hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
           volutpat.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 5 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="20px">5</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Lorem ipsum dolor sit amet</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
+          volutpat.
+        </mj-text>
+
+        <mj-button background-color="#126de5">Lorem ipsum</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
