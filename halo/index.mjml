@@ -79,13 +79,26 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/icons/target.png"
           alt=""
-          width="144px"
+          width="96px"
         />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Lorem Ipsum</mj-text
+        >
+
+        <mj-text align="center" font-size="14px" line-height="1.4"
+          >Neque porro quisquam est qui dolorem ipsum quia dolor sit amet,
+          consectetur, adipisci velit...</mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
