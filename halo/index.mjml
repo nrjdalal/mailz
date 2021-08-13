@@ -1,0 +1,16 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-section background-color="white" border="5px solid black">
+      <mj-column>
+        <mj-text align="center" font-size="20px">Header Left</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="" alt="" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
