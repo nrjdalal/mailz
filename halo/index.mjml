@@ -1,51 +1,66 @@
 <mjml>
   <mj-head> </mj-head>
   <mj-body>
-    <mj-section background-color="white" border="5px solid #64748B">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
       <mj-column>
         <mj-text align="center" font-size="20px">Header Center</mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
-          width="192px"
+          width="144px"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" border="5px solid #64748B">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
       <mj-column>
         <mj-text align="center" font-size="20px">Header Right</mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
-          width="192px"
+          width="144px"
           align="right"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white" border="5px solid #64748B">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      border="5px solid #64748B"
+    >
       <mj-column>
         <mj-text align="center" font-size="20px">Header Left</mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
           alt=""
-          width="192px"
+          width="144px"
           align="left"
         />
       </mj-column>
