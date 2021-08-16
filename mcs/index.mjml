@@ -39,7 +39,11 @@
       </mj-column>
 
       <mj-column>
-        <mj-image src="" alt="" />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/airplane.png"
+          alt=""
+          width="48px"
+        />
         <mj-text align="center" line-height="1.4">Nationwide delivery</mj-text>
       </mj-column>
     </mj-section>
