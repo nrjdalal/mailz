@@ -102,9 +102,11 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
           alt=""
-          width="96px"
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
         />
 
         <mj-text
@@ -112,18 +114,44 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >Lorem ipsum dolor sit amet</mj-text
+          >30% off on all items</mj-text
         >
 
+        <mj-button
+          href="https://monarchsofas.com/"
+          background-color="#126de5"
+          padding="24px"
+          >Shop Now</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#126de5">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
+          alt=""
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
+        />
+
         <mj-text
+          color="white"
           align="center"
-          font-size="14px"
+          font-size="18px"
+          font-weight="500"
           line-height="1.4"
-          padding-top="0"
-          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
-          volutpat.
-        </mj-text>
+          >Your Furniture, Your Way</mj-text
+        >
+
+        <mj-button
+          color="black"
+          href="https://monarchsofas.com/"
+          background-color="white"
+          padding="24px"
+          >Shop Now</mj-button
+        >
       </mj-column>
     </mj-section>
 
