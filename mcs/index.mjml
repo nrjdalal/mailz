@@ -23,17 +23,25 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#0EA5E9">
       <mj-column>
-        <mj-image src="" alt="" />
-        <mj-text align="center" line-height="1.4"
-          >Many Styles to Choose From</mj-text
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/layers.png"
+          alt=""
+          width="48px"
+        />
+        <mj-text align="center" line-height="1.4" font-weight="500"
+          >Multiple Options</mj-text
         >
       </mj-column>
 
       <mj-column>
-        <mj-image src="" alt="" />
-        <mj-text align="center" line-height="1.4"
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/clock.png"
+          alt=""
+          width="48px"
+        />
+        <mj-text align="center" line-height="1.4" font-weight="500"
           >Fast Quality Production</mj-text
         >
       </mj-column>
@@ -44,7 +52,9 @@
           alt=""
           width="48px"
         />
-        <mj-text align="center" line-height="1.4">Nationwide delivery</mj-text>
+        <mj-text align="center" line-height="1.4" font-weight="500"
+          >Nationwide Delivery</mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
