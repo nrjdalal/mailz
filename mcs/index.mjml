@@ -12,5 +12,36 @@
         />
       </mj-column>
     </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="" alt="" />
+        <mj-text align="center" line-height="1.4"
+          >Many Styles to Choose From</mj-text
+        >
+      </mj-column>
+
+      <mj-column>
+        <mj-image src="" alt="" />
+        <mj-text align="center" line-height="1.4"
+          >Fast Quality Production</mj-text
+        >
+      </mj-column>
+
+      <mj-column>
+        <mj-image src="" alt="" />
+        <mj-text align="center" line-height="1.4">Nationwide delivery</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
