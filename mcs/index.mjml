@@ -6,6 +6,7 @@
     >
       <mj-column>
         <mj-image
+          href="https://monarchsofas.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
           alt=""
           width="300px"
@@ -16,6 +17,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
+          href="https://monarchsofas.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
           alt=""
           padding="0"
