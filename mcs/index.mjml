@@ -52,7 +52,11 @@
           alt=""
           width="48px"
         />
-        <mj-text align="center" line-height="1.4" font-weight="500"
+        <mj-text
+          align="center"
+          line-height="1.4"
+          font-weight="500"
+          color="white"
           >Nationwide Delivery</mj-text
         >
       </mj-column>
