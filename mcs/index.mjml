@@ -1,0 +1,16 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          alt=""
+          width="144px"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
