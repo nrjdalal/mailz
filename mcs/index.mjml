@@ -30,9 +30,11 @@
         <mj-text
           align="center"
           font-size="18px"
-          font-weight="500"
+          font-weight="600"
           line-height="1.4"
-          >Our Custom Furniture - Done Your Way.
+          >Our Custom Furniture
+          <br />
+          Done Your Way
         </mj-text>
 
         <mj-text align="center" font-size="14px" line-height="1.4">
