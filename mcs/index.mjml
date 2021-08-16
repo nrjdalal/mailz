@@ -6,9 +6,9 @@
     >
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
           alt=""
-          width="144px"
+          width="300px"
         />
       </mj-column>
     </mj-section>
