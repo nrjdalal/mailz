@@ -110,7 +110,7 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/feature-01.webp"
           alt=""
           width="300px"
           padding-top="24px"
@@ -122,7 +122,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >30% off on all items</mj-text
+          >4-IN-1 HAMMOCK</mj-text
         >
 
         <mj-button
@@ -150,7 +150,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >Your Furniture, Your Way</mj-text
+          >DURABLE & WEAR-RESISTANT</mj-text
         >
 
         <mj-button
