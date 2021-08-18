@@ -7,7 +7,7 @@
     >
       <mj-column>
         <mj-image
-          href="https://monarchsofas.com/"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/logo.webp"
           alt=""
           width="300px"
@@ -19,7 +19,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          href="https://monarchsofas.com/"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/hero.webp"
           alt=""
           padding="0"
@@ -34,7 +34,7 @@
           font-size="18px"
           font-weight="600"
           line-height="1.4"
-          >Dog Car Seat Cover
+          >Comfort for Your Pet
         </mj-text>
 
         <mj-text align="center" font-size="14px" line-height="1.4">
@@ -52,10 +52,10 @@
         </mj-text>
 
         <mj-button
-          href="https://monarchsofas.com/"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
           background-color="#126de5"
           padding="24px"
-          >BUY NOW</mj-button
+          >GET YOURS NOW</mj-button
         >
       </mj-column>
     </mj-section>
@@ -126,7 +126,7 @@
         >
 
         <mj-button
-          href="https://monarchsofas.com/"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
           background-color="#126de5"
           padding="24px"
           >Shop Now</mj-button
@@ -137,7 +137,7 @@
     <mj-section background-color="#126de5">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/feature-02.webp"
           alt=""
           width="300px"
           padding-top="24px"
@@ -155,7 +155,7 @@
 
         <mj-button
           color="black"
-          href="https://monarchsofas.com/"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
           background-color="white"
           padding="24px"
           >Shop Now</mj-button
@@ -163,24 +163,67 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="white">
       <mj-column>
-        <mj-text color="white" align="center" font-size="14px" line-height="1.4"
-          >Copyright © 2021, Monarch Sofas
-        </mj-text>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/feature-03.webp"
+          alt=""
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
+        />
 
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/monarchsofas"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="instagram"
-            href="https://www.instagram.com/monarchsofas/"
-          >
-          </mj-social-element>
-        </mj-social>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >MESH WINDOW</mj-text
+        >
+
+        <mj-button
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
+          background-color="#126de5"
+          padding="24px"
+          >Shop Now</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#126de5">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/feature-04.webp"
+          alt=""
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
+        />
+
+        <mj-text
+          color="white"
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >EASY TO CLEAN</mj-text
+        >
+
+        <mj-button
+          color="black"
+          href="https://www.humblebeepromotions.com/products/prodigen-dog-car-seat-cover-waterproof-pet-travel-dog-carrier-car-trunk-protector-mattress-car-hammock-carrier-for-dogs"
+          background-color="white"
+          padding="24px"
+          >Shop Now</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black" align="center" font-size="14px" line-height="1.4"
+          >© 2021 Humble Bee Promotions
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
