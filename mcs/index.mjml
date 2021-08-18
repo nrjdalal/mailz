@@ -7,7 +7,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.png"
           alt=""
           width="300px"
         />
@@ -18,7 +18,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.png"
           alt=""
           padding="0"
         />
@@ -106,7 +106,7 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.png"
           alt=""
           width="300px"
           padding-top="24px"
@@ -133,7 +133,7 @@
     <mj-section background-color="#126de5">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.png"
           alt=""
           width="300px"
           padding-top="24px"
