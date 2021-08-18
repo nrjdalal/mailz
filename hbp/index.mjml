@@ -1,0 +1,183 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="https://monarchsofas.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          href="https://monarchsofas.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="600"
+          line-height="1.4"
+          >Our Custom Furniture
+          <br />
+          Done Your Way
+        </mj-text>
+
+        <mj-text align="center" font-size="14px" line-height="1.4">
+          Monarch Sofas has become the design industry standard. Our team stands
+          ready to assist you with your smallest to largest scale projects with
+          perfect timing. <br /><br />
+          Select from top quality fabrics and fills to delight even your most
+          discerning clientele.
+          <br /><br />
+          Ask About Our Trade Program!
+        </mj-text>
+
+        <mj-button
+          href="https://monarchsofas.com/"
+          background-color="#126de5"
+          padding="24px"
+          >Browse Our Models Here</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#126de5">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/layers(1).png"
+          alt=""
+          width="48px"
+        />
+        <mj-text
+          align="center"
+          line-height="1.4"
+          font-weight="500"
+          color="white"
+          >Multiple Options</mj-text
+        >
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/clock(1).png"
+          alt=""
+          width="48px"
+        />
+        <mj-text
+          align="center"
+          line-height="1.4"
+          font-weight="500"
+          color="white"
+          >Fast Quality Production</mj-text
+        >
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/airplane(1).png"
+          alt=""
+          width="48px"
+        />
+        <mj-text
+          align="center"
+          line-height="1.4"
+          font-weight="500"
+          color="white"
+          >Nationwide Delivery</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
+          alt=""
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >30% off on all items</mj-text
+        >
+
+        <mj-button
+          href="https://monarchsofas.com/"
+          background-color="#126de5"
+          padding="24px"
+          >Shop Now</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#126de5">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.webp"
+          alt=""
+          width="300px"
+          padding-top="24px"
+          border-radius="24px"
+        />
+
+        <mj-text
+          color="white"
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Your Furniture, Your Way</mj-text
+        >
+
+        <mj-button
+          color="black"
+          href="https://monarchsofas.com/"
+          background-color="white"
+          padding="24px"
+          >Shop Now</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text color="white" align="center" font-size="14px" line-height="1.4"
+          >Copyright © 2021, Monarch Sofas
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/monarchsofas"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/monarchsofas/"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
