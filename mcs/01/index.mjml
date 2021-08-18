@@ -24,7 +24,7 @@
       <mj-column>
         <mj-image
           alt=""
-          href="https://www.againstdeception.com/"
+          href="https://monarchsofas.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
           padding="0"
         />
@@ -63,16 +63,13 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
-          href="https://againstdeception.hearnow.com/two-steps"
+          href="https://monarchsofas.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
           alt=""
           padding="24px"
         />
 
-        <mj-button
-          background-color="#BE185D"
-          href="https://againstdeception.hearnow.com/two-steps"
-        >
+        <mj-button background-color="#BE185D" href="https://monarchsofas.com">
           BUY NOW
         </mj-button>
 
@@ -108,7 +105,7 @@
     <mj-section background-color="#BE185D" padding="36px 0">
       <mj-column>
         <mj-image
-          href="https://againstdeception.hearnow.com/limitless-love"
+          href="https://monarchsofas.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.webp"
           alt=""
           padding="24px"
@@ -117,7 +114,7 @@
         <mj-button
           background-color="#F9FAFB"
           color="#BE185D"
-          href="https://againstdeception.hearnow.com/limitless-love"
+          href="https://monarchsofas.com"
         >
           BUY NOW
         </mj-button>
@@ -152,17 +149,14 @@
     <mj-section background-color="#F9FAFB">
       <mj-column>
         <mj-image
-          href="https://againstdeception.hearnow.com/paradox-of-danger"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/03.jpg"
+          href="https://monarchsofas.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-04.webp"
           alt=""
           padding="24px"
         />
 
-        <mj-button
-          background-color="#BE185D"
-          href="https://againstdeception.hearnow.com/paradox-of-danger"
-        >
-          PLAY NOW
+        <mj-button background-color="#BE185D" href="https://monarchsofas.com">
+          BUY NOW
         </mj-button>
 
         <mj-text
@@ -196,8 +190,8 @@
     <mj-section background-color="#BE185D" padding="36px 0">
       <mj-column>
         <mj-image
-          href="https://againstdeception.hearnow.com/fly-heights-unknown"
-          src="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/againstdeception/assets/04.jpg"
+          href="https://monarchsofas.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-05.webp"
           alt=""
           padding="24px"
         />
@@ -205,9 +199,9 @@
         <mj-button
           background-color="#F9FAFB"
           color="#BE185D"
-          href="https://againstdeception.hearnow.com/fly-heights-unknown"
+          href="https://monarchsofas.com"
         >
-          PLAY NOW
+          BUY NOW
         </mj-button>
 
         <mj-text
@@ -252,7 +246,7 @@
           For more information about US,
           <br />
           Visit -
-          <a href="https://www.againstdeception.com">monarchsofas.com</a>
+          <a href="https://monarchsofas.com">monarchsofas.com</a>
         </mj-text>
       </mj-column>
     </mj-section>
