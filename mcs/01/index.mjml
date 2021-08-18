@@ -12,7 +12,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.png"
           alt=""
           width="300px"
         />
@@ -24,7 +24,7 @@
         <mj-image
           alt=""
           href="https://monarchsofas.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-01.png"
           padding="0"
         />
 
@@ -65,7 +65,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-02.png"
           alt=""
           padding="24px"
           border-radius="10px"
@@ -108,7 +108,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-03.png"
           alt=""
           padding="24px"
           border-radius="10px"
@@ -153,7 +153,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-04.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-04.png"
           alt=""
           padding="24px"
           border-radius="10px"
@@ -195,7 +195,7 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-05.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/sofa-05.png"
           alt=""
           padding="24px"
           border-radius="10px"
