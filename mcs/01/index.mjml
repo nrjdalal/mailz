@@ -8,7 +8,6 @@
     <!-- header -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/emaildemo/master/universal/white.png"
-      padding="0"
     >
       <mj-column>
         <mj-image
