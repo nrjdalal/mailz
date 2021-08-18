@@ -3,13 +3,15 @@
   <mj-body>
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
     >
       <mj-column>
         <mj-image
           href="https://monarchsofas.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hbp/assets/logo.webp"
           alt=""
           width="300px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
@@ -38,13 +40,17 @@
         </mj-text>
 
         <mj-text align="center" font-size="14px" line-height="1.4">
-          Monarch Sofas has become the design industry standard. Our team stands
-          ready to assist you with your smallest to largest scale projects with
-          perfect timing. <br /><br />
-          Select from top quality fabrics and fills to delight even your most
-          discerning clientele.
+          If you have a car and a furry best friend, then you’ve got a recipe
+          for success when it comes to embarking on new adventures together or
+          traveling with family.
           <br /><br />
-          Ask About Our Trade Program!
+          For that reason, you’ll need a reliable dog back seat cover designed
+          to keep your dog comfortable and safe while also keeping your vehicle
+          clean. Add our 4-in-1 dog car seat cover to your collection of pet
+          accessories today!
+          <br /><br />
+          Also, check out our site for more info including a blog review from a
+          licensed veterinarian!!
         </mj-text>
 
         <mj-button
