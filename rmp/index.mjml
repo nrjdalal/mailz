@@ -7,10 +7,51 @@
       <mj-column>
         <mj-image
           href="https://monarchsofas.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/logo.png"
           alt=""
-          width="300px"
+          width="256px"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          padding-top="0"
+          >LET'S BEGIN YOUR ORGANIC PROMOTION WITH ROYAL MUSIC
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Lorem ipsum dolor sit amet</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
+          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
+          volutpat.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
