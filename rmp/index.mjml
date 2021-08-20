@@ -30,7 +30,7 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/airplane(1).png"
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
           alt=""
           width="96px"
         />
@@ -40,7 +40,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >Lorem ipsum dolor sit amet</mj-text
+          >SOUNDCLOUD</mj-text
         >
 
         <mj-text
@@ -48,10 +48,10 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-          hendrerit mauris ac ex mollis, sed pulvinar ligula lacinia. Cras
-          volutpat.
+          >Real and Premium Soundcloud Promotions
         </mj-text>
+
+        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
