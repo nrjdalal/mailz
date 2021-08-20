@@ -1,0 +1,17 @@
+<mjml>
+  <mj-head> </mj-head>
+  <mj-body>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="https://monarchsofas.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/mcs/assets/logo.png"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
