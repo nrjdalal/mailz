@@ -30,9 +30,9 @@
     <mj-section background-color="black" padding="15px 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/soundcloud.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
@@ -56,9 +56,9 @@
 
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/instagram.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
@@ -84,9 +84,9 @@
     <mj-section background-color="black" padding="0 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/youtube.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
@@ -110,9 +110,9 @@
 
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/tiktok.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
@@ -138,9 +138,9 @@
     <mj-section background-color="black" padding="0 15px 15px 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/spotify.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
@@ -164,9 +164,9 @@
 
       <mj-column background-color="white" padding="15px">
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/audiomack.png"
           alt=""
-          width="96px"
+          width="48px"
         />
 
         <mj-text
