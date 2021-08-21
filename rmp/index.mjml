@@ -27,6 +27,16 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/classroom.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
     <mj-section background-color="black" padding="15px 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
@@ -263,7 +273,141 @@
           line-height="1.4"
           padding-top="0"
           >We use Premium Marketing Techniques to promote your music and gain as
-          much attraction as possible.
+          much attraction as possible
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/money-back-guarantee.png"
+          alt=""
+          width="48px"
+          padding-top="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >MONEY BACK GUARANTEE
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >We use Premium Marketing Techniques to promote your music
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/fast-support.png"
+          alt=""
+          width="48px"
+          padding-top="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >FAST SUPPORT
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Need fast Support? Our team will always respond to any questions you
+          might have within a 24 hour period
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/guaranteed-results.png"
+          alt=""
+          width="48px"
+          padding-top="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >GUARANTEED RESULTS
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >You will not be disappointed with our service
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/outstanding-results.png"
+          alt=""
+          width="48px"
+          padding-top="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >OUTSTANDING RESULTS
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Premium Soundcloud Promotions
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          color="white"
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Why You Should Use “Royal Music Promotions” To Promote Your Music?
+        </mj-text>
+
+        <mj-text
+          color="white"
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="12px"
+          >Royal music promotion helps music videos achieve millions of views
+          across social media, and our team uses these videos to support
+          securing massive playlist placements across social media and Spotify.
+          It’s challenging to get your music heard in today’s music industry.
+          Everybody can create and upload their music to streaming service sites
+          from their bedroom. <br /><br />
+          If you are looking for real and organic music promotion, then look no
+          further. We have got you covered! Here at royal music, our organic
+          music promotion will get you 100% genuine and real coverage on your
+          music. We got you and we understand that there is no impact on your
+          tracks with bots and fake plays. We take pride in providing 100% real
+          music promotion and you will see that.
+          <br /><br />
+          In our music promotion, we focus on your potential audience with the
+          goal that will assist you with increasing the fan base. Nobody gives
+          this kind of natural Soundcloud promotion in the market at a
+          reasonable cost. With years of experience and an experienced team, we
+          will get your music stand out of the crowd and you will get real
+          streams, follow likes, and reposts from 100% real individuals with our
+          organic music promotion.
         </mj-text>
       </mj-column>
     </mj-section>
