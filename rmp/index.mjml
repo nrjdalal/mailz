@@ -27,7 +27,115 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#dddddd" padding="15px">
+    <mj-section background-color="black" padding="15px 15px 0 15px ">
+      <mj-column background-color="white" padding="15px">
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >SOUNDCLOUD</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Premium Soundcloud Promotions
+        </mj-text>
+
+        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+      </mj-column>
+
+      <mj-column background-color="white" padding="15px">
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >INSTAGRAM</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Organic Instagram Promotions
+        </mj-text>
+
+        <mj-button background-color="#126de5">INSTAGRAM SERVICES</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 15px 0 15px ">
+      <mj-column background-color="white" padding="15px">
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >YOUTUBE</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Organic Youtube Promotions
+        </mj-text>
+
+        <mj-button background-color="#126de5">YOUTUBE SERVICES</mj-button>
+      </mj-column>
+
+      <mj-column background-color="white" padding="15px">
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >SOUNDCLOUD</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Premium Soundcloud Promotions
+        </mj-text>
+
+        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="0 15px 15px 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
@@ -135,7 +243,7 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/great-price.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/premium-marketing.png"
           alt=""
           width="48px"
           padding-top="24px"
