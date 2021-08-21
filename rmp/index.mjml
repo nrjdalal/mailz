@@ -120,7 +120,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >SOUNDCLOUD</mj-text
+          >TIKTOK</mj-text
         >
 
         <mj-text
@@ -128,10 +128,10 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >Real and Premium Soundcloud Promotions
+          >Real and Premium TikTok Promotions
         </mj-text>
 
-        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+        <mj-button background-color="#126de5">TIKTOK SERVICES</mj-button>
       </mj-column>
     </mj-section>
 
@@ -148,7 +148,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >SOUNDCLOUD</mj-text
+          >SPOTIFY</mj-text
         >
 
         <mj-text
@@ -156,10 +156,10 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >Real and Premium Soundcloud Promotions
+          >Real and Premium Spotify Promotions
         </mj-text>
 
-        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+        <mj-button background-color="#126de5">SPOTIFY SERVICES</mj-button>
       </mj-column>
 
       <mj-column background-color="white" padding="15px">
@@ -174,7 +174,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >SOUNDCLOUD</mj-text
+          >AUDIOMACK</mj-text
         >
 
         <mj-text
@@ -182,10 +182,10 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >Real and Premium Soundcloud Promotions
+          >Real and Premium Audiomack Promotions
         </mj-text>
 
-        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+        <mj-button background-color="#126de5">AUDIOMACK SERVICES</mj-button>
       </mj-column>
     </mj-section>
 
@@ -193,7 +193,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="20px"
           font-weight="500"
           line-height="1.4"
           >ABOUT ROYAL MUSIC</mj-text
