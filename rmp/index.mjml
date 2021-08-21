@@ -30,7 +30,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/classroom.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero.jpg"
           alt=""
           padding="0"
         />
