@@ -27,8 +27,8 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
-      <mj-column>
+    <mj-section background-color="#dddddd" padding="15px">
+      <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
           alt=""
@@ -52,6 +52,86 @@
         </mj-text>
 
         <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+      </mj-column>
+
+      <mj-column background-color="white" padding="15px">
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >SOUNDCLOUD</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >Real and Premium Soundcloud Promotions
+        </mj-text>
+
+        <mj-button background-color="#126de5">SOUNDCLOUD SERVICES</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >About Royal Music</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >We’ve been striving for the past 7 years to provide the Best Music
+          Promotion Services for thousands of artists. Every creator’s goal is
+          to have their music heard by a large audience. We will make it easier
+          for you to build a solid legit foundation of followers and subscribers
+          and have your music heard worldwide.We always provide 100% Real and
+          organic music promotion to our clients. <br /><br />
+          You can easily choose from our social media promotion packages
+          covering all the main networks relevant in promoting artists. Promote
+          your work to your target audience through YouTube, Spotify,
+          SoundCloud, and Instagram. We will do the hard work necessary to
+          consolidate an audience of real people, with real accounts and
+          following the rules of each individual social network.
+        </mj-text>
+
+        <mj-image
+          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          alt=""
+          width="96px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >Great Price
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >1$ starting price makes our service affordable and the greatest value
+          for money to promote your music
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
