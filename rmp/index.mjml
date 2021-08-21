@@ -88,7 +88,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >About Royal Music</mj-text
+          >ABOUT ROYAL MUSIC</mj-text
         >
 
         <mj-text
@@ -111,9 +111,10 @@
         </mj-text>
 
         <mj-image
-          src="https://1000logos.net/wp-content/uploads/2020/08/SoundCloud-Logo-500x313.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/great-price.png"
           alt=""
-          width="96px"
+          width="48px"
+          padding-top="24px"
         />
 
         <mj-text
@@ -121,7 +122,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          >Great Price
+          >GREAT PRICE
         </mj-text>
 
         <mj-text
@@ -131,6 +132,30 @@
           padding-top="0"
           >1$ starting price makes our service affordable and the greatest value
           for money to promote your music
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/great-price.png"
+          alt=""
+          width="48px"
+          padding-top="24px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >PREMIUM MARKETING
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >We use Premium Marketing Techniques to promote your music and gain as
+          much attraction as possible.
         </mj-text>
       </mj-column>
     </mj-section>
