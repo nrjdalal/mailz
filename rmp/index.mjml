@@ -14,8 +14,31 @@
       </mj-column>
     </mj-section>
 
+    <mj-hero
+      mode="fluid-height"
+      background-width="600px"
+      background-height="469px"
+      background-url="https://images.unsplash.com/photo-1504704911898-68304a7d2807?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      background-color="#2a3448"
+      padding="100px 0px"
+    >
+      <mj-text
+        padding="20px"
+        color="#ffffff"
+        font-family="Helvetica"
+        align="center"
+        font-size="45px"
+        font-weight="900"
+        line-height="1.4"
+      >
+        REAL FLUCTUATION WILL MAKE YOUR MUSIC BETTER
+      </mj-text>
+    </mj-hero>
+
     <mj-section background-color="white">
       <mj-column>
+        <mj-image src="" alt="" />
+
         <mj-text
           align="center"
           font-size="18px"
@@ -24,16 +47,6 @@
           padding-top="0"
           >LET'S BEGIN YOUR ORGANIC PROMOTION WITH ROYAL MUSIC
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero.jpg"
-          alt=""
-          padding="0"
-        />
       </mj-column>
     </mj-section>
 
