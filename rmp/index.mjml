@@ -14,11 +14,23 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="#BAE6FD">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          >LET'S BEGIN YOUR ORGANIC PROMOTION WITH ROYAL MUSIC
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
     <mj-hero
       mode="fluid-height"
       background-width="600px"
       background-height="500px"
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero-alt.webp"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero.png"
       background-color="#2a3448"
       padding="100px 0px"
     >
