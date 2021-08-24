@@ -18,7 +18,7 @@
       mode="fluid-height"
       background-width="600px"
       background-height="469px"
-      background-url="https://images.unsplash.com/photo-1504704911898-68304a7d2807?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero-alt.webp"
       background-color="#2a3448"
       padding="100px 0px"
     >
@@ -27,12 +27,18 @@
         color="#ffffff"
         font-family="Helvetica"
         align="center"
-        font-size="45px"
-        font-weight="900"
+        font-size="36px"
         line-height="1.4"
       >
         REAL FLUCTUATION WILL MAKE YOUR MUSIC BETTER
       </mj-text>
+
+      <mj-button
+        background-color="black"
+        border="1px solid white"
+        href="https://www.royalmusicpromotion.com/"
+        >LEARN MORE</mj-button
+      >
     </mj-hero>
 
     <mj-section background-color="white">
@@ -495,10 +501,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="white">
       <mj-column>
         <mj-text
-          color="white"
           align="center"
           font-size="18px"
           font-weight="500"
@@ -507,7 +512,6 @@
         </mj-text>
 
         <mj-text
-          color="white"
           align="center"
           font-size="14px"
           line-height="1.4"
@@ -611,19 +615,13 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <mj-section background-color="white">
       <mj-column>
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          color="white"
-        >
+        <mj-text align="center" font-size="14px" line-height="1.4">
           © 2021, Royal Music Promotions
         </mj-text>
 
         <mj-text
-          color="white"
           align="center"
           font-size="14px"
           line-height="1.4"
