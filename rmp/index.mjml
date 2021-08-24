@@ -37,20 +37,45 @@
 
     <mj-section background-color="white">
       <mj-column>
-        <mj-image src="" alt="" />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/music-logos.png"
+          alt=""
+          padding-bottom="36px"
+        />
 
         <mj-text
           align="center"
-          font-size="18px"
-          font-weight="500"
+          font-size="20px"
+          font-weight="600"
+          line-height="1.4"
+          >WHAT IS ROYAL MUSIC PROMOTION
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
           line-height="1.4"
           padding-top="0"
-          >LET'S BEGIN YOUR ORGANIC PROMOTION WITH ROYAL MUSIC
+        >
+          <br />
+          We’ve been striving for the past 7 years to provide the Best Music
+          Promotion Services for thousands of artists. Every creator’s goal is
+          to have their music heard by a large audience. We will make it easier
+          for you to build a solid legit foundation of followers and subscribers
+          and have your music heard worldwide.We always provide 100% Real and
+          organic music promotion to our clients.
+          <br /><br />
+          You can easily choose from our social media promotion packages
+          covering all the main networks relevant in promoting artists. Promote
+          your work to your target audience through YouTube, Spotify,
+          SoundCloud, and Instagram. We will do the hard work necessary to
+          consolidate an audience of real people, with real accounts and
+          following the rules of each individual social network.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding="15px 15px 0 15px ">
+    <mj-section background-color="black" padding="36px 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/soundcloud.png"
@@ -174,7 +199,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black" padding="0 15px 15px 15px ">
+    <mj-section background-color="black" padding="0 15px 36px 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/spotify.png"
@@ -243,27 +268,8 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          >ABOUT ROYAL MUSIC</mj-text
+          >Why You Should Use Our Services To Promote Your Music?</mj-text
         >
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          >We’ve been striving for the past 7 years to provide the Best Music
-          Promotion Services for thousands of artists. Every creator’s goal is
-          to have their music heard by a large audience. We will make it easier
-          for you to build a solid legit foundation of followers and subscribers
-          and have your music heard worldwide.We always provide 100% Real and
-          organic music promotion to our clients. <br /><br />
-          You can easily choose from our social media promotion packages
-          covering all the main networks relevant in promoting artists. Promote
-          your work to your target audience through YouTube, Spotify,
-          SoundCloud, and Instagram. We will do the hard work necessary to
-          consolidate an audience of real people, with real accounts and
-          following the rules of each individual social network.
-        </mj-text>
 
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/great-price.png"
@@ -408,7 +414,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="black">
+    <!-- <mj-section background-color="black">
       <mj-column>
         <mj-text
           color="white"
@@ -447,7 +453,7 @@
           organic music promotion.
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <mj-section background-color="white">
       <mj-column>
