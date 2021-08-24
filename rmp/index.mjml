@@ -41,7 +41,7 @@
       >
     </mj-hero>
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/music-logos.png"
@@ -81,7 +81,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF" padding="36px 15px 0 15px ">
+    <mj-section background-color="#BAE6FD" padding="36px 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/soundcloud.png"
@@ -143,7 +143,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF" padding="0 15px 0 15px ">
+    <mj-section background-color="#BAE6FD" padding="0 15px 0 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/youtube.png"
@@ -205,7 +205,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF" padding="0 15px 36px 15px ">
+    <mj-section background-color="#BAE6FD" padding="0 15px 36px 15px ">
       <mj-column background-color="white" padding="15px">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/spotify.png"
@@ -267,7 +267,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text
           align="center"
@@ -461,7 +461,7 @@
       </mj-column>
     </mj-section> -->
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#BAE6FD">
       <mj-column>
         <mj-text
           align="center"
@@ -501,7 +501,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text
           align="center"
@@ -553,7 +553,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#BAE6FD">
       <mj-column>
         <mj-text
           align="center"
@@ -615,7 +615,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#F0F9FF">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text align="center" font-size="14px" line-height="1.4">
           © 2021, Royal Music Promotions
