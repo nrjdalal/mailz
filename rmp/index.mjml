@@ -38,6 +38,19 @@
         color="#ffffff"
         font-family="Helvetica"
         align="center"
+        font-size="24px"
+        line-height="1.4"
+      >
+        HELLO THERE,
+        <br /><br />
+        WE ARE ROYAL MUSIC PROMOTION CORP
+      </mj-text>
+
+      <mj-text
+        padding="20px"
+        color="#ffffff"
+        font-family="Helvetica"
+        align="center"
         font-size="36px"
         line-height="1.4"
       >
