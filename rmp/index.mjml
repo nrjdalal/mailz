@@ -17,7 +17,7 @@
     <mj-hero
       mode="fluid-height"
       background-width="600px"
-      background-height="469px"
+      background-height="500px"
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/rmp/assets/hero-alt.webp"
       background-color="#2a3448"
       padding="100px 0px"
