@@ -9,6 +9,7 @@
     >
       <mj-column>
         <mj-image
+          href="https://alexanderthedon.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/donovan-alexander-fitness/assets/logo.png"
           alt=""
           width="256px"
@@ -17,6 +18,48 @@
     </mj-section>
 
     <!-- section 01 -->
+    <mj-section background-color="black" padding-bottom="32px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="white"
+        >
+          HI { USERNAME },
+          <br />
+          WELCOME TO DONOVAN ALEXANDER FITNESS!</mj-text
+        >
+
+        <mj-image
+          href="https://alexanderthedon.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/donovan-alexander-fitness/assets/daf.png"
+          alt=""
+          width="400px"
+          padding="40px"
+          border-radius="40px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.5"
+          padding-top="0"
+          color="white"
+          >THANK YOU FOR JOINING MY SQUAD AND CHOOSING TO START YOUR FITNESS
+          WITH ME. MY NEWSLETTERS WILL KEEP YOU INFORMED ON THE LATEST EXERCISE
+          PROGRAMS, SPORTS SUPPLEMENTAL EDUCATION, SCHEDULED CLASSES & EVENTS.
+        </mj-text>
+
+        <mj-button
+          background-color="#126de5"
+          href="https://alexanderthedon.com/"
+          >START YOUR JOURNEY NOW!</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
     <mj-section background-color="white">
       <mj-column>
         <mj-text
@@ -24,23 +67,74 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-        >
-          HI { USERNAME },
-          <br />
-          WELCOME TO DONOVAN ALEXANDER FITNESS!</mj-text
-        >
+          >WHEN COMES TO GETTING STARTED A STRONG A SUPPORT SYSTEM IS ESSENTIAL
+          MAKING SURE YOU STAY ON TRACK.
+        </mj-text>
 
         <mj-text
           align="center"
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >THANK YOU FOR JOINING MY SQUAD AND CHOOSING TO START YOUR FITNESS
-          WITH ME. MY NEWSLETTERS WILL KEEP YOU INFORMED ON THE LATEST EXERCISE
-          PROGRAMS, SPORTS SUPPLEMENTAL EDUCATION, SCHEDULED CLASSES & EVENTS.
+          >IF YOU HAVE A FRIEND OR LOVE ONE WHO’S INTERESTED IN REACHING THEIR
+          GOALS, REFER-A-FRIEND AND SAVE 25% OFF YOUR FIRST ORDER.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+        >
+          <a
+            href="tel:(917)-485-5046"
+            style="text-decoration: none; color: white"
+            >(917)-485-5046</a
+          >
         </mj-text>
 
-        <mj-button background-color="#126de5">Lorem ipsum</mj-button>
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+        >
+          <a
+            href="mailto:info.alexanderthedon@gmail.com"
+            style="text-decoration: none; color: white"
+            >info.alexanderthedon@gmail.com</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://alexanderthedon.com/"
+          >
+          </mj-social-element>
+          <mj-social-element name="google" href="https://alexanderthedon.com/">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://alexanderthedon.com/">
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          line-height="1.4"
+          color="white"
+        >
+          <a
+            href="mailto:info.alexanderthedon@gmail.com?subject=unsubscribe"
+            style="text-decoration: none; color: white"
+            >UNSUBSCRIBE HERE</a
+          >
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
