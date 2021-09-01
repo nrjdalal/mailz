@@ -1,24 +1,46 @@
 <mjml>
-  <mj-head> </mj-head>
+  <mj-head>
+    <!-- donovan-alexander-fitness -->
+  </mj-head>
   <mj-body>
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      border="5px solid #64748B"
-    >
-      <mj-column>
-        <mj-text align="center" font-size="20px">1</mj-text>
-      </mj-column>
-    </mj-section>
-
+    <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
     >
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/placeholders/google.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/donovan-alexander-fitness/assets/logo.png"
           alt=""
-          width="144px"
+          width="256px"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 01 -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+        >
+          HI { USERNAME },
+          <br />
+          WELCOME TO DONOVAN ALEXANDER FITNESS!</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          >THANK YOU FOR JOINING MY SQUAD AND CHOOSING TO START YOUR FITNESS
+          WITH ME. MY NEWSLETTERS WILL KEEP YOU INFORMED ON THE LATEST EXERCISE
+          PROGRAMS, SPORTS SUPPLEMENTAL EDUCATION, SCHEDULED CLASSES & EVENTS.
+        </mj-text>
+
+        <mj-button background-color="#126de5">Lorem ipsum</mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
