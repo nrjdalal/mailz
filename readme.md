@@ -1,4 +1,4 @@
-# $5
+# ruby
 https://emaildemo.vercel.app/ad-im
 <br>
 https://emaildemo.vercel.app/adb
@@ -9,7 +9,7 @@ https://emaildemo.vercel.app/customcleanbnb/02
 <br>
 https://emaildemo.vercel.app/im
 
-# $10
+# sapphire
 https://emaildemo.vercel.app/nmims/01
 <br>
 https://mailz.vercel.app/donovan-alexander-fitness
@@ -18,7 +18,7 @@ https://mailz.vercel.app/mcs
 <br>
 https://mailz.vercel.app/mcs/01
 
-# $15
+# emerald
 https://emaildemo.vercel.app/againstdeception
 <br>
 https://emaildemo.vercel.app/digypet/01
