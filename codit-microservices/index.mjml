@@ -18,7 +18,7 @@
     </mj-section>
 
     <!-- section 01 -->
-    <mj-section background-color="black" padding-bottom="32px">
+    <mj-section background-color="black">
       <mj-column>
         <mj-text
           align="center"
@@ -40,13 +40,26 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="white">
+    <!-- section 02 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black">
       <mj-column>
         <mj-text
           align="center"
           font-size="18px"
           font-weight="500"
           line-height="1.4"
+          color="white"
           >WHEN COMES TO GETTING STARTED A STRONG A SUPPORT SYSTEM IS ESSENTIAL
           MAKING SURE YOU STAY ON TRACK.
         </mj-text>
