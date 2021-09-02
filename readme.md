@@ -1,13 +1,13 @@
 # ruby
 https://emaildemo.vercel.app/ad-im
-<br>
-https://emaildemo.vercel.app/adb
+<!-- <br>
+https://emaildemo.vercel.app/adb -->
 <br>
 https://emaildemo.vercel.app/customcleanbnb/01
 <br>
 https://emaildemo.vercel.app/customcleanbnb/02
-<br>
-https://emaildemo.vercel.app/im
+<!-- <br>
+https://emaildemo.vercel.app/im -->
 
 # sapphire
 https://emaildemo.vercel.app/nmims/01
