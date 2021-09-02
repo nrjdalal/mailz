@@ -146,6 +146,7 @@
           background-color="deepskyblue"
           color="black"
           font-weight="500"
+          href="https://cod-it.tech"
         >
           Get a Consultation
         </mj-button>
