@@ -166,6 +166,87 @@
       </mj-column>
     </mj-section>
 
+    <!-- section 07 -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Over 7 years experience of IT consulting for fortune 500 companies in
+          Atlanta, GA.
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >What our clients say about us
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="12px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >“Jason was very skilled and a strong professional. We had a complex
+          project with a lot of moving parts–migrating a Wall Street hedge
+          fund’s AI-based research platform from AWS to GCP. Across the diverse
+          set of technical skills needed to get the job done, Jason came in as a
+          GCP architecture SME. He communicated what he was strong on and
+          equally important, the things that were stretches. This helped our
+          tech leads to get the max value out of what he could contribute. He
+          did what he said he was going to do and played well with the other
+          disciplines. Can’t wait for our next project!” <br /><br />
+          “We hired CodIT to help us migrate our kubernetes infrastructure to a
+          new cluster with more modern settings and tightened security. He was
+          attentive to detail, comfortable in guiding us through the entire
+          configuration (resource selection, migration tooling, intra-cluster
+          comms for seamless transition, network ranges, etc), and was able to
+          suggest alternative solutions where our system had special cases. He
+          was a great asset!” <br /><br />
+          “We hired and sourced CodIT for one of our platform implementation
+          projects for one of our corporate clients. Our client contracted us to
+          set up a Google Cloud Platform Developer Suite in order that their
+          developers can migrate to a more flexible and up to date data
+          transfer, storage, and display platform. For every project our company
+          takes on, our clients provide us a set of budget hours to execute the
+          initiative along with a project schedule. This particular client’s
+          milestone schedule was pretty compact (6 months). However, Jason
+          satisfied the migration objectives under budget with an excess of 2
+          weeks to which he presented production handover sessions with the
+          client’s Information Systems team. I will definitely be hiring Jason
+          again for additional product mounts onto their platform.”
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section 08 -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          href="https://cod-it.tech"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.png"
+          alt=""
+          width="256px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- footer -->
     <mj-section background-color="black">
       <mj-column>
