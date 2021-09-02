@@ -6,8 +6,6 @@ https://emaildemo.vercel.app/customcleanbnb/01
 https://emaildemo.vercel.app/customcleanbnb/02
 
 # sapphire
-https://emaildemo.vercel.app/nmims/01
-<br>
 https://mailz.vercel.app/donovan-alexander-fitness
 <br>
 https://mailz.vercel.app/mcs
