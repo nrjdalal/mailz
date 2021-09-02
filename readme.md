@@ -33,6 +33,6 @@ https://mailz.vercel.app/hbp
 <br>
 https://mailz.vercel.app/rmp/01.html
 
-# Misc
-https://emaildemo.vercel.app/extra/pp/01
+<!-- # Misc
+https://emaildemo.vercel.app/extra/pp/01 -->
 
