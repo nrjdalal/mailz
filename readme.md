@@ -11,6 +11,12 @@ https://emaildemo.vercel.app/im
 
 # $10
 https://emaildemo.vercel.app/nmims/01
+<br>
+https://mailz.vercel.app/donovan-alexander-fitness
+<br>
+https://mailz.vercel.app/mcs
+<br>
+https://mailz.vercel.app/mcs/01
 
 # $15
 https://emaildemo.vercel.app/againstdeception
@@ -22,6 +28,10 @@ https://emaildemo.vercel.app/exinda/template/03.html
 https://emaildemo.vercel.app/mbs
 <br>
 https://mailz.vercel.app/codit-microservices
+<br>
+https://mailz.vercel.app/hbp
+<br>
+https://mailz.vercel.app/rmp/01.html
 
 # Misc
 https://emaildemo.vercel.app/extra/pp/01
