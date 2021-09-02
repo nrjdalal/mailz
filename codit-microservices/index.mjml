@@ -9,6 +9,7 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
     >
       <mj-column>
         <mj-image
@@ -16,6 +17,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.png"
           alt=""
           width="256px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
