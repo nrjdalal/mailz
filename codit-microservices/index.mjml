@@ -1,6 +1,9 @@
 <mjml>
   <mj-head>
-    <!-- donovan-alexander-fitness -->
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
   </mj-head>
   <mj-body>
     <!-- header section -->
@@ -9,8 +12,8 @@
     >
       <mj-column>
         <mj-image
-          href="https://alexanderthedon.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.jpeg"
+          href="https://cod-it.tech"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.png"
           alt=""
           width="256px"
         />
@@ -26,16 +29,23 @@
           font-weight="500"
           line-height="1.4"
           color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
         >
           Accelerate your IT Modernization with Codit’s Microservices
           Solutions</mj-text
         >
 
-        <mj-text align="center" font-size="14px" line-height="1.5" color="white"
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.5"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
           >Is your business missing out on opportunities due to legacy
-          applications and outdated systems? <br /><br />
-          Are you struggling to kick-start your digital journey despite a firm
-          resolve to do so?
+          applications and outdated systems? Are you struggling to kickstart
+          your digital journey despite a firm resolve to do so?
         </mj-text>
       </mj-column>
     </mj-section>
@@ -44,7 +54,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/points.jpeg"
           alt=""
           padding="0"
         />
@@ -60,8 +70,9 @@
           font-weight="500"
           line-height="1.4"
           color="white"
-          >WHEN COMES TO GETTING STARTED A STRONG A SUPPORT SYSTEM IS ESSENTIAL
-          MAKING SURE YOU STAY ON TRACK.
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Are you struggling with
         </mj-text>
 
         <mj-text
@@ -69,12 +80,33 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          >IF YOU HAVE A FRIEND OR LOVE ONE WHO’S INTERESTED IN REACHING THEIR
-          GOALS, REFER-A-FRIEND AND SAVE 25% OFF YOUR FIRST ORDER.
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >1. Competition from digital startups or non-traditional players
+          <br />
+          2. Slow rollout for new products, services and features
+          <br />
+          3. Lack of Agile and digital technology skills in the workforce
+          <br /><br />
+          * Ignoring these challenges can cost enterprises dearly, and create a
+          “digital disconnect” between a business and its customers.
         </mj-text>
       </mj-column>
     </mj-section>
 
+    <!-- section 04 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
     <mj-section background-color="black">
       <mj-column>
         <mj-text
@@ -82,11 +114,13 @@
           font-size="14px"
           line-height="1.4"
           color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
         >
           <a
-            href="tel:(917)-485-5046"
+            href="tel:(833) 828-5683"
             style="text-decoration: none; color: white"
-            >(917)-485-5046</a
+            >(833) 828-5683</a
           >
         </mj-text>
 
@@ -96,23 +130,22 @@
           line-height="1.4"
           padding-top="0"
           color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
         >
           <a
-            href="mailto:info.alexanderthedon@gmail.com"
+            href="mailto:vishal.saxena@cod-it.tech"
             style="text-decoration: none; color: white"
-            >info.alexanderthedon@gmail.com</a
+            >vishal.saxena@cod-it.tech</a
           >
         </mj-text>
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://alexanderthedon.com/"
-          >
+          <mj-social-element name="facebook" href="https://cod-it.tech">
           </mj-social-element>
-          <mj-social-element name="google" href="https://alexanderthedon.com/">
+          <mj-social-element name="google" href="https://cod-it.tech">
           </mj-social-element>
-          <mj-social-element name="twitter" href="https://alexanderthedon.com/">
+          <mj-social-element name="twitter" href="https://cod-it.tech">
           </mj-social-element>
         </mj-social>
 
@@ -121,9 +154,11 @@
           font-size="11px"
           line-height="1.4"
           color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
         >
           <a
-            href="mailto:info.alexanderthedon@gmail.com?subject=unsubscribe"
+            href="mailto:unsubscribe@cod-it.tech?subject=unsubscribe"
             style="text-decoration: none; color: white"
             >UNSUBSCRIBE HERE</a
           >
