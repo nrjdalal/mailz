@@ -28,7 +28,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          color="white"
+          color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -69,7 +69,7 @@
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          color="white"
+          color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Are you struggling with
@@ -91,11 +91,60 @@
           <br /><br />
           * Ignoring these challenges can cost enterprises dearly, and create a
           “digital disconnect” between a business and its customers.
+          <br /><br />
+          If the answer to any of the above questions is "Yes" then Thank GOD,
+          not for going through the above challenges but because you're reading
+          this message.
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- section 04 -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 05 -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Increase Productivity and Efficiency With Affordable Managed Cloud
+          Services At Codit
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Whether you want to migrate from a legacy firmware, boost
+          productivity and collaboration, accelerate innovation, increase
+          efficiency and agility, build cloud-native applications, better
+          protect your business from cyber threats, hire skilled staff for your
+          project or make the most of your data. <br /><br />
+          You can always rely on CODIT's expertise on Cloud to help you find the
+          best solution.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section 06 -->
     <mj-section padding="0">
       <mj-column>
         <mj-image
