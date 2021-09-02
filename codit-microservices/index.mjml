@@ -141,6 +141,14 @@
           You can always rely on CODIT's expertise on Cloud to help you find the
           best solution.
         </mj-text>
+
+        <mj-button
+          background-color="deepskyblue"
+          color="black"
+          font-weight="500"
+        >
+          Get a Consultation
+        </mj-button>
       </mj-column>
     </mj-section>
 
@@ -148,7 +156,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/image.jpeg"
           alt=""
           padding="0"
         />
