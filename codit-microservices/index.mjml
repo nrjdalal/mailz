@@ -10,7 +10,7 @@
       <mj-column>
         <mj-image
           href="https://alexanderthedon.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/donovan-alexander-fitness/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.jpeg"
           alt=""
           width="256px"
         />
@@ -27,36 +27,16 @@
           line-height="1.4"
           color="white"
         >
-          HI { USERNAME },
-          <br />
-          WELCOME TO DONOVAN ALEXANDER FITNESS!</mj-text
+          Accelerate your IT Modernization with Codit’s Microservices
+          Solutions</mj-text
         >
 
-        <mj-image
-          href="https://alexanderthedon.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/donovan-alexander-fitness/assets/daf.png"
-          alt=""
-          width="400px"
-          padding="40px"
-          border-radius="40px"
-        />
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.5"
-          padding-top="0"
-          color="white"
-          >THANK YOU FOR JOINING MY SQUAD AND CHOOSING TO START YOUR FITNESS
-          WITH ME. MY NEWSLETTERS WILL KEEP YOU INFORMED ON THE LATEST EXERCISE
-          PROGRAMS, SPORTS SUPPLEMENTAL EDUCATION, SCHEDULED CLASSES & EVENTS.
+        <mj-text align="center" font-size="14px" line-height="1.5" color="white"
+          >Is your business missing out on opportunities due to legacy
+          applications and outdated systems? <br /><br />
+          Are you struggling to kick-start your digital journey despite a firm
+          resolve to do so?
         </mj-text>
-
-        <mj-button
-          background-color="#126de5"
-          href="https://alexanderthedon.com/"
-          >START YOUR JOURNEY NOW!</mj-button
-        >
       </mj-column>
     </mj-section>
 
