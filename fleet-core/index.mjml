@@ -21,6 +21,61 @@
       </mj-column>
     </mj-section>
 
+    <!-- section -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >IS YOUR BACKUP POWER GENERATOR READY TO PERFORM THIS WINTER?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Fleet Core can provide you with the information you need with our
+          comprehensive fuel testing program. Contact us to schedule your
+          testing today at
+          <a
+            href="tel:(303) 228-2162"
+            style="
+              color: white;
+              text-decoration: none;
+              border-bottom: 1px solid white;
+            "
+            >(303) 228-2162</a
+          >.
+        </mj-text>
+
+        <mj-button
+          background-color="deepskyblue"
+          color="black"
+          href="tel:(303) 228-2162"
+          >$100 off before October 31st on tank testing ></mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/snowy-generator.webp"
+          alt=""
+          padding="0"
+          href="https://myfleetcore.com"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- section 01 -->
     <mj-section background-color="black">
       <mj-column>
@@ -67,8 +122,6 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
-    <!-- section -->
     <mj-section
       padding="0"
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
@@ -85,54 +138,6 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/points-02.png"
           alt=""
           width="400px"
-          padding="0"
-          href="https://myfleetcore.com"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >IS YOUR BACKUP POWER GENERATOR READY TO PERFORM THIS WINTER?
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Fleet Core can provide you with the information you need with our
-          comprehensive fuel testing program. Contact us to schedule your
-          testing today at
-          <a
-            href="tel:(303) 228-2162"
-            style="
-              color: white;
-              text-decoration: none;
-              border-bottom: 1px solid white;
-            "
-            >(303) 228-2162</a
-          >.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/snowy-generator.webp"
-          alt=""
           padding="0"
           href="https://myfleetcore.com"
         />
