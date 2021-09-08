@@ -16,7 +16,7 @@
           href="https://www.fleet-core.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/logo.png"
           alt=""
-          width="128px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
