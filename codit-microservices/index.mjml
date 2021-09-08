@@ -12,7 +12,7 @@
     >
       <mj-column>
         <mj-image
-          href="https://cod-it.tech"
+          href="https://www.visualis.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
           alt=""
           width="128px"
@@ -62,6 +62,7 @@
           width="300px"
           padding="0"
           border-radius="10px"
+          href="https://visualis.co.uk/shop/"
         />
       </mj-column>
     </mj-section>
@@ -95,49 +96,12 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Media
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >High quality approved supplies
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/media.webp"
           alt=""
           width="300px"
           padding="0"
           border-radius="10px"
+          href="https://visualis.co.uk/shop/"
         />
       </mj-column>
     </mj-section>
@@ -171,11 +135,12 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/photobooths.webp"
           alt=""
           width="300px"
           padding="0"
           border-radius="10px"
+          href="https://visualis.co.uk/shop/"
         />
       </mj-column>
     </mj-section>
@@ -189,7 +154,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Media
+          >Photobooths
         </mj-text>
 
         <mj-text
@@ -200,7 +165,46 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >High quality approved supplies
+          >Photobooths for all occasions
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/training-courses.webp"
+          alt=""
+          width="300px"
+          padding="0"
+          border-radius="10px"
+          href="https://visualis.co.uk/shop/"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Training Courses
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Inspiring expert tuition
         </mj-text>
       </mj-column>
     </mj-section>
@@ -233,18 +237,18 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@cod-it.tech"
+            href="mailto:info@visualis.co.uk"
             style="text-decoration: none; color: white"
-            >info@cod-it.tech</a
+            >info@visualis.co.uk</a
           >
         </mj-text>
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="facebook" href="https://cod-it.tech">
+          <mj-social-element name="facebook" href="https://www.visualis.co.uk">
           </mj-social-element>
-          <mj-social-element name="google" href="https://cod-it.tech">
+          <mj-social-element name="google" href="https://www.visualis.co.uk">
           </mj-social-element>
-          <mj-social-element name="twitter" href="https://cod-it.tech">
+          <mj-social-element name="twitter" href="https://www.visualis.co.uk">
           </mj-social-element>
         </mj-social>
 
@@ -257,7 +261,7 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:unsubscribe@cod-it.tech?subject=unsubscribe"
+            href="mailto:info@visualis.co.uk?subject=unsubscribe"
             style="text-decoration: none; color: white"
             >UNSUBSCRIBE HERE</a
           >
