@@ -79,14 +79,14 @@
           alt=""
           width="400px"
           padding="0"
-          href="https://fleet-core.co.uk/shop/"
+          href="https://myfleetcore.com"
         />
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/points-02.png"
           alt=""
           width="400px"
           padding="0"
-          href="https://fleet-core.co.uk/shop/"
+          href="https://myfleetcore.com"
         />
       </mj-column>
     </mj-section>
@@ -113,7 +113,16 @@
           letter-spacing="0.5px"
           >Fleet Core can provide you with the information you need with our
           comprehensive fuel testing program. Contact us to schedule your
-          testing today at 303-228-2162.
+          testing today at
+          <a
+            href="tel:(303) 228-2162"
+            style="
+              color: white;
+              text-decoration: none;
+              border-bottom: 1px solid white;
+            "
+            >(303) 228-2162</a
+          >.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -122,134 +131,29 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/media.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/snowy-generator.webp"
           alt=""
-          width="300px"
           padding="0"
-          border-radius="10px"
-          href="https://fleet-core.co.uk/shop/"
+          href="https://myfleetcore.com"
         />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Media
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >High quality approved supplies
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/photobooths.webp"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://fleet-core.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths for all occasions
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/training-courses.webp"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://fleet-core.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Training Courses
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Inspiring expert tuition
-        </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- footer -->
-    <mj-section background-color="white">
+    <mj-section background-color="black">
       <mj-column>
         <mj-text
           align="center"
           font-size="14px"
           line-height="1.4"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
           <a
-            href="tel:01329 722 650"
-            style="text-decoration: none; color: black"
-            >01329 722 650</a
+            href="tel:(303) 228-2162"
+            style="text-decoration: none; color: white"
+            >(303) 228-2162</a
           >
         </mj-text>
 
@@ -263,9 +167,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@fleet-core.co.uk"
-            style="text-decoration: none; color: black"
-            >info@fleet-core.co.uk</a
+            href="mailto:info@myfleetcore.com"
+            style="text-decoration: none; color: white"
+            >info@myfleetcore.com</a
           >
         </mj-text>
 
@@ -287,8 +191,8 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@fleet-core.co.uk?subject=unsubscribe"
-            style="text-decoration: none; color: black"
+            href="mailto:info@myfleetcore.com?subject=unsubscribe"
+            style="text-decoration: none; color: white"
             >UNSUBSCRIBE HERE</a
           >
         </mj-text>
