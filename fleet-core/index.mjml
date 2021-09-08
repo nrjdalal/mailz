@@ -14,7 +14,7 @@
       <mj-column>
         <mj-image
           href="https://myfleetcore.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/fc-logo.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/fc-logo.png"
           alt=""
           width="300px"
           padding="0"
@@ -70,7 +70,7 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/snowy-generator.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/snowy-generator.png"
           alt=""
           padding="0"
           href="https://myfleetcore.com"
