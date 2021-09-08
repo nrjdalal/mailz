@@ -9,15 +9,13 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      padding="0"
     >
       <mj-column>
         <mj-image
           href="https://cod-it.tech"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
           alt=""
-          width="256px"
-          padding="0"
+          width="128px"
         />
       </mj-column>
     </mj-section>
@@ -34,8 +32,7 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Accelerate your IT Modernization with CodIT's Microservices
-          Solutions</mj-text
+          Ultimate Selfie Systems and Print Solutions</mj-text
         >
 
         <mj-text
@@ -57,7 +54,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/points.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/points.jpeg"
           alt=""
           padding="0"
         />
@@ -106,7 +103,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/hero.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/hero.jpeg"
           alt=""
           padding="0"
         />
@@ -160,7 +157,7 @@
     <mj-section padding="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/image.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/image.jpeg"
           alt=""
           padding="0"
         />
@@ -240,7 +237,7 @@
       <mj-column>
         <mj-image
           href="https://cod-it.tech"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/codit-microservices/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
           alt=""
           width="256px"
           padding="0"
