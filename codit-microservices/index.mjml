@@ -42,26 +42,29 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Is your business missing out on opportunities due to legacy
-          applications and outdated systems? <br /><br />
-          Are you struggling to kickstart your digital journey despite a firm
-          resolve to do so?
+          >Visualis operates as part of the System Insight group which has
+          global success delivering imaging solutions to some of the worlds most
+          famous resorts, attractions and events. <br /><br />
+          Our aim is to provide the best imaging solutions available to the
+          retail, leisure, events and attractions industry. The team has a vast
+          range of experience of sales, marketing and manufacturing that is
+          specific to the imaging sector.
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- section 02 -->
-    <mj-section padding="0">
+    <!-- section -->
+    <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/points.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
           alt=""
+          width="300px"
           padding="0"
+          border-radius="10px"
         />
       </mj-column>
     </mj-section>
-
-    <!-- section 03 -->
     <mj-section background-color="black">
       <mj-column>
         <mj-text
@@ -72,7 +75,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Are you struggling with
+          >Printing Systems
         </mj-text>
 
         <mj-text
@@ -83,34 +86,23 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >1. Competition from digital startups or non-traditional players
-          <br />
-          2. Slow rollout for new products, services and features
-          <br />
-          3. Lack of Agile and digital technology skills in the workforce
-          <br /><br />
-          * Ignoring these challenges can cost enterprises dearly, and create a
-          “digital disconnect” between a business and its customers.
-          <br /><br />
-          If the answer to any of the above questions is "Yes" then Thank GOD,
-          not for going through the above challenges but because you're reading
-          this message.
+          >A unique combination of quality and speed
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- section 04 -->
-    <mj-section padding="0">
+    <!-- section -->
+    <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/hero.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
           alt=""
+          width="300px"
           padding="0"
+          border-radius="10px"
         />
       </mj-column>
     </mj-section>
-
-    <!-- section 05 -->
     <mj-section background-color="black">
       <mj-column>
         <mj-text
@@ -121,8 +113,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Increase Productivity and Efficiency With Affordable Managed Cloud
-          Services At Codit
+          >Media
         </mj-text>
 
         <mj-text
@@ -133,52 +124,25 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Whether you want to migrate from a legacy firmware, boost
-          productivity and collaboration, accelerate innovation, increase
-          efficiency and agility, build cloud-native applications, better
-          protect your business from cyber threats, hire skilled staff for your
-          project or make the most of your data. <br /><br />
-          You can always rely on CODIT's expertise on Cloud to help you find the
-          best solution.
+          >High quality approved supplies
         </mj-text>
-
-        <mj-button
-          background-color="deepskyblue"
-          color="black"
-          font-weight="500"
-          href="https://cod-it.tech"
-        >
-          Get a Consultation
-        </mj-button>
       </mj-column>
     </mj-section>
 
-    <!-- section 06 -->
-    <mj-section padding="0">
+    <!-- section -->
+    <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/image.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/media.webp"
           alt=""
+          width="300px"
           padding="0"
+          border-radius="10px"
         />
       </mj-column>
     </mj-section>
-
-    <!-- section 07 -->
     <mj-section background-color="black">
       <mj-column>
-        <mj-text
-          align="center"
-          font-size="18px"
-          font-weight="500"
-          line-height="1.4"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Over 7 years experience of IT consulting for fortune 500 companies in
-          Atlanta, GA.
-        </mj-text>
-
         <mj-text
           align="center"
           font-size="18px"
@@ -187,61 +151,57 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >What our clients say about us
+          >Media
         </mj-text>
 
         <mj-text
           align="center"
-          font-size="12px"
+          font-size="14px"
           line-height="1.4"
+          padding-top="0"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >“Team CodIT is very skilled and professional. We had a complex
-          project with a lot of moving parts–migrating a Wall Street hedge
-          fund’s AI-based research platform from AWS to GCP. Across the diverse
-          set of technical skills needed to get the job done, Team CodIT came in
-          as a GCP architecture SME. He communicated what he was strong on and
-          equally important, the things that were stretches. This helped our
-          tech leads to get the max value out of what he could contribute. He
-          did what he said he was going to do and played well with the other
-          disciplines. Can’t wait for our next project!” <br /><br />
-          “We hired CodIT to help us migrate our kubernetes infrastructure to a
-          new cluster with more modern settings and tightened security. He was
-          attentive to detail, comfortable in guiding us through the entire
-          configuration (resource selection, migration tooling, intra-cluster
-          comms for seamless transition, network ranges, etc), and was able to
-          suggest alternative solutions where our system had special cases. He
-          was a great asset!” <br /><br />
-          “We hired and sourced CodIT for one of our platform implementation
-          projects for one of our corporate clients. Our client contracted us to
-          set up a Google Cloud Platform Developer Suite in order that their
-          developers can migrate to a more flexible and up to date data
-          transfer, storage, and display platform. For every project our company
-          takes on, our clients provide us a set of budget hours to execute the
-          initiative along with a project schedule. This particular client’s
-          milestone schedule was pretty compact (6 months). However, Team CodIT
-          satisfied the migration objectives under budget with an excess of 2
-          weeks to which he presented production handover sessions with the
-          client’s Information Systems team. I will definitely be hiring Team
-          CodIT again for additional product mounts onto their platform.”
+          >High quality approved supplies
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- section 08 -->
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      padding="0"
-    >
+    <!-- section -->
+    <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          href="https://cod-it.tech"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
           alt=""
-          width="256px"
+          width="300px"
           padding="0"
+          border-radius="10px"
         />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Media
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >High quality approved supplies
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -257,9 +217,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="tel:(800) 961-7847"
+            href="tel:01329 722 650"
             style="text-decoration: none; color: white"
-            >(800) 961-7847</a
+            >01329 722 650</a
           >
         </mj-text>
 
