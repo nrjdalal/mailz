@@ -106,7 +106,23 @@
           Premium to ensure we deliver quality and performance customers can
           count on.
         </mj-text>
+      </mj-column>
+    </mj-section>
 
+    <mj-section padding="0" background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/logo.png"
+          alt=""
+          padding="0"
+          href="https://myfleetcore.com"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="black">
+      <mj-column>
         <mj-text
           align="center"
           font-size="18px"
