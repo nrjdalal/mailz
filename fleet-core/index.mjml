@@ -150,6 +150,7 @@
           alt=""
           width="400px"
           padding="0"
+          padding-top="24px"
           href="https://myfleetcore.com"
         />
         <mj-image
@@ -157,6 +158,7 @@
           alt=""
           width="400px"
           padding="0"
+          padding-bottom="24px"
           href="https://myfleetcore.com"
         />
       </mj-column>
