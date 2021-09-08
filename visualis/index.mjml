@@ -57,7 +57,7 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
           alt=""
           width="300px"
           padding="0"
@@ -96,7 +96,7 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/media.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/media.png"
           alt=""
           width="300px"
           padding="0"
@@ -135,7 +135,7 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/photobooths.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/photobooths.png"
           alt=""
           width="300px"
           padding="0"
@@ -174,7 +174,7 @@
     <mj-section padding="0" background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/training-courses.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/training-courses.png"
           alt=""
           width="300px"
           padding="0"
