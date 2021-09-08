@@ -51,18 +51,41 @@
           Premium to ensure we deliver quality and performance customers can
           count on.
         </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Here are some of the key benefits that separate our Core Power Premium
+          fuel from the common “off the shelf” additives that our competitors
+          provide.
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- section -->
-    <mj-section padding="0" background-color="#000000">
+    <mj-section
+      padding="0"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/printing-systems.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/points-01.png"
           alt=""
-          width="300px"
+          width="400px"
           padding="0"
-          border-radius="10px"
+          href="https://fleet-core.co.uk/shop/"
+        />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/fleet-core/assets/points-02.png"
+          alt=""
+          width="400px"
+          padding="0"
           href="https://fleet-core.co.uk/shop/"
         />
       </mj-column>
@@ -77,7 +100,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Printing Systems
+          >IS YOUR BACKUP POWER GENERATOR READY TO PERFORM THIS WINTER?
         </mj-text>
 
         <mj-text
@@ -88,7 +111,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >A unique combination of quality and speed
+          >Fleet Core can provide you with the information you need with our
+          comprehensive fuel testing program. Contact us to schedule your
+          testing today at 303-228-2162.
         </mj-text>
       </mj-column>
     </mj-section>
