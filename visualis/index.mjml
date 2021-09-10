@@ -244,11 +244,20 @@
         </mj-text>
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="facebook" href="https://www.visualis.co.uk">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/VisualisUK"
+          >
           </mj-social-element>
-          <mj-social-element name="google" href="https://www.visualis.co.uk">
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/visualis-uk"
+          >
           </mj-social-element>
-          <mj-social-element name="twitter" href="https://www.visualis.co.uk">
+          <mj-social-element
+            name="twitter"
+            href="https://www.twitter.com/Visualis6"
+          >
           </mj-social-element>
         </mj-social>
 
@@ -261,9 +270,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@visualis.co.uk?subject=unsubscribe"
+            href="https://www.visualis.co.uk/"
             style="text-decoration: none; color: black"
-            >UNSUBSCRIBE HERE</a
+            >https://www.visualis.co.uk/</a
           >
         </mj-text>
       </mj-column>
