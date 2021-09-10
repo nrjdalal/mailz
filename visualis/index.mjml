@@ -25,7 +25,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -70,7 +70,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -109,7 +109,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -148,7 +148,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -187,7 +187,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -256,14 +256,14 @@
           </mj-social-element>
           <mj-social-element
             name="twitter"
-            href="https://www.twitter.com/Visualis6"
+            href="https://twitter.com/Visualis6"
           >
           </mj-social-element>
         </mj-social>
 
         <mj-text
           align="center"
-          font-size="11px"
+          font-size="14px"
           line-height="1.4"
           color="white"
           font-family="DM Sans, sans-serif"
@@ -272,7 +272,7 @@
           <a
             href="https://www.visualis.co.uk/"
             style="text-decoration: none; color: black"
-            >https://www.visualis.co.uk/</a
+            >www.visualis.co.uk</a
           >
         </mj-text>
       </mj-column>
