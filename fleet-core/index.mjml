@@ -28,8 +28,8 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="18px"
-          font-weight="500"
+          font-size="24px"
+          font-weight="700"
           line-height="1.4"
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
@@ -60,10 +60,10 @@
         </mj-text>
 
         <mj-button
-          background-color="deepskyblue"
+          background-color="#10B981"
           color="black"
           href="tel:(303) 228-2162"
-          >$100 off before October 31st on tank testing ></mj-button
+          >$100 off fuel testing valid unit Oct 31</mj-button
         >
       </mj-column>
     </mj-section>
@@ -176,9 +176,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="tel:(303) 228-2162"
+            href="tel:(720) 352-9988"
             style="text-decoration: none; color: white"
-            >(303) 228-2162</a
+            >(720) 352-9988</a
           >
         </mj-text>
 
@@ -192,18 +192,17 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@myfleetcore.com"
+            href="mailto:shawnt@myfleetcore.com"
             style="text-decoration: none; color: white"
-            >info@myfleetcore.com</a
+            >shawnt@myfleetcore.com</a
           >
         </mj-text>
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="facebook" href="https://myfleetcore.com">
-          </mj-social-element>
-          <mj-social-element name="google" href="https://myfleetcore.com">
-          </mj-social-element>
-          <mj-social-element name="twitter" href="https://myfleetcore.com">
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/fleet-core-inc."
+          >
           </mj-social-element>
         </mj-social>
 
