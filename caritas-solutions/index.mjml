@@ -11,9 +11,7 @@
       solid #E4E4E7; } .middle { background-color: white !important; border:
       20px solid #E4E4E7; border-top: none; } .bottom { background-color:
       #E4E4E7 !important; border: 20px solid #E4E4E7; border-top: none; }
-      .padding { margin:0; padding:0; } td[align="center"] {padding: 0
-      !important; padding-top: 10px !important;} td[style="width:140px"] {
-      padding: 0 !important; }
+      .image>table>tbody>tr>td {padding: 0 !important; }
     </mj-style>
   </mj-head>
   <mj-body>
@@ -114,6 +112,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.png"
           alt=""
           href="https://caritassolutions.com/"
+          css-class="image"
         />
 
         <mj-text
@@ -144,6 +143,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.png"
           alt=""
           href="https://caritassolutions.com/"
+          css-class="image"
         />
 
         <mj-text
