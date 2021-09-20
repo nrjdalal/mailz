@@ -7,10 +7,10 @@
 
     <mj-style>
       .height { height: 100%; background-color: white; } .top {
-      background-color: white !important; border: 20px solid #F4F4F5; } .middle
-      { background-color: white !important; border: 20px solid #F4F4F5;
-      border-top: none; } .bottom { background-color: #F4F4F5 !important;
-      border: 20px solid #F4F4F5; border-top: none; }
+      background-color: white !important; border: 20px solid #E4E4E7; } .middle
+      { background-color: white !important; border: 20px solid #E4E4E7;
+      border-top: none; } .bottom { background-color: #E4E4E7 !important;
+      border: 20px solid #E4E4E7; border-top: none; }
     </mj-style>
   </mj-head>
   <mj-body>
@@ -22,7 +22,7 @@
     >
       <mj-column>
         <mj-image
-          href="https://www.visualis.co.uk"
+          href="https://caritassolutions.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
           alt=""
           width="256px"
@@ -77,7 +77,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/1.jpg"
           alt=""
-          href="https://visualis.co.uk/shop/"
+          href="https://caritassolutions.com/"
         />
 
         <mj-text
@@ -109,7 +109,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.png"
           alt=""
-          href="https://visualis.co.uk/shop/"
+          href="https://caritassolutions.com/"
         />
 
         <mj-text
@@ -139,7 +139,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.png"
           alt=""
-          href="https://visualis.co.uk/shop/"
+          href="https://caritassolutions.com/"
         />
 
         <mj-text
@@ -232,7 +232,7 @@
     >
       <mj-column>
         <mj-image
-          href="https://www.visualis.co.uk"
+          href="https://caritassolutions.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
           alt=""
           width="256px"
