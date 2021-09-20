@@ -1,0 +1,221 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="https://www.visualis.co.uk"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+          alt=""
+          width="128px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 01 -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          font-size="30px"
+          font-weight="700"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Caritas Solution’s Here To Help
+        </mj-text>
+
+        <mj-text
+          font-size="20px"
+          line-height="1.5"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Simple, agency staffing with ease
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.5"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Have a need for Nursing any specialty? We have you covered. Our
+          company is here to fulfill any and all of your staffing needs. Our
+          nursing department maintains a detailed database of nurses of all
+          specialties who are ready to travel to your hospital to fill any
+          staffing needs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          alt=""
+          border-radius="10px"
+          href="https://visualis.co.uk/shop/"
+        />
+
+        <mj-text
+          font-size="18px"
+          font-weight="400"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Broadly sourced and comprehensive
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >We are not satisfied until you are.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Our dedicated nurses come in a verity of
+          specialities and come highly recommended. Come experience the Caritas
+          difference.
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          alt=""
+          border-radius="10px"
+          href="https://visualis.co.uk/shop/"
+        />
+
+        <mj-text
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Printing Systems
+        </mj-text>
+
+        <mj-text
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >A unique combination of quality and speed
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          alt=""
+          border-radius="10px"
+          href="https://visualis.co.uk/shop/"
+        />
+
+        <mj-text
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Printing Systems
+        </mj-text>
+
+        <mj-text
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >A unique combination of quality and speed
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          font-size="14px"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="tel:01329 722 650"
+            style="text-decoration: none; color: black"
+            >01329 722 650</a
+          >
+        </mj-text>
+
+        <mj-text
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:info@visualis.co.uk"
+            style="text-decoration: none; color: black"
+            >info@visualis.co.uk</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/VisualisUK"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/visualis-uk"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="https://twitter.com/Visualis6"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="https://www.visualis.co.uk/"
+            style="text-decoration: none; color: black"
+            >www.visualis.co.uk</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
