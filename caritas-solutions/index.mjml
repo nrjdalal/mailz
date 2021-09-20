@@ -107,7 +107,7 @@
 
       <mj-column css-class="height">
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.png"
           alt=""
           href="https://visualis.co.uk/shop/"
         />
@@ -137,7 +137,7 @@
 
       <mj-column css-class="height">
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.png"
           alt=""
           href="https://visualis.co.uk/shop/"
         />
