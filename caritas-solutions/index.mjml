@@ -12,7 +12,8 @@
       20px solid #E4E4E7; border-top: none; } .bottom { background-color:
       #E4E4E7 !important; border: 20px solid #E4E4E7; border-top: none; }
       .padding { margin:0; padding:0; } td[align="center"] {padding: 0
-      !important; padding-top: 10px !important;}
+      !important; padding-top: 10px !important;} td[style="width:140px"] {
+      padding: 0 !important; }
     </mj-style>
   </mj-head>
   <mj-body>
