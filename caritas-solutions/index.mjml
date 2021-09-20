@@ -6,12 +6,13 @@
     />
 
     <mj-style>
-      .height { margin: 0 !important; padding: 0 !important; background-color:
-      white; } .top { background-color: white !important; border: 20px solid
-      #E4E4E7; } .middle { background-color: white !important; border: 20px
-      solid #E4E4E7; border-top: none; } .bottom { background-color: #E4E4E7
-      !important; border: 20px solid #E4E4E7; border-top: none; } .padding {
-      margin:0; padding:0; }
+      .height td { padding: 5px 10px !important; background-color: white; width:
+      100% !important; } .top { background-color: white !important; border: 20px
+      solid #E4E4E7; } .middle { background-color: white !important; border:
+      20px solid #E4E4E7; border-top: none; } .bottom { background-color:
+      #E4E4E7 !important; border: 20px solid #E4E4E7; border-top: none; }
+      .padding { margin:0; padding:0; } td[align="center"] {padding: 0
+      !important; padding-top: 10px !important;}
     </mj-style>
   </mj-head>
   <mj-body>
@@ -73,12 +74,13 @@
     </mj-section>
 
     <!-- section -->
-    <mj-section css-class="middle">
+    <mj-section css-class="middle" padding="25px 15px">
       <mj-column css-class="height">
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/1.jpg"
           alt=""
           href="https://caritassolutions.com/"
+          css-class="image"
         />
 
         <mj-text
