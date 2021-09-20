@@ -13,7 +13,7 @@
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/logo.png"
           alt=""
           width="128px"
         />
@@ -62,14 +62,14 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
         />
 
         <mj-text
-          font-size="18px"
+          font-size="15px"
           font-weight="400"
           line-height="1.4"
           color="deepskyblue"
@@ -95,14 +95,14 @@
 
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
         />
 
         <mj-text
-          font-size="21px"
+          font-size="15px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -112,7 +112,7 @@
         </mj-text>
 
         <mj-text
-          font-size="14px"
+          font-size="12px"
           line-height="1.4"
           padding-top="0"
           color="white"
@@ -124,14 +124,14 @@
 
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
         />
 
         <mj-text
-          font-size="21px"
+          font-size="15px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -141,7 +141,7 @@
         </mj-text>
 
         <mj-text
-          font-size="14px"
+          font-size="12px"
           line-height="1.4"
           padding-top="0"
           color="white"
