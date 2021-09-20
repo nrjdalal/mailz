@@ -9,13 +9,15 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
     >
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/logo.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.jpg"
           alt=""
-          width="128px"
+          width="320px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
@@ -62,7 +64,7 @@
     <mj-section background-color="black">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
@@ -95,7 +97,7 @@
 
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
@@ -124,7 +126,7 @@
 
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-soltions/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/printing-systems.png"
           alt=""
           border-radius="10px"
           href="https://visualis.co.uk/shop/"
