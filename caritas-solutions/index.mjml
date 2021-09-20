@@ -14,7 +14,7 @@
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
           alt=""
           width="320px"
           padding="0"
@@ -23,15 +23,19 @@
     </mj-section>
 
     <!-- section 01 -->
-    <mj-section background-color="black">
-      <mj-column>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/gray-100.png"
+      padding="20px"
+    >
+      <mj-column background-color="white" padding="5px 0">
         <mj-text
           font-size="30px"
           font-weight="700"
           line-height="1.4"
-          color="deepskyblue"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
+          padding-bottom="0"
         >
           Caritas Solution’s Here To Help
         </mj-text>
@@ -39,16 +43,17 @@
         <mj-text
           font-size="20px"
           line-height="1.5"
-          color="white"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
+          padding-top="0"
           >Simple, agency staffing with ease
         </mj-text>
 
         <mj-text
           font-size="12px"
           line-height="1.5"
-          color="white"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Have a need for Nursing any specialty? We have you covered. Our
@@ -110,7 +115,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Printing Systems
+          >Budget Friendly and flexible
         </mj-text>
 
         <mj-text
@@ -120,7 +125,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >A unique combination of quality and speed
+          >Our dynamic is to always put the needs of our clients first.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus, we will work with your budget to provide
+          the nurse placements your hospital needs.
         </mj-text>
       </mj-column>
 
@@ -139,7 +146,7 @@
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Printing Systems
+          >Data driven and responsive
         </mj-text>
 
         <mj-text
@@ -149,7 +156,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >A unique combination of quality and speed
+          >Our company thrives on data driven analytics. We keep a current
+          database of available providers as well as their specialties.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Whatever you need, we have you covered!
         </mj-text>
       </mj-column>
     </mj-section>
