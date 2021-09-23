@@ -665,6 +665,212 @@
           or from the removalists upon request; these include: bubble wrap,
           shrink wrap, tape, boxes and mattress/couch plastic covers.
         </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >4. Although every professional attempt to move items will be carried
+          out as directed by the client, we reserve the right to refuse service
+          at any point.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >5. The client, or the clients representative, must always be present
+          during the move. The client must show us everything required to be
+          moved and must check that nothing extra is taken, or items missed.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >6. We require full payment at the end of the move. The client has the
+          choice to pay either cash, bank transfer or Visa/Mastercard (1.50%
+          surcharge paying with a card).
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >7. We do not charge any extra for using stairs or elevators.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >8. Any extra-large item must be notified to the office prior to the
+          move together with full descriptions and pictures of the item (I.e.:
+          piano, pool table, gym equipment, etc.). Heavy surcharges may apply
+          for specific items.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >9. Goods in transit have up to $50,000 insurance coverage, Public
+          liability & property damage up to $1,000,000 coverage. $250 excess fee
+          applies if any damage to the client's goods and property needs to be
+          fixed or replaced by Top Removals.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >10. Insurance will only apply if the client, or a representative of
+          the client, is present throughout the duration of the move.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >11. Insurance applies only when items are professionally protected.
+          Insurance will not apply in any case where the customer refuses the
+          professional recommendation as to the safest way of transporting your
+          items.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >12. Insurance will not cover damaged items inside the boxes unless
+          Top Removals were responsible for the packing service.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >13. Our insurance does not cover electrical or physical damage when
+          dismantling and reassembling washing machines. Our employees are
+          professional removalists but not professional plumbers. If requested
+          to dismantle and reassemble these items, insurance will not apply.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >14. Insurance does not cover self-assembled furniture items or fat
+          board.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >15. Insurance does not cover television or computer equipment not
+          packed in their original box.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >16. Insurance does not cover stone, including marble, concrete,
+          granite, composite or similar items due to their inherent fragility.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >17. Insurance does not cover electrical fault unless caused by
+          physical damage.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >18. A damage caused during the move must be notified by email to
+          office@topremovals.com.au no later than 24 hours after the move. Each
+          claim should include as much information as is known regarding the
+          nature and extent of loss or damage, the value or items and the cost
+          of repairs.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >19. Our entire staff is experienced, efficient and friendly!
+        </mj-text>
       </mj-column>
     </mj-section>
 
