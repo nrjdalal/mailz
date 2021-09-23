@@ -12,15 +12,15 @@
     >
       <mj-column>
         <mj-image
-          href="https://www.topgunmovers.co.uk"
+          href="https://topgunmovers.com.au"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
           alt=""
-          width="256px"
+          width="200px"
         />
       </mj-column>
     </mj-section>
 
-    <!-- section 01 -->
+    <!-- section -->
     <mj-section background-color="white">
       <mj-column>
         <mj-text
@@ -55,15 +55,14 @@
     </mj-section>
 
     <!-- section -->
-
-    <mj-section background-color="black">
+    <mj-section background-color="white" padding-bottom="0">
       <mj-column>
         <mj-text
           align="left"
           font-size="21px"
           font-weight="500"
           line-height="1.4"
-          color="white"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Hello {customer},
@@ -74,7 +73,7 @@
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          color="white"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Thank you for your time earlier, as discussed please find the link to
@@ -84,133 +83,129 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0" background-color="#000000">
+    <mj-section padding="0" background-color="white">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-calculator-64.png"
           alt=""
-          width="300px"
-          padding="0"
+          width="64px"
           border-radius="10px"
-          href="https://topgunmovers.co.uk/shop/"
+          href="https://topgunmovers.com.au/shop/"
+          align="left"
+          padding-top="0"
         />
       </mj-column>
     </mj-section>
 
     <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/media.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://topgunmovers.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
+    <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-text
-          align="center"
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Once this is completed, we can give you a much more exact quotation
+          based on your inventory items. We want you to have the perfect truck
+          for your move – not too big, not too small - just right! The more
+          detail you include in the calculator, the more comprehensive your
+          quote will be.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <span style="font-weight: 700">PRO TIP:</span>
+          If you don’t know the exact amount of carton boxes you require moving,
+          it is always best to overestimate – the number usually increases on
+          the day of the move
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding="0">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="14px"
+          font-weight="700"
+          line-height="2"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          sales@topremovals.com.au
+          <br />
+          1800 836 580
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/topgunmovers"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/topgunmovers"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="https://twitter.com/topgunmovers"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding-bottom="0">
+      <mj-column>
+        <mj-divider />
+
+        <mj-text
+          align="left"
           font-size="21px"
           font-weight="500"
           line-height="1.4"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Media
+          >Top Removals are a leading removals and storage company, servicing
+          the suburbs of Melbourne and Australia.
         </mj-text>
 
         <mj-text
-          align="center"
+          align="left"
           font-size="14px"
           line-height="1.4"
           padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >High quality approved supplies
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photobooths.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://topgunmovers.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Photobooths
+        >
+          Renowned for providing one of the industries’ most professional
+          relocation services, our name is synonymous with top service,
+          reliability and professionalism. We understand that moving home is a
+          daunting, yet exciting time in your life and we make it our business
+          to listen to your individual needs, offer you the best value for
+          money, and never compromise on service.
         </mj-text>
 
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths for all occasions
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/training-courses.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://topgunmovers.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Training Courses
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Inspiring expert tuition
-        </mj-text>
+        <mj-divider />
       </mj-column>
     </mj-section>
 
@@ -220,15 +215,14 @@
         <mj-text
           align="center"
           font-size="14px"
+          font-weight="500"
           line-height="1.4"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          <a
-            href="tel:01329 722 650"
-            style="text-decoration: none; color: black"
-            >01329 722 650</a
+          <a href="tel:1300 214 396" style="text-decoration: none; color: black"
+            >1300 214 396</a
           >
         </mj-text>
 
@@ -242,9 +236,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@topgunmovers.co.uk"
+            href="mailto:sales@topgunmovers.com.au"
             style="text-decoration: none; color: black"
-            >info@topgunmovers.co.uk</a
+            >sales@topgunmovers.com.au</a
           >
         </mj-text>
 
@@ -275,9 +269,9 @@
           letter-spacing="0.5px"
         >
           <a
-            href="https://www.topgunmovers.co.uk/"
+            href="https://topgunmovers.com.au/"
             style="text-decoration: none; color: black"
-            >www.topgunmovers.co.uk</a
+            >www.topgunmovers.com.au</a
           >
         </mj-text>
       </mj-column>
