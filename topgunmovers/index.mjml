@@ -218,8 +218,9 @@
           align="left"
         >
           <mj-social-element
+            background-color="transparent"
             name="facebook"
-            href="https://www.facebook.com/topgunmovers"
+            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-award-60.png"
           >
             <span style="padding-left: 10px; font-weight: 500">
               Service Award Winner for 6 Years in a row!
@@ -227,8 +228,9 @@
           </mj-social-element>
 
           <mj-social-element
+            background-color="transparent"
             name="facebook"
-            href="https://www.facebook.com/topgunmovers"
+            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-shield-64.png"
           >
             <span style="padding-left: 10px; font-weight: 500">
               We are fully insured.
