@@ -209,6 +209,35 @@
       </mj-column>
     </mj-section>
 
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-social
+          font-size="14px"
+          icon-size="48px"
+          mode="vertical"
+          align="left"
+        >
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/topgunmovers"
+          >
+            <span style="padding-left: 10px; font-weight: 500">
+              Service Award Winner for 6 Years in a row!
+            </span>
+          </mj-social-element>
+
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/topgunmovers"
+          >
+            <span style="padding-left: 10px; font-weight: 500">
+              We are fully insured.
+            </span>
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
     <!-- footer -->
     <mj-section background-color="white">
       <mj-column>
