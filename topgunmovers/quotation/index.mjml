@@ -575,38 +575,12 @@
     </mj-section>
 
     <!-- section -->
-    <mj-section background-color="white" padding-bottom="0">
+    <mj-section background-color="white">
       <mj-column>
-        <mj-divider />
-
-        <mj-social
-          font-size="14px"
-          icon-size="48px"
-          mode="vertical"
-          align="left"
-        >
-          <mj-social-element
-            background-color="transparent"
-            name="facebook"
-            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-award-60.png"
-          >
-            <span style="padding-left: 10px; font-weight: 500">
-              Service Award Winner for 6 Years in a row!
-            </span>
-          </mj-social-element>
-
-          <mj-social-element
-            background-color="transparent"
-            name="facebook"
-            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-shield-64.png"
-          >
-            <span style="padding-left: 10px; font-weight: 500">
-              We are fully insured.
-            </span>
-          </mj-social-element>
-        </mj-social>
-
-        <mj-divider />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
+          alt=""
+        />
       </mj-column>
     </mj-section>
 
