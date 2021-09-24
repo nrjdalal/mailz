@@ -170,8 +170,16 @@
       </mj-section>
 
       <!-- section -->
-      <mj-section padding-bottom="0">
+      <mj-section padding-bottom="0" padding-top="0">
         <mj-column>
+          <mj-button
+            font-size="20px"
+            padding="30px"
+            background-color="#F87171"
+            inner-padding="20px 30px"
+            >Accept Quote</mj-button
+          >
+
           <mj-divider border-color="white" />
 
           <mj-text
