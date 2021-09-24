@@ -20,209 +20,192 @@
       </mj-column>
     </mj-section>
 
-    <!-- section -->
+    <mj-wrapper
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+    >
+      <!-- section -->
+      <mj-section>
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="30px"
+            font-weight="700"
+            line-height="1"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+          >
+            Inventory
+            <br />
+            Email</mj-text
+          >
+        </mj-column>
+
+        <mj-column>
+          <mj-text
+            align="right"
+            font-size="21px"
+            font-weight="500"
+            line-height="1.4"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+          >
+            <br />
+            Job ID: <span style="font-size: 30px">0941</span></mj-text
+          >
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="21px"
+            font-weight="500"
+            line-height="1.4"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Hello {customer},
+          </mj-text>
+
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Thank you for your time earlier, as discussed please find the link
+            to your inventory calculator. If you are having any issues billing
+            this out, please let us know
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Once this is completed, we can give you a much more exact quotation
+            based on your inventory items. We want you to have the perfect truck
+            for your move – not too big, not too small - just right! The more
+            detail you include in the calculator, the more comprehensive your
+            quote will be.
+          </mj-text>
+
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+          >
+            <span style="font-weight: 700">PRO TIP:</span>
+            If you don’t know the exact amount of carton boxes you require
+            moving, it is always best to overestimate – the number usually
+            increases on the day of the move
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="14px"
+            font-weight="700"
+            line-height="2"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+          >
+            <a
+              href="mailto:sales@topgunmovers.com.au"
+              style="text-decoration: none; color: white"
+              >sales@topgunmovers.com.au</a
+            >
+            <br />
+            <a
+              href="tel:1300 214 396"
+              style="text-decoration: none; color: white"
+              >1300 214 396</a
+            >
+          </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element
+              name="facebook"
+              href="https://www.facebook.com/topgunmovers"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="linkedin"
+              href="https://www.linkedin.com/company/topgunmovers"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="twitter"
+              href="https://twitter.com/topgunmovers"
+            >
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-divider border-color="white" />
+
+          <mj-text
+            align="left"
+            font-size="21px"
+            font-weight="500"
+            line-height="1.4"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Top Removals are a leading removals and storage company, servicing
+            the suburbs of Melbourne and Australia.
+          </mj-text>
+
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+          >
+            Renowned for providing one of the industries’ most professional
+            relocation services, our name is synonymous with top service,
+            reliability and professionalism. We understand that moving home is a
+            daunting, yet exciting time in your life and we make it our business
+            to listen to your individual needs, offer you the best value for
+            money, and never compromise on service.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
     <mj-section background-color="white">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="30px"
-          font-weight="700"
-          line-height="1"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Inventory
-          <br />
-          Email</mj-text
-        >
-      </mj-column>
-
-      <mj-column>
-        <mj-text
-          align="right"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <br />
-          Job ID: <span style="font-size: 30px">0941</span></mj-text
-        >
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding-bottom="0">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Hello {customer},
-        </mj-text>
-
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Thank you for your time earlier, as discussed please find the link to
-          your inventory calculator. If you are having any issues billing this
-          out, please let us know
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="0" background-color="white">
-      <mj-column>
-        <mj-social
-          font-size="14px"
-          icon-size="48px"
-          mode="vertical"
-          align="left"
-        >
-          <mj-social-element
-            background-color="transparent"
-            name="facebook"
-            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-calculator-64.png"
-          >
-            <span style="padding-left: 10px; font-weight: 500">
-              Click Here for Inventory calculator
-            </span>
-          </mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding-top="0">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Once this is completed, we can give you a much more exact quotation
-          based on your inventory items. We want you to have the perfect truck
-          for your move – not too big, not too small - just right! The more
-          detail you include in the calculator, the more comprehensive your
-          quote will be.
-        </mj-text>
-
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <span style="font-weight: 700">PRO TIP:</span>
-          If you don’t know the exact amount of carton boxes you require moving,
-          it is always best to overestimate – the number usually increases on
-          the day of the move
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding="0">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="14px"
-          font-weight="700"
-          line-height="2"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="mailto:sales@topgunmovers.com.au"
-            style="text-decoration: none; color: black"
-            >sales@topgunmovers.com.au</a
-          >
-          <br />
-          <a href="tel:1300 214 396" style="text-decoration: none; color: black"
-            >1300 214 396</a
-          >
-        </mj-text>
-      </mj-column>
-
-      <mj-column>
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/topgunmovers"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="linkedin"
-            href="https://www.linkedin.com/company/topgunmovers"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="twitter"
-            href="https://twitter.com/topgunmovers"
-          >
-          </mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding-bottom="0">
-      <mj-column>
-        <mj-divider />
-
-        <mj-text
-          align="left"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Top Removals are a leading removals and storage company, servicing
-          the suburbs of Melbourne and Australia.
-        </mj-text>
-
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Renowned for providing one of the industries’ most professional
-          relocation services, our name is synonymous with top service,
-          reliability and professionalism. We understand that moving home is a
-          daunting, yet exciting time in your life and we make it our business
-          to listen to your individual needs, offer you the best value for
-          money, and never compromise on service.
-        </mj-text>
-
-        <mj-divider />
-      </mj-column>
-    </mj-section>
-
-    <mj-section background-color="white" padding="0">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
