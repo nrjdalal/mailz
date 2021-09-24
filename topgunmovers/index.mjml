@@ -151,17 +151,18 @@
           <mj-social font-size="15px" icon-size="30px" mode="horizontal">
             <mj-social-element
               name="facebook"
-              href="https://www.facebook.com/topgunmovers"
+              href="https://www.facebook.com/topgunmoversaustralia/"
             >
             </mj-social-element>
             <mj-social-element
-              name="linkedin"
-              href="https://www.linkedin.com/company/topgunmovers"
+              background-color="#EC4899"
+              name="instagram"
+              href="https://www.instagram.com/topgunmovers.au/"
             >
             </mj-social-element>
             <mj-social-element
               name="twitter"
-              href="https://twitter.com/topgunmovers"
+              href="https://twitter.com/topgunmoversau"
             >
             </mj-social-element>
           </mj-social>
@@ -250,17 +251,18 @@
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
             name="facebook"
-            href="https://www.facebook.com/topgunmoversUK"
+            href="https://www.facebook.com/topgunmoversaustralia/"
           >
           </mj-social-element>
           <mj-social-element
-            name="linkedin"
-            href="https://www.linkedin.com/company/topgunmovers-uk"
+            background-color="#EC4899"
+            name="instagram"
+            href="https://www.instagram.com/topgunmovers.au/"
           >
           </mj-social-element>
           <mj-social-element
             name="twitter"
-            href="https://twitter.com/topgunmovers6"
+            href="https://twitter.com/topgunmoversau"
           >
           </mj-social-element>
         </mj-social>
