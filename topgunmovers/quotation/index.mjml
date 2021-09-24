@@ -684,12 +684,13 @@
 
         <mj-button
           href="https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf"
+          background-color="#3B82F6"
         >
           Open Certificate
         </mj-button>
 
         <mj-text
-          align="left"
+          align="center"
           font-size="18px"
           font-weight="500"
           line-height="1.4"
@@ -699,7 +700,11 @@
           >Hear what our clients say about us -
         </mj-text>
 
-        <mj-image src="" alt="" />
+        <mj-image
+          href="https://youtu.be/KJB054zLZq4"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/youtube.jpg"
+          alt=""
+        />
       </mj-column>
     </mj-section>
 
