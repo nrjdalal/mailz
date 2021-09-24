@@ -669,17 +669,11 @@
           Insurance certificate via the link Below -
         </mj-text>
 
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
+        <mj-button
+          href="https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf"
         >
-          https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf
-        </mj-text>
+          Open Certificate
+        </mj-button>
       </mj-column>
     </mj-section>
 
