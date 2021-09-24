@@ -108,9 +108,15 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          sales@topremovals.com.au
+          <a
+            href="mailto:sales@topgunmovers.com.au"
+            style="text-decoration: none; color: black"
+            >sales@topgunmovers.com.au</a
+          >
           <br />
-          1800 836 580
+          <a href="tel:1300 214 396" style="text-decoration: none; color: black"
+            >1300 214 396</a
+          >
         </mj-text>
       </mj-column>
 
@@ -543,23 +549,6 @@
           the correct truck.
         </mj-text>
 
-        <mj-social
-          font-size="14px"
-          icon-size="48px"
-          mode="vertical"
-          align="left"
-        >
-          <mj-social-element
-            background-color="transparent"
-            name="facebook"
-            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/icons8-calculator-64.png"
-          >
-            <span style="padding-left: 10px; font-weight: 500">
-              Click Here for Inventory calculator
-            </span>
-          </mj-social-element>
-        </mj-social>
-
         <mj-text
           align="left"
           font-size="14px"
@@ -581,6 +570,112 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
           alt=""
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- faq -->
+    <mj-section background-color="white" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="21px"
+          font-weight="700"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Frequently Asked Questions
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="5px"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          AVAILABILITY FOR MY MOVE?
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Morning and Afternoon Slots are always available for our customers and
+          their reservation is to be discussed with our staff.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="5px"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          HOW AND WHEN DO I PAY?
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          The payment for our services is made after the completion of the job
+          and the payment methods include bank transfer and all major credit
+          cards which consist of an additional 2.2% surcharge.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- certificate -->
+    <mj-section background-color="white" padding-bottom="0">
+      <mj-column>
+        <mj-divider />
+
+        <mj-text
+          align="left"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >To Provide a form of satisfaction to our customers like no other
+          company, we are providing our customers the access to TopGun Mover's
+          Insurance certificate via the link Below -
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf
+        </mj-text>
+
+        <mj-divider />
       </mj-column>
     </mj-section>
 

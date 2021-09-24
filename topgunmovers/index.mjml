@@ -151,9 +151,15 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          sales@topremovals.com.au
+          <a
+            href="mailto:sales@topgunmovers.com.au"
+            style="text-decoration: none; color: black"
+            >sales@topgunmovers.com.au</a
+          >
           <br />
-          1800 836 580
+          <a href="tel:1300 214 396" style="text-decoration: none; color: black"
+            >1300 214 396</a
+          >
         </mj-text>
       </mj-column>
 
