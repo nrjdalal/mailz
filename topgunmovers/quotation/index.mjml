@@ -20,126 +20,132 @@
       </mj-column>
     </mj-section>
 
-    <!-- section -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="30px"
-          font-weight="700"
-          line-height="1"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Quotation
-          <br />
-          Email</mj-text
-        >
-      </mj-column>
-
-      <mj-column>
-        <mj-text
-          align="right"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <br />
-          Job ID: <span style="font-size: 30px">0941</span></mj-text
-        >
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding-bottom="0">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Hello {customer},
-        </mj-text>
-
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Thank you for your recent enquiry with Top Removals, please find
-          below your quote.
-        </mj-text>
-
-        <mj-text
-          align="left"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >If you would like to clarify any details, have any questions or
-          require further information, please do not hesitate to get in touch.
-          Our dedicated team of Removals Specialists are available to speak with
-          directly in our Melbourne office on:
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section background-color="white" padding="0">
-      <mj-column>
-        <mj-text
-          align="left"
-          font-size="14px"
-          font-weight="700"
-          line-height="2"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="mailto:sales@topgunmovers.com.au"
-            style="text-decoration: none; color: black"
-            >sales@topgunmovers.com.au</a
+    <mj-wrapper
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+    >
+      <!-- section -->
+      <mj-section>
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="30px"
+            font-weight="700"
+            line-height="1"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
           >
-          <br />
-          <a href="tel:1300 214 396" style="text-decoration: none; color: black"
-            >1300 214 396</a
+            Quotation
+            <br />
+            Email</mj-text
           >
-        </mj-text>
-      </mj-column>
+        </mj-column>
 
-      <mj-column>
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/topgunmovers"
+        <mj-column>
+          <mj-text
+            align="right"
+            font-size="21px"
+            font-weight="500"
+            line-height="1.4"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
           >
-          </mj-social-element>
-          <mj-social-element
-            name="linkedin"
-            href="https://www.linkedin.com/company/topgunmovers"
+            <br />
+            Job ID: <span style="font-size: 30px">0941</span></mj-text
           >
-          </mj-social-element>
-          <mj-social-element
-            name="twitter"
-            href="https://twitter.com/topgunmovers"
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding-bottom="0">
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="21px"
+            font-weight="500"
+            line-height="1.4"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Hello {customer},
+          </mj-text>
+
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >Thank you for your recent enquiry with Top Removals, please find
+            below your quote.
+          </mj-text>
+
+          <mj-text
+            align="left"
+            font-size="14px"
+            line-height="1.4"
+            padding-top="0"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
+            >If you would like to clarify any details, have any questions or
+            require further information, please do not hesitate to get in touch.
+            Our dedicated team of Removals Specialists are available to speak
+            with directly in our Melbourne office on:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- section -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-text
+            align="left"
+            font-size="14px"
+            font-weight="700"
+            line-height="2"
+            color="white"
+            font-family="DM Sans, sans-serif"
+            letter-spacing="0.5px"
           >
-          </mj-social-element>
-        </mj-social>
-      </mj-column>
-    </mj-section>
+            <a
+              href="mailto:sales@topgunmovers.com.au"
+              style="text-decoration: none; color: white"
+              >sales@topgunmovers.com.au</a
+            >
+            <br />
+            <a
+              href="tel:1300 214 396"
+              style="text-decoration: none; color: white"
+              >1300 214 396</a
+            >
+          </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element
+              name="facebook"
+              href="https://www.facebook.com/topgunmovers"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="linkedin"
+              href="https://www.linkedin.com/company/topgunmovers"
+            >
+            </mj-social-element>
+            <mj-social-element
+              name="twitter"
+              href="https://twitter.com/topgunmovers"
+            >
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
 
     <!-- details -->
     <mj-section background-color="white" padding-bottom="0">
@@ -515,8 +521,9 @@
     <mj-section background-color="white" padding-top="0" padding-bottom="0">
       <mj-column>
         <mj-button
+          font-size="20px"
           padding="30px"
-          background-color="green"
+          background-color="#F87171"
           inner-padding="20px 30px"
           >Accept Quote</mj-button
         >
@@ -593,7 +600,6 @@
           font-size="16px"
           font-weight="500"
           line-height="1.4"
-          padding-top="0"
           padding-bottom="5px"
           color="black"
           font-family="DM Sans, sans-serif"
@@ -646,7 +652,7 @@
     </mj-section>
 
     <!-- certificate -->
-    <mj-section background-color="white" padding-bottom="0">
+    <mj-section background-color="white">
       <mj-column>
         <mj-divider />
 
@@ -674,20 +680,20 @@
         >
           https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf
         </mj-text>
-
-        <mj-divider />
       </mj-column>
     </mj-section>
 
     <!-- terms -->
-    <mj-section background-color="white" padding-bottom="0">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+    >
       <mj-column>
         <mj-text
           align="left"
           font-size="15px"
           font-weight="700"
           line-height="1.4"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Terms & Conditions
@@ -699,7 +705,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >1. Our prices exclude GST.
@@ -710,7 +716,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >2. We provide a door-to-door service. The hourly rate starts once we
@@ -724,7 +730,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >3. Each truck is fully-equipped with free of charge materials:
@@ -740,7 +746,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >4. Although every professional attempt to move items will be carried
@@ -753,7 +759,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >5. The client, or the clients representative, must always be present
@@ -766,7 +772,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >6. We require full payment at the end of the move. The client has the
@@ -780,7 +786,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >7. We do not charge any extra for using stairs or elevators.
@@ -791,7 +797,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >8. Any extra-large item must be notified to the office prior to the
@@ -805,7 +811,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >9. Goods in transit have up to $50,000 insurance coverage, Public
@@ -819,7 +825,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >10. Insurance will only apply if the client, or a representative of
@@ -831,7 +837,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >11. Insurance applies only when items are professionally protected.
@@ -845,7 +851,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >12. Insurance will not cover damaged items inside the boxes unless
@@ -858,7 +864,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >13. Our insurance does not cover electrical or physical damage when
@@ -872,7 +878,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >14. Insurance does not cover self-assembled furniture items or fat
@@ -884,7 +890,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >15. Insurance does not cover television or computer equipment not
@@ -896,7 +902,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >16. Insurance does not cover stone, including marble, concrete,
@@ -908,7 +914,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >17. Insurance does not cover electrical fault unless caused by
@@ -920,7 +926,7 @@
           line-height="1.4"
           padding-top="0"
           padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >18. A damage caused during the move must be notified by email to
@@ -934,8 +940,7 @@
           font-size="12px"
           line-height="1.4"
           padding-top="0"
-          padding-bottom="0"
-          color="black"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >19. Our entire staff is experienced, efficient and friendly!
@@ -947,8 +952,9 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-button
+          font-size="20px"
           padding="30px"
-          background-color="green"
+          background-color="#F87171"
           inner-padding="20px 30px"
           >Accept Quote</mj-button
         >
