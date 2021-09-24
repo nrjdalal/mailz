@@ -216,6 +216,24 @@
 
     <mj-section background-color="white">
       <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Hear what our clients say about us -
+        </mj-text>
+
+        <mj-image
+          href="https://youtu.be/KJB054zLZq4"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/youtube.jpg"
+          alt=""
+          padding-bottom="30px"
+        />
+
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
           alt=""
