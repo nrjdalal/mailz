@@ -687,6 +687,19 @@
         >
           Open Certificate
         </mj-button>
+
+        <mj-text
+          align="left"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Hear what our clients say about us -
+        </mj-text>
+
+        <mj-image src="" alt="" />
       </mj-column>
     </mj-section>
 
