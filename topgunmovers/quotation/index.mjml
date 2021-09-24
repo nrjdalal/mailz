@@ -527,7 +527,11 @@
           inner-padding="20px 30px"
           >Accept Quote</mj-button
         >
+      </mj-column>
+    </mj-section>
 
+    <!-- <mj-section background-color="white" padding-top="0" padding-bottom="0">
+      <mj-column>
         <mj-text
           align="left"
           font-size="21px"
@@ -538,11 +542,7 @@
           letter-spacing="0.5px"
           >Special Instructions
         </mj-text>
-      </mj-column>
-    </mj-section>
 
-    <mj-section background-color="white" padding-top="0" padding-bottom="0">
-      <mj-column>
         <mj-text
           align="left"
           font-size="14px"
@@ -568,7 +568,7 @@
           Once completed, our team will be in touch to discuss your quote.
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <!-- section -->
     <mj-section background-color="white">
