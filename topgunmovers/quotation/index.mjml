@@ -22,7 +22,7 @@
           href="https://topgunmovers.com.au"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
           alt=""
-          width="200px"
+          width="300px"
         />
       </mj-column>
     </mj-section>
@@ -640,10 +640,12 @@
       padding-bottom="0"
     >
       <mj-column>
+        <mj-divider />
+
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/why-us.gif"
           alt=""
-          width="300px"
+          width="400px"
         />
       </mj-column>
     </mj-section>
