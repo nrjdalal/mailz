@@ -7,12 +7,11 @@
   </mj-head>
   <mj-body>
     <mj-wrapper
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/graphic.png"
+      background-position="bottom center"
     >
       <!-- header section -->
-      <mj-section
-        background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      >
+      <mj-section>
         <mj-column>
           <mj-image
             href="https://topgunmovers.com.au"
