@@ -663,7 +663,7 @@
     <!-- faq -->
     <mj-section
       background-color="white"
-      padding-top="0"
+      padding-top="20px"
       padding-bottom="0"
       css-class="border"
     >
