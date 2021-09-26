@@ -1047,6 +1047,20 @@
       </mj-column>
     </mj-section> -->
 
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      css-class="border"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/reviews.png"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- footer -->
     <mj-section background-color="white" css-class="border">
       <mj-column>
