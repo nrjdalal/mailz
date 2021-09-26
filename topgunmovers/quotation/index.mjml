@@ -4,8 +4,13 @@
       name="DM Sans"
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     />
+
+    <mj-style>
+      .border { background-color: white !important; border: 20px solid #E4E4E7;
+      border-top: none; border-bottom: none; }
+    </mj-style>
   </mj-head>
-  <mj-body>
+  <mj-body css-class="border">
     <!-- header section -->
 
     <mj-wrapper
@@ -687,8 +692,10 @@
           href="https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf"
           background-color="#3B82F6"
         >
-          Open Certificate
+          View Certificate
         </mj-button>
+
+        <mj-divider width="300px" padding="20px" />
 
         <mj-text
           align="center"
@@ -710,7 +717,7 @@
     </mj-section>
 
     <!-- terms -->
-    <mj-section
+    <!-- <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
     >
       <mj-column>
@@ -972,7 +979,7 @@
           >19. Our entire staff is experienced, efficient and friendly!
         </mj-text>
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <!-- footer -->
     <mj-section background-color="white">
