@@ -4,25 +4,33 @@
       name="DM Sans"
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     />
+
+    <mj-style>
+      .border { background-color: white !important; border: 20px solid #E4E4E7;
+      border-top: none; border-bottom: none; }
+    </mj-style>
   </mj-head>
   <mj-body>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-image
+          href="https://topgunmovers.com.au"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
     <mj-wrapper
       background-color="white"
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/02.png"
       background-position="bottom center"
+      css-class="border"
     >
-      <!-- header section -->
-      <mj-section>
-        <mj-column>
-          <mj-image
-            href="https://topgunmovers.com.au"
-            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
-            alt=""
-            width="200px"
-          />
-        </mj-column>
-      </mj-section>
-
       <!-- section -->
       <mj-section>
         <mj-column>
@@ -214,8 +222,601 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section background-color="white">
+    <!-- details -->
+    <mj-section background-color="white" padding-bottom="0" css-class="border">
       <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >Gwen
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Name
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >0456231414
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Mobile
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >gwenlocksmith@gmail.com
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Email
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          ><br />
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Telephone
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- job details -->
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="21px"
+          font-weight="700"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Job Details
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >28/09/2021
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Date
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >08:00 am
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Time
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >Hillside VIC, Australia
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Pickup Address
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >Point Cook VIC, Australia
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Drop Off Address
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >4T
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Truck Size
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >2
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Number of Workers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- pricing -->
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="21px"
+          font-weight="700"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Pricing
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >$120.00
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Hourly Rate (2 Hours Minimum)
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="17px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="2px"
+          >$95.58
+        </mj-text>
+
+        <mj-divider padding="0 25px" border-width="2px" />
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="gray"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Travel Cost (One Way Flat Fee)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- special instructions -->
+    <mj-section
+      background-color="white"
+      padding-top="0"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-button
+          font-size="20px"
+          padding="30px"
+          background-color="#F87171"
+          inner-padding="20px 30px"
+          >Accept Quote</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- <mj-section background-color="white" padding-top="0" padding-bottom="0">
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="21px"
+          font-weight="700"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Special Instructions
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >For quality assurance, we require a full inventory list to be
+          completed by the client. This is to ensure we are providing you with
+          the correct truck.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Once completed, our team will be in touch to discuss your quote.
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+
+    <!-- section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      css-class="border"
+      padding-bottom="0"
+    >
+      <mj-column>
+        <mj-divider />
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/why-us.gif"
+          alt=""
+          width="400px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- faq -->
+    <mj-section
+      background-color="white"
+      padding-top="20px"
+      padding-bottom="0"
+      css-class="border"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="21px"
+          font-weight="700"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Frequently Asked Questions
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          padding-bottom="5px"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          AVAILABILITY FOR MY MOVE?
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Morning and Afternoon Slots are always available for our customers and
+          their reservation is to be discussed with our staff.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="16px"
+          font-weight="500"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="5px"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          HOW AND WHEN DO I PAY?
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          The payment for our services is made after the completion of the job
+          and the payment methods include bank transfer and all major credit
+          cards which consist of an additional 2.2% surcharge.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- certificate -->
+    <mj-section background-color="white" css-class="border">
+      <mj-column>
+        <mj-divider />
+
+        <mj-text
+          align="left"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >To Provide a form of satisfaction to our customers like no other
+          company, we are providing our customers the access to TopGun Mover's
+          Insurance certificate via the link Below -
+        </mj-text>
+
+        <mj-button
+          href="https://moveitpro-production.storage.googleapis.com/topgunmovers/mailing/mailing_file-1626065296-COC-Topgun-%20PL%20insurnace.pdf"
+          background-color="#3B82F6"
+        >
+          View Certificate
+        </mj-button>
+
+        <mj-divider padding-top="15px" />
+
         <mj-text
           align="center"
           font-size="18px"
@@ -231,19 +832,296 @@
           href="https://youtu.be/KJB054zLZq4"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/youtube.jpg"
           alt=""
-          padding-bottom="30px"
         />
+      </mj-column>
+    </mj-section>
 
+    <!-- terms -->
+    <!-- <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+    >
+      <mj-column>
+        <mj-text
+          align="left"
+          font-size="15px"
+          font-weight="700"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Terms & Conditions
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >1. Our prices exclude GST.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >2. We provide a door-to-door service. The hourly rate starts once we
+          arrive at the client's first address and stops when the unload is
+          complete at the final address. All removals are a minimum of 2 hours.
+          After this, we charge per minute (hourly rate calculated pro rata).
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >3. Each truck is fully-equipped with free of charge materials:
+          specialised removal blankets, cardboard, specialised trolley, removal
+          carrying straps, loading ramps, and tools to assemble/dismantle goods.
+          Additional materials can be purchased from either the office directly,
+          or from the removalists upon request; these include: bubble wrap,
+          shrink wrap, tape, boxes and mattress/couch plastic covers.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >4. Although every professional attempt to move items will be carried
+          out as directed by the client, we reserve the right to refuse service
+          at any point.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >5. The client, or the clients representative, must always be present
+          during the move. The client must show us everything required to be
+          moved and must check that nothing extra is taken, or items missed.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >6. We require full payment at the end of the move. The client has the
+          choice to pay either cash, bank transfer or Visa/Mastercard (1.50%
+          surcharge paying with a card).
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >7. We do not charge any extra for using stairs or elevators.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >8. Any extra-large item must be notified to the office prior to the
+          move together with full descriptions and pictures of the item (I.e.:
+          piano, pool table, gym equipment, etc.). Heavy surcharges may apply
+          for specific items.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >9. Goods in transit have up to $50,000 insurance coverage, Public
+          liability & property damage up to $1,000,000 coverage. $250 excess fee
+          applies if any damage to the client's goods and property needs to be
+          fixed or replaced by Top Removals.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >10. Insurance will only apply if the client, or a representative of
+          the client, is present throughout the duration of the move.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >11. Insurance applies only when items are professionally protected.
+          Insurance will not apply in any case where the customer refuses the
+          professional recommendation as to the safest way of transporting your
+          items.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >12. Insurance will not cover damaged items inside the boxes unless
+          Top Removals were responsible for the packing service.
+        </mj-text>
+
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >13. Our insurance does not cover electrical or physical damage when
+          dismantling and reassembling washing machines. Our employees are
+          professional removalists but not professional plumbers. If requested
+          to dismantle and reassemble these items, insurance will not apply.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >14. Insurance does not cover self-assembled furniture items or fat
+          board.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >15. Insurance does not cover television or computer equipment not
+          packed in their original box.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >16. Insurance does not cover stone, including marble, concrete,
+          granite, composite or similar items due to their inherent fragility.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >17. Insurance does not cover electrical fault unless caused by
+          physical damage.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          padding-bottom="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >18. A damage caused during the move must be notified by email to
+          office@topgunmovers.com.au no later than 24 hours after the move. Each
+          claim should include as much information as is known regarding the
+          nature and extent of loss or damage, the value or items and the cost
+          of repairs.
+        </mj-text>
+        <mj-text
+          align="left"
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >19. Our entire staff is experienced, efficient and friendly!
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="white" css-class="border" padding="0">
+      <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/info.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/reviews.png"
           alt=""
+          padding="0"
         />
       </mj-column>
     </mj-section>
 
     <!-- footer -->
-    <mj-section background-color="white">
+    <mj-section background-color="white" css-class="border">
       <mj-column>
+        <mj-button
+          font-size="20px"
+          padding="30px"
+          background-color="#F87171"
+          inner-padding="20px 30px"
+          >Accept Quote</mj-button
+        >
+
         <mj-text
           align="center"
           font-size="14px"
