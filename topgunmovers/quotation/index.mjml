@@ -634,6 +634,16 @@
     </mj-section> -->
 
     <!-- section -->
+    <mj-section background-color="white" css-class="border" padding-bottom="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/Why choose us!.gif"
+          alt=""
+          width="300px"
+        />
+      </mj-column>
+    </mj-section>
+
     <mj-section background-color="white" css-class="border">
       <mj-column>
         <mj-image
