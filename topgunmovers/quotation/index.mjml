@@ -695,7 +695,7 @@
           View Certificate
         </mj-button>
 
-        <mj-divider width="300px" padding="20px" />
+        <mj-divider padding-top="20px" />
 
         <mj-text
           align="center"
