@@ -7,22 +7,23 @@
   </mj-head>
   <mj-body>
     <!-- header section -->
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-    >
-      <mj-column>
-        <mj-image
-          href="https://topgunmovers.com.au"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
-          alt=""
-          width="200px"
-        />
-      </mj-column>
-    </mj-section>
 
     <mj-wrapper
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/photo-1533122250115-6bb28e9a48c3.png"
+      background-color="white"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/02.png"
+      background-position="bottom center"
     >
+      <mj-section>
+        <mj-column>
+          <mj-image
+            href="https://topgunmovers.com.au"
+            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/logo.png"
+            alt=""
+            width="200px"
+          />
+        </mj-column>
+      </mj-section>
+
       <!-- section -->
       <mj-section>
         <mj-column>
@@ -147,7 +148,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="0">
+      <mj-section padding-top="0" padding-bottom="150px">
         <mj-column>
           <mj-button
             font-size="20px"

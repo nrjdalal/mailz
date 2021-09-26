@@ -8,7 +8,7 @@
   <mj-body>
     <mj-wrapper
       background-color="white"
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/graphic.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/02.png"
       background-position="bottom center"
     >
       <!-- header section -->
@@ -170,7 +170,7 @@
       </mj-section>
 
       <!-- section -->
-      <mj-section padding-bottom="0" padding-top="0">
+      <mj-section padding-bottom="150px" padding-top="0">
         <mj-column>
           <mj-button
             font-size="20px"
