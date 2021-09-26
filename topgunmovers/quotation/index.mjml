@@ -637,7 +637,7 @@
     <mj-section background-color="white" css-class="border" padding-bottom="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/Why choose us!.gif"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/topgunmovers/assets/why-us.png"
           alt=""
           width="300px"
         />
