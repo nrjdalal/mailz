@@ -21,7 +21,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/hfp.gif"
           width="400px"
-          padding="20px 10px 10px 30px"
+          padding="10px 15px"
         />
 
         <mj-text
@@ -35,7 +35,7 @@
         >
           WELCOME TO HOMIES FROM PARIS
           <br />
-          FROM FAMILY AND FRIENDS</mj-text
+          FOR FAMILY AND FRIENDS</mj-text
         >
       </mj-column>
     </mj-section>
