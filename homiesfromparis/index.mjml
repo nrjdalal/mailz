@@ -9,272 +9,37 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
+      padding-top="50px"
+      padding-bottom="50px"
     >
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo-for-black.png"
           alt=""
           width="128px"
         />
-      </mj-column>
-    </mj-section>
 
-    <!-- section 01 -->
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Ultimate Selfie Systems and Print Solutions</mj-text
-        >
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.5"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Visualis operates as part of the System Insight group which has
-          global success delivering imaging solutions to some of the worlds most
-          famous resorts, attractions and events. <br /><br />
-          Our aim is to provide the best imaging solutions available to the
-          retail, leisure, events and attractions industry. The team has a vast
-          range of experience of sales, marketing and manufacturing that is
-          specific to the imaging sector.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/printing-systems.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/hfp.gif"
           alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://visualis.co.uk/shop/"
+          width="400px"
+          padding="20px 10px 10px 30px"
         />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
+
         <mj-text
           align="center"
           font-size="21px"
           font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Printing Systems
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >A unique combination of quality and speed
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/media.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://visualis.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Media
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >High quality approved supplies
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/photobooths.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://visualis.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths for all occasions
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/training-courses.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://visualis.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Training Courses
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Inspiring expert tuition
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- footer -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="tel:01329 722 650"
-            style="text-decoration: none; color: black"
-            >01329 722 650</a
-          >
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="mailto:info@visualis.co.uk"
-            style="text-decoration: none; color: black"
-            >info@visualis.co.uk</a
-          >
-        </mj-text>
-
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/VisualisUK"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="linkedin"
-            href="https://www.linkedin.com/company/visualis-uk"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="twitter"
-            href="https://twitter.com/Visualis6"
-          >
-          </mj-social-element>
-        </mj-social>
-
-        <mj-text
-          align="center"
-          font-size="14px"
           line-height="1.4"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          <a
-            href="https://www.visualis.co.uk/"
-            style="text-decoration: none; color: black"
-            >www.visualis.co.uk</a
-          >
-        </mj-text>
+          WELCOME TO HOMIES FROM PARIS
+          <br />
+          FROM FAMILY AND FRIENDS</mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
