@@ -12,13 +12,14 @@
     >
       <mj-column>
         <mj-image
-          href=""
+          href="https://homiesfromparis.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo-for-black.png"
           width="156px"
           padding="20px 0"
         />
 
         <mj-image
+          href="https://homiesfromparis.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/hfp-w400.gif"
           width="400px"
           padding="10px 15px"
@@ -47,7 +48,7 @@
       <mj-column>
         <mj-image
           href="https://homiesfromparis.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/papercut-alfa.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/papercut-beta.png"
           padding="0"
         />
       </mj-column>
