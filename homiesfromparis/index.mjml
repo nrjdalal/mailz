@@ -9,13 +9,13 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
-      padding-top="50px"
     >
       <mj-column>
         <mj-image
           href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo-for-black.png"
           width="156px"
+          padding="20px 0"
         />
 
         <mj-image
