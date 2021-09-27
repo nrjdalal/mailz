@@ -8,12 +8,12 @@
   <mj-body>
     <!-- header section -->
     <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
     >
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/visualis/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo.png"
           alt=""
           width="128px"
         />
