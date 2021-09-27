@@ -14,15 +14,13 @@
     >
       <mj-column>
         <mj-image
-          href="https://www.visualis.co.uk"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo-for-black.png"
-          alt=""
           width="128px"
         />
 
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/hfp.gif"
-          alt=""
           width="400px"
           padding="20px 10px 10px 30px"
         />
@@ -40,6 +38,19 @@
           <br />
           FROM FAMILY AND FRIENDS</mj-text
         >
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          href="https://homiesfromparis.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/message.webp"
+          padding="0"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
