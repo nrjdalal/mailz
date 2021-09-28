@@ -28,13 +28,17 @@
           font-size="21px"
           font-weight="500"
           line-height="1.4"
-          color="#cccccc"
+          color="#aaaaaa"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
           WELCOME TO
           <br />
-          <span style="color: #00528f; font-size: 24px">HOMIES FROM PARIS</span>
+          <a
+            href="https://homiesfromparis.com"
+            style="color: #00528f; font-size: 24px; text-decoration: none"
+            >HOMIES FROM PARIS</a
+          >
           <br />
           FOR FAMILY AND FRIENDS</mj-text
         >
