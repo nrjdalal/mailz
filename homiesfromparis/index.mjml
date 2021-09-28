@@ -7,9 +7,7 @@
   </mj-head>
   <mj-body>
     <!-- header section -->
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
-    >
+    <mj-section background-color="black">
       <mj-column>
         <mj-image
           href="https://homiesfromparis.com"
@@ -22,7 +20,7 @@
           href="https://homiesfromparis.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/hfp-w400.gif"
           width="400px"
-          padding="10px 15px"
+          padding="15px"
         />
 
         <mj-text
@@ -30,21 +28,20 @@
           font-size="21px"
           font-weight="500"
           line-height="1.4"
-          color="white"
+          color="#cccccc"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          WELCOME TO HOMIES FROM PARIS
+          WELCOME TO
+          <br />
+          <span style="color: #00528f; font-size: 24px">HOMIES FROM PARIS</span>
           <br />
           FOR FAMILY AND FRIENDS</mj-text
         >
       </mj-column>
     </mj-section>
 
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
-      padding="0"
-    >
+    <mj-section background-color="black" padding="0" padding-top="20px">
       <mj-column>
         <mj-image
           href="https://homiesfromparis.com"
