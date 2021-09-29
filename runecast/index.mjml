@@ -314,25 +314,47 @@
           line-height="1.4"
           align="center"
         >
-          Contact us now to arrange the trial
+          Arrange the trial
         </mj-text>
 
-        <mj-text
+        <mj-button
+          href="mailto:sales@pactec.co?subject=runecast trial"
+          background-color="red"
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
-          line-height="2"
-          align="center"
+          padding-bottom="20px"
         >
+          Contact Us
+        </mj-button>
+
+        <mj-image
+          alt=""
+          href="https://pactec.co"
+          padding-bottom="24px"
+          src="https://i.ibb.co/1nydQhc/Pactec-GMail-White.png"
+          width="200px"
+        />
+
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="2"
+        >
+          Copyright © 2021. All rights reserved.<br /><br />
           <a
-            href="mailto:innovate@runecast.com"
-            style="text-decoration: none; color: deepskyblue"
+            href="https://pactec.co"
+            style="color: #ffffff; text-decoration: none"
           >
-            innovate@runecast.com
+            Packet Technologies
           </a>
-          <br />
+          <!-- <br />
           <a
             href="tel:+44 203 318 1991"
             style="text-decoration: none; color: deepskyblue"
@@ -346,6 +368,22 @@
             style="text-decoration: none; color: deepskyblue"
           >
             US +1 415 549 8144
+          </a> -->
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+        >
+          <a
+            href="mailto:sales@pactec.co?subject=unsubscribe"
+            style="color: #ffffff; text-decoration: none"
+          >
+            unsubscribe from all emails
           </a>
         </mj-text>
       </mj-column>
