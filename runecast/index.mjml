@@ -4,7 +4,13 @@
       name="DM Sans"
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     />
+
+    <mj-style>
+      .break-on-mobile { @media(max-width: 480px) { td { display: table-row; } }
+      }
+    </mj-style>
   </mj-head>
+
   <mj-body>
     <!--  -->
     <mj-section background-color="#0a0908">
@@ -83,6 +89,186 @@
     </mj-section>
 
     <!--  -->
-    <mj-section background-color="#483370"> </mj-section>
+    <mj-section background-color="#483370">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/dashboard.png"
+          alt=""
+          border-radius="10px"
+          padding="30px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          What we offer
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          padding-bottom="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          • Full visibility over your Hybrid World
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          padding-bottom="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          • A vital tool for maintaining uptime
+        </mj-text>
+
+        <mj-text
+          padding="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          • Adds value & stability to any Hybrid Cloud
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          padding-bottom="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          • Security Compliance
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          • You maintain control of your data
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#0a0908">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Runecast is also self-contained, so no information ever leaves your
+          data centre which is why the likes of the US Defence force, UK
+          Defence, Swedish military and even the Australian Defence Force use
+          our software.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#483370">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          By the numbers
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Mitigate 99% of known issues proactively
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Reduce outage downtime by 85%.
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-top="10px">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Automate 95% of Security Compliance checks
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Find problems in 98% less time
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
