@@ -51,28 +51,28 @@
             <td>
               <img
                 width="40px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/aws.svg"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/aws.png"
                 alt=""
               />
             </td>
             <td>
               <img
                 width="35px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/azure.svg"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/azure.png"
                 alt=""
               />
             </td>
             <td>
               <img
                 width="35px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/kubernetes.svg"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/kubernetes.png"
                 alt=""
               />
             </td>
             <td>
               <img
                 width="50px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/vmware.svg"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/vmware.png"
                 alt=""
               />
             </td>
