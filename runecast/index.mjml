@@ -45,6 +45,39 @@
           Get proactive best practices & security compliance analysis for AWS,
           Azure, Kubernetes & VMware.‍
         </mj-text>
+
+        <mj-table color="white" width="256px" align="center">
+          <tr align="center">
+            <td>
+              <img
+                width="40px"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/aws.svg"
+                alt=""
+              />
+            </td>
+            <td>
+              <img
+                width="35px"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/azure.svg"
+                alt=""
+              />
+            </td>
+            <td>
+              <img
+                width="35px"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/kubernetes.svg"
+                alt=""
+              />
+            </td>
+            <td>
+              <img
+                width="50px"
+                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/vmware.svg"
+                alt=""
+              />
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
   </mj-body>
