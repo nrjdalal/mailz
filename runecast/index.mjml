@@ -4,11 +4,6 @@
       name="DM Sans"
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     />
-
-    <mj-style>
-      .break-on-mobile { @media(max-width: 480px) { td { display: table-row; } }
-      }
-    </mj-style>
   </mj-head>
 
   <mj-body>
@@ -16,6 +11,7 @@
     <mj-section background-color="#0a0908">
       <mj-column>
         <mj-image
+          href="https://www.runecast.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/logo.png"
           alt=""
           width="256px"
@@ -57,6 +53,7 @@
           <tr align="center">
             <td>
               <img
+                href="https://www.runecast.com/"
                 width="40px"
                 src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/aws.png"
                 alt=""
@@ -110,73 +107,59 @@
           What we offer
         </mj-text>
 
-        <mj-text
-          padding-top="0"
-          padding-bottom="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          • Full visibility over your Hybrid World
-        </mj-text>
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Full Visibility over your hybrid world
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              A vital tool for maintaining uptime
+            </td>
+          </tr>
+        </mj-table>
 
-        <mj-text
-          padding-top="0"
-          padding-bottom="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          • A vital tool for maintaining uptime
-        </mj-text>
-
-        <mj-text
-          padding="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          • Adds value & stability to any Hybrid Cloud
-        </mj-text>
-
-        <mj-text
-          padding-top="0"
-          padding-bottom="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          • Security Compliance
-        </mj-text>
-
-        <mj-text
-          padding-top="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          • You maintain control of your data
-        </mj-text>
+        <mj-table color="white" align="center" padding-top="10px">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              Adds value & stability to any Hybrid Cloud
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #483370;
+                border-left: 10px solid #483370;
+              "
+            >
+              You maintain control of your data
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
@@ -268,6 +251,103 @@
             </td>
           </tr>
         </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#0a0908">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Built by Admins for Admins,
+          <br />
+          so why not trial Runecast for 14 days with no obligation
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="2"
+          align="center"
+        >
+          Implemented in 15 mins
+          <br />
+          Non-intrusive
+          <br />
+          Guaranteed to discover something
+        </mj-text>
+
+        <mj-button
+          href="https://www.youtube.com/watch?v=THicypK9qwo"
+          background-color="#483370"
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          padding-bottom="20px"
+        >
+          Watch the video
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#483370">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Contact us now to arrange the trial
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="2"
+          align="center"
+        >
+          <a
+            href="mailto:innovate@runecast.com"
+            style="text-decoration: none; color: deepskyblue"
+          >
+            innovate@runecast.com
+          </a>
+          <br />
+          <a
+            href="tel:+44 203 318 1991"
+            style="text-decoration: none; color: deepskyblue"
+          >
+            UK +44 203 318 1991
+          </a>
+
+          <br />
+          <a
+            href="tel:+1 415 549 8144"
+            style="text-decoration: none; color: deepskyblue"
+          >
+            US +1 415 549 8144
+          </a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
