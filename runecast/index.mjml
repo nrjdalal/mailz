@@ -6,7 +6,7 @@
     />
   </mj-head>
   <mj-body>
-    <!---->
+    <!--  -->
     <mj-section background-color="#0a0908">
       <mj-column>
         <mj-image
@@ -16,7 +16,8 @@
         />
       </mj-column>
     </mj-section>
-    <!---->
+
+    <!--  -->
     <mj-section background-color="#0a0908">
       <mj-column>
         <mj-text
@@ -43,7 +44,7 @@
           align="center"
         >
           Get proactive best practices & security compliance analysis for AWS,
-          Azure, Kubernetes & VMware.‍
+          Azure, Kubernetes & VMware
         </mj-text>
 
         <mj-table color="white" width="256px" align="center">
@@ -80,5 +81,8 @@
         </mj-table>
       </mj-column>
     </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#483370"> </mj-section>
   </mj-body>
 </mjml>
