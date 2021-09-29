@@ -288,6 +288,18 @@
         </mj-text>
 
         <mj-button
+          href="https://static.runecast.com/uploads/product/runecast_analyzer_brochure.pdf"
+          background-color="#483370"
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+        >
+          Get the datasheet
+        </mj-button>
+
+        <mj-button
           href="https://www.youtube.com/watch?v=THicypK9qwo"
           background-color="#483370"
           font-family="DM Sans, sans-serif"
