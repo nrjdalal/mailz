@@ -37,7 +37,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
           alt=""
           border-radius="10px"
-          padding="50px"
+          padding="30px"
         />
 
         <mj-text
@@ -52,7 +52,7 @@
           ATW Training Solutions & New Horizons Computer Learning Center
         </mj-text>
 
-        <mj-table color="white" align="center" padding="25px 50px">
+        <mj-table color="white" align="center" padding="25px 30px">
           <tr align="center">
             <td
               style="
@@ -78,7 +78,7 @@
         <mj-table
           color="white"
           align="center"
-          padding="25px 50px"
+          padding="25px 30px"
           padding-top="0"
         >
           <tr align="center">
@@ -159,7 +159,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/beta.jpg"
           alt=""
           border-radius="10px"
-          padding="50px"
+          padding="30px"
         />
 
         <mj-text
@@ -174,7 +174,7 @@
           McHenry Savings Bank
         </mj-text>
 
-        <mj-table color="white" align="center" padding="25px 50px">
+        <mj-table color="white" align="center" padding="25px 30px">
           <tr align="center">
             <td
               style="
@@ -200,7 +200,7 @@
         <mj-table
           color="white"
           align="center"
-          padding="25px 50px"
+          padding="25px 30px"
           padding-top="0"
         >
           <tr align="center">
@@ -279,7 +279,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
           alt=""
           border-radius="10px"
-          padding="50px"
+          padding="30px"
         />
 
         <mj-text
@@ -294,7 +294,7 @@
           Wild Rose Casino
         </mj-text>
 
-        <mj-table color="white" align="center" padding="25px 50px">
+        <mj-table color="white" align="center" padding="25px 30px">
           <tr align="center">
             <td
               style="
@@ -321,7 +321,7 @@
         <mj-table
           color="white"
           align="center"
-          padding="25px 50px"
+          padding="25px 30px"
           padding-top="0"
         >
           <tr align="center">
