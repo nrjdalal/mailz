@@ -31,11 +31,88 @@
     </mj-section>
 
     <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          alt=""
+          border-radius="10px"
+          padding="50px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          ATW Training Solutions & New Horizons Computer Learning Center
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 50px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              We have worked exclusively with The Finway Group since the
+              implementation of our company 401(k) plan in 2012. The knowledge
+              and guidance they have provided us has been invaluable.
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 50px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              The entire staff always provide excellent service whether it’s
+              just a “quick” question, a plan change, or when it comes to
+              assisting with our year-end census. We can’t thank the Finway team
+              enough for all they do for us. ATW Training is grateful for the
+              opportunity to work with The Finway Group
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
     <mj-section background-color="#3A1316">
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#ffffff"
+          color="white"
           font-size="24px"
           font-weight="500"
           letter-spacing="1px"
@@ -47,7 +124,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#D3ACAF"
+          color="lightgray"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -62,7 +139,7 @@
         <mj-text
           padding-top="0"
           font-family="DM Sans, sans-serif"
-          color="#D3ACAF"
+          color="lightgray"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -76,11 +153,255 @@
     </mj-section>
 
     <!--  -->
-    <mj-section background-color="#001F00">
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          alt=""
+          border-radius="10px"
+          padding="50px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          ATW Training Solutions & New Horizons Computer Learning Center
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 50px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              We have worked exclusively with The Finway Group since the
+              implementation of our company 401(k) plan in 2012. The knowledge
+              and guidance they have provided us has been invaluable.
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 50px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              The entire staff always provide excellent service whether it’s
+              just a “quick” question, a plan change, or when it comes to
+              assisting with our year-end census. We can’t thank the Finway team
+              enough for all they do for us. ATW Training is grateful for the
+              opportunity to work with The Finway Group
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#3A1316">
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#dedede"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Designated Plan Fiduciary
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Plan Sponsors are looking for help. Many are not equipped or qualified
+          to run and maintain their retirement plan and do not know they are
+          personally responsible.
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          As a Designated Plan Fiduciary, we will provide peace of mind and
+          stand shoulder to shoulder with the employer.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          alt=""
+          border-radius="10px"
+          padding="50px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          ATW Training Solutions & New Horizons Computer Learning Center
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 50px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              We have worked exclusively with The Finway Group since the
+              implementation of our company 401(k) plan in 2012. The knowledge
+              and guidance they have provided us has been invaluable.
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 50px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              The entire staff always provide excellent service whether it’s
+              just a “quick” question, a plan change, or when it comes to
+              assisting with our year-end census. We can’t thank the Finway team
+              enough for all they do for us. ATW Training is grateful for the
+              opportunity to work with The Finway Group
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#3A1316">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Designated Plan Fiduciary
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Plan Sponsors are looking for help. Many are not equipped or qualified
+          to run and maintain their retirement plan and do not know they are
+          personally responsible.
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          As a Designated Plan Fiduciary, we will provide peace of mind and
+          stand shoulder to shoulder with the employer.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
           font-size="24px"
           font-weight="500"
           letter-spacing="1px"
@@ -92,7 +413,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#99EBC6"
+          color="lightgray"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -107,7 +428,7 @@
         <mj-text
           padding-top="0"
           font-family="DM Sans, sans-serif"
-          color="#99EBC6"
+          color="lightgray"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -125,7 +446,7 @@
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#ffffff"
+          color="white"
           font-size="24px"
           font-weight="500"
           letter-spacing="1px"
@@ -137,7 +458,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#D3ACAF"
+          color="lightgray"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -148,84 +469,6 @@
           service, detailed processes, and the promise to stand by you, your
           plan, and our work.
         </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!--  -->
-    <mj-section background-color="#483370">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/dashboard.png"
-          alt=""
-          border-radius="10px"
-          padding="30px"
-        />
-
-        <mj-text
-          font-family="DM Sans, sans-serif"
-          color="white"
-          font-size="24px"
-          font-weight="500"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          What we offer
-        </mj-text>
-
-        <mj-table color="white" align="center" padding-bottom="0">
-          <tr align="center">
-            <td
-              width="50%"
-              style="
-                background-color: #0a0908;
-                padding: 10px;
-                border-right: 10px solid #483370;
-                border-left: 10px solid #483370;
-              "
-            >
-              Full Visibility over your hybrid world
-            </td>
-            <td
-              width="50%"
-              style="
-                background-color: #0a0908;
-                padding: 10px;
-                border-right: 10px solid #483370;
-                border-left: 10px solid #483370;
-              "
-            >
-              A vital tool for maintaining uptime
-            </td>
-          </tr>
-        </mj-table>
-
-        <mj-table color="white" align="center" padding-top="10px">
-          <tr align="center">
-            <td
-              width="50%"
-              style="
-                background-color: #0a0908;
-                padding: 10px;
-                border-right: 10px solid #483370;
-                border-left: 10px solid #483370;
-              "
-            >
-              Adds value & stability to any Hybrid Cloud
-            </td>
-            <td
-              width="50%"
-              style="
-                background-color: #0a0908;
-                padding: 10px;
-                border-right: 10px solid #483370;
-                border-left: 10px solid #483370;
-              "
-            >
-              You maintain control of your data
-            </td>
-          </tr>
-        </mj-table>
       </mj-column>
     </mj-section>
 
