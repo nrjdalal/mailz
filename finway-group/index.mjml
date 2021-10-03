@@ -124,7 +124,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -139,7 +139,7 @@
         <mj-text
           padding-top="0"
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -156,7 +156,7 @@
     <mj-section background-color="#000000">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/beta.jpg"
           alt=""
           border-radius="10px"
           padding="50px"
@@ -171,38 +171,10 @@
           line-height="1.4"
           align="center"
         >
-          ATW Training Solutions & New Horizons Computer Learning Center
+          McHenry Savings Bank
         </mj-text>
 
         <mj-table color="white" align="center" padding="25px 50px">
-          <tr align="center">
-            <td
-              style="
-                padding: 10px;
-                border-right: 10px solid #ff0b00;
-                border-left: 10px solid #47ebc6;
-                font-family: 'DM Sans', sans-serif;
-                color: white;
-                font-size: 18px;
-                font-weight: 400;
-                letter-spacing: 1px;
-                line-height: 1.4;
-                align: center;
-              "
-            >
-              We have worked exclusively with The Finway Group since the
-              implementation of our company 401(k) plan in 2012. The knowledge
-              and guidance they have provided us has been invaluable.
-            </td>
-          </tr>
-        </mj-table>
-
-        <mj-table
-          color="white"
-          align="center"
-          padding="25px 50px"
-          padding-top="0"
-        >
           <tr align="center">
             <td
               style="
@@ -218,85 +190,19 @@
                 align: center;
               "
             >
-              The entire staff always provide excellent service whether it’s
-              just a “quick” question, a plan change, or when it comes to
-              assisting with our year-end census. We can’t thank the Finway team
-              enough for all they do for us. ATW Training is grateful for the
-              opportunity to work with The Finway Group
+              The Finway Group has been our 401(k) administrator since 2003 —
+              through two different investment providers. We have obviously been
+              extremely pleased over the last 17 years.
             </td>
           </tr>
         </mj-table>
-      </mj-column>
-    </mj-section>
 
-    <!--  -->
-    <mj-section background-color="#3A1316">
-      <mj-column>
-        <mj-text
-          font-family="DM Sans, sans-serif"
+        <mj-table
           color="white"
-          font-size="24px"
-          font-weight="500"
-          letter-spacing="1px"
-          line-height="1.4"
           align="center"
-        >
-          Designated Plan Fiduciary
-        </mj-text>
-
-        <mj-text
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          Plan Sponsors are looking for help. Many are not equipped or qualified
-          to run and maintain their retirement plan and do not know they are
-          personally responsible.
-        </mj-text>
-
-        <mj-text
+          padding="25px 50px"
           padding-top="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
         >
-          As a Designated Plan Fiduciary, we will provide peace of mind and
-          stand shoulder to shoulder with the employer.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!--  -->
-    <mj-section background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
-          alt=""
-          border-radius="10px"
-          padding="50px"
-        />
-
-        <mj-text
-          font-family="DM Sans, sans-serif"
-          color="white"
-          font-size="24px"
-          font-weight="500"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          ATW Training Solutions & New Horizons Computer Learning Center
-        </mj-text>
-
-        <mj-table color="white" align="center" padding="25px 50px">
           <tr align="center">
             <td
               style="
@@ -312,39 +218,9 @@
                 align: center;
               "
             >
-              We have worked exclusively with The Finway Group since the
-              implementation of our company 401(k) plan in 2012. The knowledge
-              and guidance they have provided us has been invaluable.
-            </td>
-          </tr>
-        </mj-table>
-
-        <mj-table
-          color="white"
-          align="center"
-          padding="25px 50px"
-          padding-top="0"
-        >
-          <tr align="center">
-            <td
-              style="
-                padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #ff0b00;
-                font-family: 'DM Sans', sans-serif;
-                color: white;
-                font-size: 18px;
-                font-weight: 400;
-                letter-spacing: 1px;
-                line-height: 1.4;
-                align: center;
-              "
-            >
-              The entire staff always provide excellent service whether it’s
-              just a “quick” question, a plan change, or when it comes to
-              assisting with our year-end census. We can’t thank the Finway team
-              enough for all they do for us. ATW Training is grateful for the
-              opportunity to work with The Finway Group
+              With the speedy service and attention to detail we have always
+              received from The Finway Group. Thank you, Finway, for your 3(16)
+              Administrator service — you rock!
             </td>
           </tr>
         </mj-table>
@@ -353,51 +229,6 @@
 
     <!--  -->
     <mj-section background-color="#3A1316">
-      <mj-column>
-        <mj-text
-          font-family="DM Sans, sans-serif"
-          color="white"
-          font-size="24px"
-          font-weight="500"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          Designated Plan Fiduciary
-        </mj-text>
-
-        <mj-text
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          Plan Sponsors are looking for help. Many are not equipped or qualified
-          to run and maintain their retirement plan and do not know they are
-          personally responsible.
-        </mj-text>
-
-        <mj-text
-          padding-top="0"
-          font-family="DM Sans, sans-serif"
-          color="lightgray"
-          font-size="18px"
-          font-weight="400"
-          letter-spacing="1px"
-          line-height="1.4"
-          align="center"
-        >
-          As a Designated Plan Fiduciary, we will provide peace of mind and
-          stand shoulder to shoulder with the employer.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!--  -->
-    <mj-section background-color="#000000">
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
@@ -413,7 +244,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -428,7 +259,7 @@
         <mj-text
           padding-top="0"
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -438,6 +269,84 @@
           With experienced administrators and the latest technology, our clients
           stay with us for the long term.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          alt=""
+          border-radius="10px"
+          padding="50px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Wild Rose Casino
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 50px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              The Finway Group has always done an excellent job for us. We have
+              had the pleasure of working with them for several years now. We
+              are highly satisfied with their services, professionalism, and
+              responsiveness to emails and phone calls.
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 50px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              Dealing with retirement plans can be a complex situation, but The
+              Finway Group makes it an easier process by explaining things in a
+              manner that we all understand. We have a great deal of trust and
+              integrity in The Finway Group and would highly recommend them as
+              an administrator for any company’s retirement plan.
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
@@ -458,7 +367,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
@@ -582,7 +491,7 @@
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="white"
           font-size="16px"
           font-weight="400"
           letter-spacing="1px"
