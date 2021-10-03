@@ -61,7 +61,7 @@
                 border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -89,7 +89,7 @@
                 border-left: 10px solid #ff0b00;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -183,7 +183,7 @@
                 border-left: 10px solid #ff0b00;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -211,7 +211,7 @@
                 border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -303,7 +303,7 @@
                 border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -332,7 +332,7 @@
                 border-left: 10px solid #ff0b00;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 18px;
+                font-size: 17px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -377,6 +377,110 @@
           Getting it done right the first time. We work hard to provide personal
           service, detailed processes, and the promise to stand by you, your
           plan, and our work.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="18px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Contact
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          5625 Mills Civic Pkwy
+          <br />
+          Suite 101 West Des Moines
+          <br />
+          IA 50266
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="tel:(800) 961-7847"
+            style="text-decoration: none; color: white"
+            >(800) 961-7847</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:info@info@finwaygroup.com"
+            style="text-decoration: none; color: white"
+            >info@finwaygroup.com</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://finwaygroup.com"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="youtube"
+            href="https://finwaygroup.com"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="https://finwaygroup.com"
+            padding="5px"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          ©2021 The Finway Group, 5625 Mills Civic Pkwy. Suite 101 West Des
+          Moines, IA 50266 You are receiving this email because of your
+          association with Finway Group www.finwaygroup.com.
+          <br />
+          <br />
+          <a
+            href="mailto:unsubscribe@finwaygroup.com?subject=unsubscribe"
+            style="text-decoration: none; color: white"
+            >Unsubscribe</a
+          >
         </mj-text>
       </mj-column>
     </mj-section>
