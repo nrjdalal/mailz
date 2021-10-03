@@ -8,80 +8,146 @@
 
   <mj-body>
     <!--  -->
-    <mj-section background-color="#0a0908">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
       <mj-column>
         <mj-image
           href="https://www.runecast.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/logo.png"
           alt=""
-          width="200px"
+          width="216px"
+          padding-bottom="24px"
+        />
+
+        <mj-image
+          href="https://www.runecast.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/hero.gif"
+          alt=""
+          padding="0"
+          padding-bottom="24px"
         />
       </mj-column>
     </mj-section>
 
     <!--  -->
-    <mj-section background-color="#0a0908">
+    <mj-section background-color="#3A1316">
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="white"
+          color="#ffffff"
           font-size="24px"
           font-weight="500"
           letter-spacing="1px"
           line-height="1.4"
           align="center"
         >
-          Optimize and Secure
-          <br />
-          your Hybrid Cloud
+          Designated Plan Fiduciary
         </mj-text>
 
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="lightgray"
+          color="#D3ACAF"
           font-size="18px"
           font-weight="400"
           letter-spacing="1px"
           line-height="1.4"
           align="center"
         >
-          Get proactive best practices & security compliance analysis for AWS,
-          Azure, Kubernetes & VMware
+          Plan Sponsors are looking for help. Many are not equipped or qualified
+          to run and maintain their retirement plan and do not know they are
+          personally responsible.
         </mj-text>
 
-        <mj-table color="white" width="256px" align="center">
-          <tr align="center">
-            <td>
-              <img
-                href="https://www.runecast.com/"
-                width="40px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/aws.png"
-                alt=""
-              />
-            </td>
-            <td>
-              <img
-                width="35px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/azure.png"
-                alt=""
-              />
-            </td>
-            <td>
-              <img
-                width="35px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/kubernetes.png"
-                alt=""
-              />
-            </td>
-            <td>
-              <img
-                width="50px"
-                src="https://raw.githubusercontent.com/nrjdalal/mailz/master/runecast/assets/vmware.png"
-                alt=""
-              />
-            </td>
-          </tr>
-        </mj-table>
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="#D3ACAF"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          As a Designated Plan Fiduciary, we will provide peace of mind and
+          stand shoulder to shoulder with the employer.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#001F00">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#dedede"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          First-Class TPA
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#99EBC6"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Our administrators have an average of 20+ years of industry
+          experience. We pride ourselves with 98% of Form 5500s filed on time as
+          well as 99.5% client retention for the past five years.
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="#99EBC6"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          With experienced administrators and the latest technology, our clients
+          stay with us for the long term.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#3A1316">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#ffffff"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Customer Service
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#D3ACAF"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Getting it done right the first time. We work hard to provide personal
+          service, detailed processes, and the promise to stand by you, your
+          plan, and our work.
+        </mj-text>
       </mj-column>
     </mj-section>
 
