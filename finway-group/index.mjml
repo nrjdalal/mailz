@@ -49,7 +49,9 @@
           line-height="1.4"
           align="center"
         >
-          ATW Training Solutions & New Horizons Computer Learning Center
+          <singleline>
+            ATW Training Solutions & New Horizons Computer Learning Center
+          </singleline>
         </mj-text>
 
         <mj-table color="white" align="center" padding="25px 30px">
@@ -68,9 +70,11 @@
                 align: center;
               "
             >
-              We have worked exclusively with The Finway Group since the
-              implementation of our company 401(k) plan in 2012. The knowledge
-              and guidance they have provided us has been invaluable.
+              <singleline>
+                We have worked exclusively with The Finway Group since the
+                implementation of our company 401(k) plan in 2012. The knowledge
+                and guidance they have provided us has been invaluable.
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -96,11 +100,13 @@
                 align: center;
               "
             >
-              The entire staff always provide excellent service whether it’s
-              just a “quick” question, a plan change, or when it comes to
-              assisting with our year-end census. We can’t thank the Finway team
-              enough for all they do for us. ATW Training is grateful for the
-              opportunity to work with The Finway Group
+              <singleline>
+                The entire staff always provide excellent service whether it’s
+                just a “quick” question, a plan change, or when it comes to
+                assisting with our year-end census. We can’t thank the Finway
+                team enough for all they do for us. ATW Training is grateful for
+                the opportunity to work with The Finway Group
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -119,7 +125,7 @@
           line-height="1.4"
           align="center"
         >
-          Designated Plan Fiduciary
+          <singleline> Designated Plan Fiduciary </singleline>
         </mj-text>
 
         <mj-text
@@ -131,9 +137,11 @@
           line-height="1.4"
           align="center"
         >
-          Plan Sponsors are looking for help. Many are not equipped or qualified
-          to run and maintain their retirement plan and do not know they are
-          personally responsible.
+          <singleline>
+            Plan Sponsors are looking for help. Many are not equipped or
+            qualified to run and maintain their retirement plan and do not know
+            they are personally responsible.
+          </singleline>
         </mj-text>
 
         <mj-text
@@ -146,8 +154,10 @@
           line-height="1.4"
           align="center"
         >
-          As a Designated Plan Fiduciary, we will provide peace of mind and
-          stand shoulder to shoulder with the employer.
+          <singleline>
+            As a Designated Plan Fiduciary, we will provide peace of mind and
+            stand shoulder to shoulder with the employer.
+          </singleline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -171,7 +181,7 @@
           line-height="1.4"
           align="center"
         >
-          McHenry Savings Bank
+          <singleline> McHenry Savings Bank </singleline>
         </mj-text>
 
         <mj-table color="white" align="center" padding="25px 30px">
@@ -190,9 +200,11 @@
                 align: center;
               "
             >
-              The Finway Group has been our 401(k) administrator since 2003 —
-              through two different investment providers. We have obviously been
-              extremely pleased over the last 17 years.
+              <singleline>
+                The Finway Group has been our 401(k) administrator since 2003 —
+                through two different investment providers. We have obviously
+                been extremely pleased over the last 17 years.
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -218,9 +230,11 @@
                 align: center;
               "
             >
-              With the speedy service and attention to detail we have always
-              received from The Finway Group. Thank you, Finway, for your 3(16)
-              Administrator service — you rock!
+              <singleline>
+                With the speedy service and attention to detail we have always
+                received from The Finway Group. Thank you, Finway, for your
+                3(16) Administrator service — you rock!
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -239,7 +253,7 @@
           line-height="1.4"
           align="center"
         >
-          First-Class TPA
+          <singleline> First-Class TPA </singleline>
         </mj-text>
 
         <mj-text
@@ -251,9 +265,11 @@
           line-height="1.4"
           align="center"
         >
-          Our administrators have an average of 20+ years of industry
-          experience. We pride ourselves with 98% of Form 5500s filed on time as
-          well as 99.5% client retention for the past five years.
+          <singleline>
+            Our administrators have an average of 20+ years of industry
+            experience. We pride ourselves with 98% of Form 5500s filed on time
+            as well as 99.5% client retention for the past five years.
+          </singleline>
         </mj-text>
 
         <mj-text
@@ -266,8 +282,10 @@
           line-height="1.4"
           align="center"
         >
-          With experienced administrators and the latest technology, our clients
-          stay with us for the long term.
+          <singleline>
+            With experienced administrators and the latest technology, our
+            clients stay with us for the long term.
+          </singleline>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -291,7 +309,7 @@
           line-height="1.4"
           align="center"
         >
-          Wild Rose Casino
+          <singleline> Wild Rose Casino </singleline>
         </mj-text>
 
         <mj-table color="white" align="center" padding="25px 30px">
@@ -310,10 +328,12 @@
                 align: center;
               "
             >
-              The Finway Group has always done an excellent job for us. We have
-              had the pleasure of working with them for several years now. We
-              are highly satisfied with their services, professionalism, and
-              responsiveness to emails and phone calls.
+              <singleline>
+                The Finway Group has always done an excellent job for us. We
+                have had the pleasure of working with them for several years
+                now. We are highly satisfied with their services,
+                professionalism, and responsiveness to emails and phone calls.
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -339,11 +359,14 @@
                 align: center;
               "
             >
-              Dealing with retirement plans can be a complex situation, but The
-              Finway Group makes it an easier process by explaining things in a
-              manner that we all understand. We have a great deal of trust and
-              integrity in The Finway Group and would highly recommend them as
-              an administrator for any company’s retirement plan.
+              <singleline>
+                Dealing with retirement plans can be a complex situation, but
+                The Finway Group makes it an easier process by explaining things
+                in a manner that we all understand. We have a great deal of
+                trust and integrity in The Finway Group and would highly
+                recommend them as an administrator for any company’s retirement
+                plan.
+              </singleline>
             </td>
           </tr>
         </mj-table>
@@ -362,7 +385,7 @@
           line-height="1.4"
           align="center"
         >
-          Customer Service
+          <singleline> Customer Service </singleline>
         </mj-text>
 
         <mj-text
@@ -374,9 +397,11 @@
           line-height="1.4"
           align="center"
         >
-          Getting it done right the first time. We work hard to provide personal
-          service, detailed processes, and the promise to stand by you, your
-          plan, and our work.
+          <singleline>
+            Getting it done right the first time. We work hard to provide
+            personal service, detailed processes, and the promise to stand by
+            you, your plan, and our work.
+          </singleline>
         </mj-text>
       </mj-column>
     </mj-section>
