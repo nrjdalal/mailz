@@ -331,7 +331,7 @@
 
         <mj-button
           href="mailto:sales@pactec.co?subject=runecast trial"
-          background-color="red"
+          background-color="#F25F4A"
           font-family="DM Sans, sans-serif"
           color="white"
           font-size="16px"
