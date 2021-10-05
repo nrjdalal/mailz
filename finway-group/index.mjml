@@ -434,7 +434,7 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@info@finwaygroup.com"
+            href="mailto:info@finwaygroup.com"
             style="text-decoration: none; color: white"
             >info@finwaygroup.com</a
           >
@@ -443,7 +443,7 @@
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
             name="facebook"
-            href="http://www.finwaygroup.com"
+            href="https://www.facebook.com/pages/category/Financial-Service/The-Finway-Group-302032073561303/"
             padding="5px"
           >
           </mj-social-element>
@@ -454,8 +454,8 @@
           >
           </mj-social-element>
           <mj-social-element
-            name="twitter"
-            href="http://www.finwaygroup.com"
+            name="linkedin"
+            href="https://www.linkedin.com/company/the-finway-group-llc"
             padding="5px"
           >
           </mj-social-element>
