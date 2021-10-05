@@ -477,11 +477,7 @@
           >
           <br />
           <br />
-          <a
-            href="mailto:unsubscribe@finwaygroup.com?subject=unsubscribe"
-            style="text-decoration: none; color: white"
-            >Unsubscribe</a
-          >
+          <unsubscribe>Unsubscribe</unsubscribe>
         </mj-text>
       </mj-column>
     </mj-section>
