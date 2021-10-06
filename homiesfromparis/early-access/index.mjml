@@ -11,9 +11,9 @@
       <mj-column>
         <mj-image
           href="https://homiesfromparis.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/logo-for-black.png"
-          width="156px"
-          padding="20px 0"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/homiesfromparis/assets/black-logo.png"
+          width="166px"
+          padding="15px 0"
         />
 
         <mj-image
