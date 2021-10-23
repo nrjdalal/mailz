@@ -13,9 +13,10 @@
       <mj-column>
         <mj-image
           href="https://www.visualis.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/johnson-and-johnson-logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/johnsonsbabycom-icon.png"
           alt=""
-          width="256px"
+          width="100px"
+          border-radius="50px"
         />
       </mj-column>
     </mj-section>
