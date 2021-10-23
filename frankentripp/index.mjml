@@ -21,7 +21,7 @@
       </mj-column>
     </mj-section>
 
-    <!-- section 01 -->
+    <!-- section -->
     <mj-section background-color="white">
       <mj-column>
         <mj-text
@@ -62,6 +62,42 @@
           alt=""
           padding="36px 0 0 0"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          You’re a Coupon Away from a Smiling Baby</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          There’s a Better Way to Care for Your Baby’s Skin
+        </mj-text>
+
+        <mj-button
+          background-color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Claim Your Coupon
+        </mj-button>
       </mj-column>
     </mj-section>
   </mj-body>
