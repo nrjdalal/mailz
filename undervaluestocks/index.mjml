@@ -44,30 +44,34 @@
           letter-spacing="0.5px"
           padding-bottom="0"
         >
-          Caritas Solution’s Here To Help
+          Are you a Finance Student eager to become a successful trader?
         </mj-text>
 
         <mj-text
           font-size="20px"
           line-height="1.5"
-          color="black"
+          color="#DC2626"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           padding-top="0"
-          >Simple, agency staffing with ease
+        >
+          Are you struggling trading on your own? Or, are you tired of paying
+          finance gurus top dollars for their advice and losing money with their
+          bad trades?
         </mj-text>
 
         <mj-text
-          font-size="12px"
+          font-size="16px"
           line-height="1.5"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Have a need for Nursing any specialty? We have you covered. Our
-          company is here to fulfill any and all of your staffing needs. Our
-          nursing department maintains a detailed database of nurses of all
-          specialties who are ready to travel to your hospital to fill any
-          staffing needs.
+        >
+          Paying those Finance Geniuses and losing money with their poor trade
+          recommendations is the double whammy nobody anticipates, but
+          unfortunately we have all (or almost all of us) gone through this
+          losing & frustrating experience...and probably for too long and at
+          considerable expense.
         </mj-text>
       </mj-column>
     </mj-section>
