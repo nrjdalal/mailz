@@ -23,30 +23,43 @@
     >
       <mj-column>
         <mj-image
-          href="https://caritassolutions.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
+          href="https://undervaluestocks.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/undervaluestocks/assets/logo.png"
           alt=""
-          width="256px"
-          padding="0"
+          width="128px"
+          padding="20px 0"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- notice -->
+    <mj-section css-class="middle" padding="0">
+      <mj-column padding="0"
+        ><mj-text
+          font-size="20px"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Hello {{First name}}
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="black" padding="0"
+        ><mj-text
+          font-size="17px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Are you a Finance Student eager to become a successful trader?
+        </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- section -->
     <mj-section css-class="middle">
       <mj-column background-color="white" padding="5px 0">
-        <mj-text
-          font-size="30px"
-          font-weight="700"
-          line-height="1.2"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          padding-bottom="0"
-        >
-          Are you a Finance Student eager to become a successful trader?
-        </mj-text>
-
         <mj-text
           font-size="20px"
           line-height="1.5"
@@ -70,8 +83,46 @@
           Paying those Finance Geniuses and losing money with their poor trade
           recommendations is the double whammy nobody anticipates, but
           unfortunately we have all (or almost all of us) gone through this
-          losing & frustrating experience...and probably for too long and at
+          losing & frustrating experience... and probably for too long and at
           considerable expense.
+        </mj-text>
+
+        <mj-text
+          font-size="20px"
+          font-weight="700"
+          line-height="1.2"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="0"
+          align="center"
+        >
+          We all agree: bad and expensive advice has to stop!!!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section css-class="middle">
+      <mj-column background-color="white" padding="5px 0">
+        <mj-text
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          My name is Pierre Rabinowitz and I am the CEO of UnderValueStock.com.
+          UnderValue - Stock.com strives to find undervalued stocks and stocks
+          with disruptive technologies that sweep away current industries with
+          their recognizably superior attributes. Once these stocks pass a
+          stringent analysis process, we aim for a 30%+ return and a 25%+ margin
+          of safety. We are now offering you an opportunity to join our referral
+          campaign which will give you, month after month, free stock
+          recommendations that have passed our analysis process...yes, they are
+          really FREE! Just join our campaign "Refer a Friend, Reward Yourself &
+          Your Friend" and YOU and your FRIENDS will receive these incredible
+          benefits:
         </mj-text>
       </mj-column>
     </mj-section>
@@ -80,34 +131,33 @@
     <mj-section css-class="middle" padding="25px 15px">
       <mj-column css-class="height">
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/1.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.jpg"
           alt=""
-          href="https://caritassolutions.com/"
+          href="https://undervaluestocks.com/"
           css-class="image"
         />
 
         <mj-text
-          font-size="15px"
+          font-size="18px"
           font-weight="500"
           line-height="1.4"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Broadly sourced and comprehensive
+          Your Benefits?
         </mj-text>
 
         <mj-text
-          font-size="12px"
+          font-size="18px"
           line-height="1.4"
           padding-top="0"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >We are not satisfied until you are.<br />
-          &nbsp;&nbsp;&nbsp;&nbsp;Our dedicated nurses come in a verity of
-          specialities and come highly recommended. Come experience the Caritas
-          difference.
+          >For each referred friend who makes its 1st buy with
+          UnderValueStock.com, you get 1 FREE month of stock market picks. In
+          other words, 1 Friend = 1 FREE Month.
         </mj-text>
       </mj-column>
 
@@ -115,61 +165,85 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.png"
           alt=""
-          href="https://caritassolutions.com/"
+          href="https://undervaluestocks.com/"
           css-class="image"
         />
 
         <mj-text
-          font-size="15px"
+          font-size="18px"
           font-weight="500"
           line-height="1.4"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Budget Friendly and flexible
+          >Not a “one time only” reward!
         </mj-text>
 
         <mj-text
-          font-size="12px"
+          font-size="18px"
           line-height="1.4"
           padding-top="0"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Our dynamic is to always put the needs of our clients first.<br />
-          &nbsp;&nbsp;&nbsp;&nbsp;Thus, we will work with your budget to provide
-          the nurse placements your hospital needs.
+          >There’s no limit to the number of friends you can refer to
+          UnderValueStock.com. For example 2 Friends = 2 Free Months, 5 Friends
+          = 5 Free Months, 20 Friends = 20 Free Months... additionally, you
+          receive a FREE Trading Educa-tion... It’s a win-win!
         </mj-text>
       </mj-column>
+    </mj-section>
 
-      <mj-column css-class="height">
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.png"
-          alt=""
-          href="https://caritassolutions.com/"
-          css-class="image"
-        />
-
+    <!-- section -->
+    <mj-section css-class="middle">
+      <mj-column background-color="white" padding="5px 0">
         <mj-text
-          font-size="15px"
-          font-weight="500"
-          line-height="1.4"
-          color="black"
+          font-size="20px"
+          line-height="1.5"
+          color="#DC2626"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Data driven and responsive
+          padding-top="0"
+        >
+          Benefits For Your Friends:
         </mj-text>
 
         <mj-text
-          font-size="12px"
-          line-height="1.4"
-          padding-top="0"
+          font-size="16px"
+          line-height="1.5"
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Our company thrives on data driven analytics. We keep a current
-          database of available providers as well as their specialties.<br />
-          &nbsp;&nbsp;&nbsp;&nbsp;Whatever you need, we have you covered!
+        >
+          Your Referrals get incredible discounts of 50% for 3 consecutive
+          months. And there's more: in addition, your Referrals get the 4th &
+          5th months for FREE, and a FREE Trading Education.
+          <span style="font-weight: 700"
+            >It's an offer your Friends can’t refuse!</span
+          >
+        </mj-text>
+
+        <mj-text
+          font-size="20px"
+          font-weight="700"
+          line-height="1.2"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="0"
+        >
+          YOU & YOUR FRIENDS won’t find better rewards and incentives elsewhere!
+        </mj-text>
+
+        <mj-text
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Unfortunately, this Limited-Time Offer won't last forever, so if you
+          want to receive your free stock picks, you need to ACT NOW.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -183,7 +257,8 @@
           color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >your facility will thank you.
+          >Click The Following Link to Join Our Campaign And Get Your Free Stock
+          Picks!
         </mj-text>
       </mj-column>
       <mj-column background-color="black" padding="0"
@@ -194,7 +269,7 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          your nursing needs are our passion.
+          Avail now!
         </mj-text>
       </mj-column>
     </mj-section>
@@ -215,37 +290,50 @@
           <a
             href="tel:570 921 2344"
             style="text-decoration: none; color: black; font-weight: 400"
-            >570.921.2344</a
+            >XXX.XXX.XXX</a
           >
           &nbsp;&nbsp;•&nbsp;&nbsp;Email
           <a
-            href="mailto:gstfleur@caritassolutions.com"
+            href="mailto:contact@undervaluestocks.com"
             style="font-weight: 400"
           >
-            gstfleur@caritassolutions.com
+            contact@undervaluestocks.com
           </a>
           &nbsp;&nbsp;•&nbsp;&nbsp;Website
-          <a href="https://caritassolutions.com" style="font-weight: 400"
-            >caritassolutions.com</a
+          <a href="https://undervaluestocks.com" style="font-weight: 400"
+            >undervaluestocks.com</a
           >
         </mj-text>
       </mj-column>
     </mj-section>
 
     <!-- logo again -->
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      padding="0"
-      css-class="middle"
-    >
-      <mj-column>
-        <mj-image
-          href="https://caritassolutions.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
-          alt=""
-          width="256px"
-          padding="0"
-        />
+    <mj-section background-color="white" css-class="middle">
+      <mj-column background-color="white" padding="5px 0">
+        <mj-text
+          font-size="20px"
+          line-height="1.5"
+          color="#DC2626"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-top="0"
+        >
+          Best Regards,
+        </mj-text>
+
+        <mj-text
+          font-size="18px"
+          font-weight="700"
+          line-height="1.2"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-top="0"
+          padding-bottom="0"
+        >
+          Pierre Rabinowitz,
+          <a href="">UnderValueStock.com</a>
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
