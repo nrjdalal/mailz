@@ -1,0 +1,248 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <mj-style>
+      .height td { padding: 5px 10px !important; background-color: white; width:
+      100% !important; } .top { background-color: white !important; border: 20px
+      solid #E4E4E7; } .middle { background-color: white !important; border:
+      20px solid #E4E4E7; border-top: none; } .bottom { background-color:
+      #E4E4E7 !important; border: 20px solid #E4E4E7; border-top: none; }
+      .image>table>tbody>tr>td {padding: 0 !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
+      css-class="top"
+    >
+      <mj-column>
+        <mj-image
+          href="https://caritassolutions.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
+          alt=""
+          width="256px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section css-class="middle">
+      <mj-column background-color="white" padding="5px 0">
+        <mj-text
+          font-size="30px"
+          font-weight="700"
+          line-height="1.2"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-bottom="0"
+        >
+          Caritas Solution’s Here To Help
+        </mj-text>
+
+        <mj-text
+          font-size="20px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding-top="0"
+          >Simple, agency staffing with ease
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Have a need for Nursing any specialty? We have you covered. Our
+          company is here to fulfill any and all of your staffing needs. Our
+          nursing department maintains a detailed database of nurses of all
+          specialties who are ready to travel to your hospital to fill any
+          staffing needs.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section css-class="middle" padding="25px 15px">
+      <mj-column css-class="height">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/1.jpg"
+          alt=""
+          href="https://caritassolutions.com/"
+          css-class="image"
+        />
+
+        <mj-text
+          font-size="15px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Broadly sourced and comprehensive
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >We are not satisfied until you are.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Our dedicated nurses come in a verity of
+          specialities and come highly recommended. Come experience the Caritas
+          difference.
+        </mj-text>
+      </mj-column>
+
+      <mj-column css-class="height">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/2.png"
+          alt=""
+          href="https://caritassolutions.com/"
+          css-class="image"
+        />
+
+        <mj-text
+          font-size="15px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Budget Friendly and flexible
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Our dynamic is to always put the needs of our clients first.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Thus, we will work with your budget to provide
+          the nurse placements your hospital needs.
+        </mj-text>
+      </mj-column>
+
+      <mj-column css-class="height">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/3.png"
+          alt=""
+          href="https://caritassolutions.com/"
+          css-class="image"
+        />
+
+        <mj-text
+          font-size="15px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Data driven and responsive
+        </mj-text>
+
+        <mj-text
+          font-size="12px"
+          line-height="1.4"
+          padding-top="0"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Our company thrives on data driven analytics. We keep a current
+          database of available providers as well as their specialties.<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;Whatever you need, we have you covered!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- notice -->
+    <mj-section css-class="middle" padding="0">
+      <mj-column padding="0"
+        ><mj-text
+          font-size="16px"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >your facility will thank you.
+        </mj-text>
+      </mj-column>
+      <mj-column background-color="black" padding="0"
+        ><mj-text
+          font-size="16px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          your nursing needs are our passion.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section css-class="bottom" padding="0">
+      <mj-column padding="0">
+        <mj-text
+          font-size="12px"
+          font-weight="500"
+          line-height="1.4"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding="0"
+        >
+          Phone
+          <a
+            href="tel:570 921 2344"
+            style="text-decoration: none; color: black; font-weight: 400"
+            >570.921.2344</a
+          >
+          &nbsp;&nbsp;•&nbsp;&nbsp;Email
+          <a
+            href="mailto:gstfleur@caritassolutions.com"
+            style="font-weight: 400"
+          >
+            gstfleur@caritassolutions.com
+          </a>
+          &nbsp;&nbsp;•&nbsp;&nbsp;Website
+          <a href="https://caritassolutions.com" style="font-weight: 400"
+            >caritassolutions.com</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- logo again -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
+      css-class="middle"
+    >
+      <mj-column>
+        <mj-image
+          href="https://caritassolutions.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/caritas-solutions/assets/logo.png"
+          alt=""
+          width="256px"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
