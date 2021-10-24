@@ -13,7 +13,7 @@
     >
       <mj-column>
         <mj-image
-          href=""
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
           alt=""
           width="128px"
@@ -26,6 +26,7 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/main-image.png"
           alt=""
           padding="0 0 36px 0"
@@ -62,6 +63,7 @@
         </mj-text>
 
         <mj-button
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
           background-color="#e70000"
           font-family="DM Sans, sans-serif"
           font-size="16px"
