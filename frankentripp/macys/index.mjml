@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/johnsonsbabycom-icon.png"
+          alt=""
+          width="100px"
+          border-radius="50px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Wash Your Baby’s Hair with Care</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Your baby deserves the healthiest skin. Johnson’s Baby Conditioner
+          moisturizes with only the most gentle of ingredients. And with our “no
+          tears” formula, “bath time” is “happy time” every time.
+        </mj-text>
+
+        <mj-button
+          background-color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Click Here to Claim Your Coupon
+        </mj-button>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/image.png"
+          alt=""
+          padding="36px 0 0 0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          You’re a Coupon Away from a Smiling Baby</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          There’s a Better Way to Care for Your Baby’s Skin
+        </mj-text>
+
+        <mj-button
+          background-color="#0063a6"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Claim Your Coupon
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
