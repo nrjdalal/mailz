@@ -22,8 +22,14 @@
     </mj-section>
 
     <!-- section -->
-    <mj-section background-color="white">
+    <mj-section background-color="white" padding-top="0">
       <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/main-image.png"
+          alt=""
+          padding="0 0 0 0"
+        />
+
         <mj-text
           align="center"
           font-size="21px"
@@ -56,12 +62,6 @@
         >
           Click Here to Claim Your Coupon
         </mj-button>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/image.png"
-          alt=""
-          padding="36px 0 0 0"
-        />
       </mj-column>
     </mj-section>
 
