@@ -12,7 +12,7 @@
     >
       <mj-column>
         <mj-image
-          href=""
+          href="https://www.johnsonsbaby.com/baby-products/johnsons-ultra-hydrating-conditioner"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/johnsonsbabycom-icon.png"
           alt=""
           width="100px"
@@ -50,6 +50,7 @@
         </mj-text>
 
         <mj-button
+          href="https://www.johnsonsbaby.com/baby-products/johnsons-ultra-hydrating-conditioner"
           background-color="#0063a6"
           font-family="DM Sans, sans-serif"
           font-size="16px"
@@ -58,6 +59,7 @@
         </mj-button>
 
         <mj-image
+          href="https://www.johnsonsbaby.com/baby-products/johnsons-ultra-hydrating-conditioner"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/assets/image.png"
           alt=""
           padding="36px 0 0 0"
@@ -92,6 +94,7 @@
         </mj-text>
 
         <mj-button
+          href="https://www.johnsonsbaby.com/baby-products/johnsons-ultra-hydrating-conditioner"
           background-color="#0063a6"
           font-family="DM Sans, sans-serif"
           font-size="16px"
