@@ -1,0 +1,76 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
+          alt=""
+          width="128px"
+          border-radius="50px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding-top="0">
+      <mj-column>
+        <mj-image
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/product.jpg"
+          alt=""
+          padding="0 0 36px 0"
+        />
+
+        <mj-text
+          align="center"
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="#e70000"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Don’t FALL Behind! save Big on Top Brands
+          <br />
+          At Macy’s Men’s Fall Sweater Event!
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Here is your chance to save! From Ralph Lauren to Calvin Klein to Hugo
+          Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
+          on the best deals of the season.
+          <br /><br />
+          Visit your local Macy’s from September 8-10th and save 40% on an array
+          of men’s sweaters from top brands.
+        </mj-text>
+
+        <mj-button
+          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
+          background-color="#e70000"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Save Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
