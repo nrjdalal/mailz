@@ -9,15 +9,13 @@
     <!-- header section -->
     <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      padding="0"
     >
       <mj-column>
         <mj-image
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
+          href="https://www.mobil.com/en/lubricants/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/logo.png"
           alt=""
           width="128px"
-          border-radius="50px"
         />
       </mj-column>
     </mj-section>
@@ -26,8 +24,8 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/product.jpg"
+          href="https://www.mobil.com/en/lubricants/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/mobil.png"
           alt=""
           padding="0 0 36px 0"
         />
@@ -37,13 +35,13 @@
           font-size="21px"
           font-weight="500"
           line-height="1.4"
-          color="#e70000"
+          color="darkblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Don’t FALL Behind! save Big on Top Brands
+          Use A-1 Performance Motor Oil
           <br />
-          At Macy’s Men’s Fall Sweater Event!
+          for a Healthier Engine
         </mj-text>
 
         <mj-text
@@ -54,21 +52,31 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Here is your chance to save! From Ralph Lauren to Calvin Klein to Hugo
-          Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
-          on the best deals of the season.
-          <br /><br />
-          Visit your local Macy’s from September 8-10th and save 40% on an array
-          of men’s sweaters from top brands.
+          Make your car last longer with A-1 Performance Motor Oil. It’s premium
+          quality keeps your engine clean for a smoother ride and a longer life.
+          For whatever journey you embark upon, drive with confidence. Drive
+          with A-1 Performance Motor Oil.
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="darkblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Give Your Engine the Oil it Deserves Today.
         </mj-text>
 
         <mj-button
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          background-color="#e70000"
+          href="https://www.mobil.com/en/lubricants/"
+          background-color="darkblue"
           font-family="DM Sans, sans-serif"
           font-size="16px"
         >
-          Save Now
+          Click Here
         </mj-button>
       </mj-column>
     </mj-section>
