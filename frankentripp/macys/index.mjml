@@ -27,7 +27,7 @@
       <mj-column>
         <mj-image
           href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/main.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/alfa.png"
           alt=""
           padding="0 0 24px 0"
         />
@@ -69,7 +69,7 @@
           font-size="16px"
           font-weight="500"
         >
-          SHOP NOW
+          LEARN MORE
         </mj-button>
       </mj-column>
     </mj-section>
