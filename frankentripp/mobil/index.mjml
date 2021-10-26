@@ -25,7 +25,7 @@
       <mj-column>
         <mj-image
           href="https://www.mobil.com/en/lubricants/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/main.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/mobil/assets/alfa.png"
           alt=""
           padding="0 0 36px 0"
         />
@@ -52,10 +52,10 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Make your car last longer with Mobil 1 Motor Oil. It’s premium quality
-          keeps your engine clean for a smoother ride and a longer life. For
-          whatever journey you embark upon, drive with confidence. Drive with
-          Mobil 1 Motor Oil.
+          Your car will go the distance with Mobil 1 Motor Oil. It’s premium
+          quality keeps your engine clean for a smoother ride and a longer life.
+          For whatever journey you embark upon, drive with confidence. Drive
+          with Mobil 1 Motor Oil.
         </mj-text>
 
         <mj-text
