@@ -23,13 +23,13 @@
     </mj-section>
 
     <!-- section -->
-    <mj-section background-color="white" padding-top="0">
+    <mj-section background-color="white" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
           href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/main-image.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/main.png"
           alt=""
-          padding="0 0 36px 0"
+          padding="0 0 24px 0"
         />
 
         <mj-text
@@ -41,9 +41,9 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Save Big on Top Brands
+          September 8-10th.
           <br />
-          At Macy’s Men’s Fall Sweater Event!
+          Only at Your Local Macy’s!
         </mj-text>
 
         <mj-text
@@ -58,7 +58,7 @@
           Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
           on the best deals of the season.
           <br /><br />
-          Visit your local Macy’s from September 8-10th and save 40% on an array
+          Visit your local Macy’s from September 8-10th and Save 40% on an array
           of men’s sweaters from top brands.
         </mj-text>
 
@@ -67,8 +67,9 @@
           background-color="#e70000"
           font-family="DM Sans, sans-serif"
           font-size="16px"
+          font-weight="500"
         >
-          Save Now
+          SHOP NOW
         </mj-button>
       </mj-column>
     </mj-section>
