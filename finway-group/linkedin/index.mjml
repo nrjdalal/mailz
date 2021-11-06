@@ -33,7 +33,7 @@
                 border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
-                font-size: 17px;
+                font-size: 18px;
                 font-weight: 400;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -86,7 +86,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-beta.jpg"
           alt=""
-          href="https://www.linkedin.com/company/the-finway-group-llc"
+          href="https://www.linkedin.com/posts/the-finway-group-llc_your-new-tpa-connection-activity-6851260997064368128-U39p/"
           padding-bottom="30px"
           border-radius="50px"
         />
