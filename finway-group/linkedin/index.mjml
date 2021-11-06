@@ -62,7 +62,45 @@
           line-height="1.4"
           align="center"
         >
-          <singleline> Follow Us On </singleline>
+          <singleline> Your 3(16) Connection </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-alfa.jpg"
+          alt=""
+          href="https://www.linkedin.com/company/the-finway-group-llc"
+          padding-bottom="30px"
+          border-radius="50px"
+        /><mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> Your New TPA Connection </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-beta.jpg"
+          alt=""
+          href="https://www.linkedin.com/company/the-finway-group-llc"
+          padding-bottom="30px"
+          border-radius="50px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> To watch more! Follow Us On </singleline>
         </mj-text>
 
         <mj-image
