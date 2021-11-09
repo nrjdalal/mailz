@@ -98,7 +98,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
           alt=""
           width="450px"
-          href="https://awwsume.co.uk/shop/"
+          href="https://www.awwsume.com/"
         />
 
         <mj-divider
@@ -167,7 +167,7 @@
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/graphic-img.jpeg"
           alt=""
           width="450px"
-          href="https://awwsume.co.uk/shop/"
+          href="https://www.awwsume.com/"
           padding-top="36px"
           padding-bottom="36px"
         />
@@ -280,65 +280,202 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/graphic-img.jpeg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/graphic-img.png"
           alt=""
-          width="450px"
-          href="https://awwsume.co.uk/shop/"
+          width="192px"
+          href="https://www.awwsume.com/"
           padding-top="36px"
           padding-bottom="36px"
+          border-radius="24px"
         />
 
-        <mj-text
-          align="center"
-          font-size="20px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
           font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >What use to be a Burden is now an opportunity
-        </mj-text>
-
-        <mj-text
-          align="center"
           font-size="16px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >You know you need reviews but getting your customers to write a
-          review used to be like pulling teeth, painful…
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="20px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Now it is easy for you to get real reviews
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="16px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >It is now easy and painless for you to ask for and your customers to
-          leave real reviews.
-        </mj-text>
+        >
+          Learn More
+        </mj-button>
 
         <mj-divider
           border-color="#222222"
           border-width="1px"
           padding-top="36px"
         />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Why Awwsume?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Put Awwsume to work. Invest your time where it's needed <br /><br />
+          Awwsume.com easily integrates with over 700 existing applications like
+          Quickbooks, Salesforce, Mailchimp and much more.
+          <br /><br />Let us set it up once, & you're good to go. No hassle or
+          code required.
+        </mj-text>
+
+        <mj-image
+          src="https://static.wixstatic.com/media/55abf6_c5c86ffa4f9041a18d5ce2b5e55e5c1e~mv2.png/v1/fill/w_401,h_320,al_c,q_85,usm_0.66_1.00_0.01/connect-img.webp"
+          alt=""
+          width="450px"
+          href="https://www.awwsume.com/"
+        />
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Try Now
+        </mj-button>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="orange"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Quickly get to the top of search with Organic SEO from Reviews
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Google and other major search engines are putting more emphasis on
+          current reviews every time they do an update. Google boost review
+          traffic by up to 15% <br /><br />
+
+          Our users have seen dramatic rank increases on Google when we
+          consistently getting positive reviews from their happy customers.
+          Reviews contain keywords which will attract more people to your web
+          presence, increasing your visibility.<br /><br />
+
+          ​ With our Fence feature, Awwsume only allows posts 4 or 5 star
+          reviews to be posted!
+        </mj-text>
+
+        <mj-image
+          src="https://static.wixstatic.com/media/55abf6_032fa8f77b6448eda1975646605cad1e~mv2.png/v1/fill/w_300,h_658,al_c,q_85,usm_0.66_1.00_0.01/mobile-img.webp"
+          alt=""
+          width="192px"
+          padding-top="36px"
+          padding-bottom="36px"
+          href="https://www.awwsume.com/"
+        />
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Book a Demo
+        </mj-button>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0" padding-bottom="36px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >So what is this going to cost me?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >How about you test it out for 2 weeks for free?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Then if your happy it's just $145 a month with a 12 month commitment.
+          $1740 a year
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >If you pay the year in advance we discount it to $1500
+        </mj-text>
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Get Started Today
+        </mj-button>
       </mj-column>
     </mj-section>
 
@@ -349,60 +486,14 @@
           align="center"
           font-size="14px"
           line-height="1.4"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="tel:01329 722 650"
-            style="text-decoration: none; color: black"
-            >01329 722 650</a
-          >
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:info@awwsume.co.uk"
+            href="https://www.awwsume.com/"
             style="text-decoration: none; color: black"
-            >info@awwsume.co.uk</a
-          >
-        </mj-text>
-
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
-            name="facebook"
-            href="https://www.facebook.com/awwsumeUK"
-          >
-          </mj-social-element>
-          <mj-social-element
-            name="linkedin"
-            href="https://www.linkedin.com/company/awwsume-uk"
-          >
-          </mj-social-element>
-          <mj-social-element name="twitter" href="https://twitter.com/awwsume6">
-          </mj-social-element>
-        </mj-social>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <a
-            href="https://www.awwsume.com//"
-            style="text-decoration: none; color: black"
-            >www.awwsume.co.uk</a
+            >www.awwsume.com</a
           >
         </mj-text>
       </mj-column>
