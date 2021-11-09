@@ -13,7 +13,7 @@
       <mj-column>
         <mj-image
           href="https://www.awwsume.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/awwsume.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/logo.jpg"
           alt=""
           width="256px"
         />
@@ -25,6 +25,19 @@
       <mj-column>
         <mj-text
           align="center"
+          font-size="23px"
+          font-weight="500"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Set Your Business Up To Look Great, Everywhere That
+          Matters...</mj-text
+        >
+
+        <mj-text
+          align="center"
           font-size="21px"
           font-weight="500"
           line-height="1.4"
@@ -32,41 +45,24 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Ultimate Selfie Systems and Print Solutions</mj-text
+          Be The First Choice For New Customers Who Are Looking & Ready To
+          Buy</mj-text
         >
 
         <mj-text
           align="center"
-          font-size="14px"
+          font-size="18px"
           line-height="1.5"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >awwsume operates as part of the System Insight group which has global
-          success delivering imaging solutions to some of the worlds most famous
-          resorts, attractions and events. <br /><br />
-          Our aim is to provide the best imaging solutions available to the
-          retail, leisure, events and attractions industry. The team has a vast
-          range of experience of sales, marketing and manufacturing that is
-          specific to the imaging sector.
+          >Effortlessly, manage your online reputation & get more business
+          reviews than ever before on every site with Awwsume.com
         </mj-text>
       </mj-column>
     </mj-section>
 
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/printing-systems.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://awwsume.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
+    <mj-section background-color="white">
       <mj-column>
         <mj-text
           align="center"
