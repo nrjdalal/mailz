@@ -25,7 +25,7 @@
       <mj-column>
         <mj-text
           align="center"
-          font-size="23px"
+          font-size="20px"
           font-weight="500"
           line-height="1.4"
           color="white"
@@ -38,7 +38,7 @@
 
         <mj-text
           align="center"
-          font-size="21px"
+          font-size="18px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
@@ -51,7 +51,7 @@
 
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="16px"
           line-height="1.5"
           color="white"
           font-family="DM Sans, sans-serif"
@@ -62,146 +62,101 @@
       </mj-column>
     </mj-section>
 
+    <!-- light sec -->
     <mj-section background-color="white">
       <mj-column>
         <mj-text
           align="center"
-          font-size="21px"
+          font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="crimson"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Printing Systems
+          >Does it work with … site?
         </mj-text>
 
         <mj-text
           align="center"
-          font-size="14px"
+          font-size="18px"
           line-height="1.4"
           padding-top="0"
-          color="white"
+          color="black"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >A unique combination of quality and speed
+          >YES is always the answer! <br /><br />
+          Your reputation will improve across all review sites you choose.
         </mj-text>
-      </mj-column>
-    </mj-section>
 
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/media.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
           alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
+          width="450px"
           href="https://awwsume.co.uk/shop/"
         />
       </mj-column>
     </mj-section>
+
+    <!-- dark sec -->
     <mj-section background-color="black">
       <mj-column>
         <mj-text
           align="center"
-          font-size="21px"
+          font-size="20px"
           font-weight="500"
           line-height="1.4"
           color="deepskyblue"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Media
+          >Take control of your reputation ​
         </mj-text>
 
         <mj-text
           align="center"
-          font-size="14px"
+          font-size="18px"
           line-height="1.4"
           padding-top="0"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >High quality approved supplies
+          >You know consumers are relying on reviews & the internet more than
+          ever before to inform their purchasing decisions. 93% of people look
+          to Google when deciding where to shop. Ratings can be the difference
+          between you or your competition growing or closing the doors.
         </mj-text>
-      </mj-column>
-    </mj-section>
 
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >So what are you doing about it?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >You can take complete control of your entire online reputation
+          without doing much of anything different tomorrow than you are doing
+          today… input manually past clients or new sales. Use our onboarding
+          tool of integration with over 700 platforms for automatically sending
+          review requests.
+        </mj-text>
+
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/photobooths.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
           alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
+          width="450px"
           href="https://awwsume.co.uk/shop/"
         />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Photobooths for all occasions
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- section -->
-    <mj-section padding="0" background-color="#000000">
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/training-courses.png"
-          alt=""
-          width="300px"
-          padding="0"
-          border-radius="10px"
-          href="https://awwsume.co.uk/shop/"
-        />
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="black">
-      <mj-column>
-        <mj-text
-          align="center"
-          font-size="21px"
-          font-weight="500"
-          line-height="1.4"
-          color="deepskyblue"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Training Courses
-        </mj-text>
-
-        <mj-text
-          align="center"
-          font-size="14px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Inspiring expert tuition
-        </mj-text>
       </mj-column>
     </mj-section>
 
