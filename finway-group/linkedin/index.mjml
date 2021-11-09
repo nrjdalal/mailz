@@ -47,6 +47,26 @@
             </td>
           </tr>
         </mj-table>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> To watch more! Follow Us On </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/LI-Logo.png"
+          alt=""
+          width="192px"
+          href="https://www.linkedin.com/company/the-finway-group-llc"
+          padding-bottom="30px"
+        />
       </mj-column>
     </mj-section>
 
