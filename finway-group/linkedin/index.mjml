@@ -88,7 +88,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-alfa.jpg"
           alt=""
-          href="https://www.linkedin.com/company/the-finway-group-llc"
+          href="https://www.linkedin.com/feed/update/urn:li:activity:6863496251279835136/"
           padding-bottom="30px"
           border-radius="50px"
         /><mj-text
@@ -111,7 +111,7 @@
           border-radius="50px"
         />
 
-        <mj-text
+        <!-- <mj-text
           font-family="DM Sans, sans-serif"
           color="black"
           font-size="24px"
@@ -129,7 +129,7 @@
           width="192px"
           href="https://www.linkedin.com/company/the-finway-group-llc"
           padding-bottom="30px"
-        />
+        /> -->
       </mj-column>
     </mj-section>
 
