@@ -41,7 +41,7 @@
     <mj-section padding="12px">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/HNGM Logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/logo.png"
           width="168px"
         />
       </mj-column>
