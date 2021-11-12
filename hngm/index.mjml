@@ -74,6 +74,24 @@
       </mj-column>
     </mj-section>
 
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Subscribe and Save 10% on all products.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
     <!-- product 01 -->
     <mj-section>
       <mj-column>
@@ -86,7 +104,7 @@
     <mj-section padding="24px">
       <mj-column>
         <mj-text font-size="18px" font-weight="500">
-          <span>L22 Elixir</span>
+          <span> L22 Elixir </span>
         </mj-text>
 
         <mj-text>
@@ -101,7 +119,7 @@
     <mj-section>
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/eye-defying_collagen_boosting_1_2000x.png?v=1587600725"
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/eye_cream_1_2000x.png?v=1587600566"
         />
       </mj-column>
     </mj-section>
@@ -109,16 +127,160 @@
     <mj-section padding="24px">
       <mj-column>
         <mj-text font-size="18px" font-weight="500">
-          <span> Age-Defying Collagen Boosting Luxe Cream </span>
+          <span> Eye Cream </span>
         </mj-text>
 
         <mj-text>
-          A luxurious nighttime formula that rehydrates, replenishes and
-          rejuvenates the skin. Combined with a host of actives, this powerhouse
-          moisturizer will keep your skin youthful and refreshed all while
-          giving you that natural glow. Works great as a neck and décolleté
-          cream.
+          Our revolutionary eye cream contains four key trademarked actives in a
+          botanical infusion of plant extracts. It is formulated with an
+          abundance of smoothing, firming, and lifting ingredients that not only
+          reduce crow’s feet wrinkles, but also fight puffiness, dark circles
+          and improve elasticity. Instantly provides luminosity and restores the
+          eye area to a more youthful appearance.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Our products are enriched with 100% natural ingredients.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- product 03 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/detox_2_2000x.png?v=1587598683"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Detox Toner </span>
+        </mj-text>
+
+        <mj-text>
+          An exfoliating toner that protects skin from pollution and balances
+          its pH with a blend of fruit stem cells, botanicals, and minerals.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 04 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Facial_Serum2_2000x.png?v=1587599174"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Facial Cocktail Serum </span>
+        </mj-text>
+
+        <mj-text>
+          Lifts, tones, tightens, smooths and firms, all while enhancing and
+          hydrating your skin.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          We believe in beautiful skin and beautiful attitudes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- product 05 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Exfoliating_gel2_2000x.png?v=1587600491"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Exfoliating Gel Cleanser </span>
+        </mj-text>
+
+        <mj-text>
+          An antioxidant-rich exfoliating cleanser enhanced with jojoba beads to
+          gently slough off dead skin cells and leave skin glowing.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 06 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Cream_Cleanser_2_2000x.png?v=1587600448"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Hydrating Cream Cleanser </span>
+        </mj-text>
+
+        <mj-text>
+          A gentle everyday cream cleanser that dissolves makeup and impurities
+          and cleanses skin without stripping the skin's protective moisture
+          mantle.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Female owned and operated. All products created in the USA.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/afterpay.png"
+          width="320px"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
