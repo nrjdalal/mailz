@@ -8,7 +8,8 @@
 
     <!-- set styles here -->
     <mj-style>
-      a { color: inherit; font-weight: 500; text-decoration: none; }
+      a { color: inherit; font-weight: 500; text-decoration: none; } span {
+      color: #b1706c; }
     </mj-style>
 
     <!-- set title here -->
@@ -23,26 +24,101 @@
 
     <!-- set attributes here -->
     <mj-attributes>
+      <mj-image padding="0" href="https://hardnightgoodmorning.com/" />
+      <mj-section background-color="black" padding="0" />
       <mj-text
         align="center"
+        color="white"
         font-family="DM Sans, sans-serif"
         font-size="16px"
         font-weight="400"
+        line-height="1.4"
       />
-
-      <!-- resets -->
-      <mj-image padding="0" />
-      <mj-section padding="0" />
     </mj-attributes>
   </mj-head>
 
   <mj-body css-class="master">
-    <mj-section background-color="black" padding="12px">
+    <mj-section padding="12px">
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/HNGM Logo.png"
           width="168px"
         />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/hero.gif"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span>
+            Inspired by Mother Nature
+            <br />
+            Proven by Science
+          </span>
+        </mj-text>
+
+        <mj-text>
+          Hard Night Good Morning® products are highly researched, formulated
+          for maximum efficacy, and regarded for their safety and value,
+          enabling our customers to feel confident in our cruelty-free,
+          botanically- based products.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 01 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/L22_3_2000x.png?v=1587600648"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span>L22 Elixir</span>
+        </mj-text>
+
+        <mj-text>
+          An advanced anti-aging formula made to soothe, moisturize and hydrate
+          the skin. Helps in reducing fine lines and evening out skin tone by
+          targeting dark spots.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 02 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/eye-defying_collagen_boosting_1_2000x.png?v=1587600725"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Age-Defying Collagen Boosting Luxe Cream </span>
+        </mj-text>
+
+        <mj-text>
+          A luxurious nighttime formula that rehydrates, replenishes and
+          rejuvenates the skin. Combined with a host of actives, this powerhouse
+          moisturizer will keep your skin youthful and refreshed all while
+          giving you that natural glow. Works great as a neck and décolleté
+          cream.
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
