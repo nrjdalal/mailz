@@ -1,0 +1,44 @@
+<mjml>
+  <mj-head>
+    <!-- set fonts here -->
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <!-- set styles here -->
+    <mj-style>
+      a { color: inherit; font-weight: 500; text-decoration: none; }
+    </mj-style>
+
+    <!-- set title here -->
+    <mj-title>
+      This is the preview text that can be changed accordingly.
+    </mj-title>
+
+    <!-- set preview here -->
+    <mj-preview>
+      This is the preview text that can be changed accordingly.
+    </mj-preview>
+
+    <!-- set attributes here -->
+    <mj-attributes>
+      <mj-text
+        align="center"
+        font-family="DM Sans, sans-serif"
+        font-size="16px"
+        font-weight="400"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body css-class="master">
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image src="" alt="" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
