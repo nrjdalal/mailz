@@ -29,15 +29,20 @@
         font-size="16px"
         font-weight="400"
       />
+
+      <!-- resets -->
+      <mj-image padding="0" />
+      <mj-section padding="0" />
     </mj-attributes>
   </mj-head>
 
   <mj-body css-class="master">
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-    >
+    <mj-section background-color="black" padding="12px">
       <mj-column>
-        <mj-image src="" alt="" />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/hngm/assets/HNGM Logo.png"
+          width="168px"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
