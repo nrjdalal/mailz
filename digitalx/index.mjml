@@ -14,7 +14,7 @@
           href="https://www.dxtint.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.png"
           alt=""
-          width="200px"
+          width="256px"
           padding-bottom="0"
         />
       </mj-column>
@@ -32,7 +32,7 @@
           line-height="1.4"
           align="center"
         >
-          DIGITAL TRANSFORMATION SERVICES
+          Digital Transformation Technologies LLC (DXT)
         </mj-text>
 
         <mj-text
@@ -59,7 +59,7 @@
         >
           From requirements to retirement, our support extends through each
           phase of the systems life cycle. If you are thinking best practices,
-          quality, sustainability, and compliance. Think DigITalX.
+          quality, sustainability, and compliance. Think DXT.
         </mj-text>
       </mj-column>
     </mj-section>
@@ -920,7 +920,7 @@
                 border-left: 10px solid #0a0908;
               "
             >
-              Motion Control System
+              Reports
             </td>
             <td
               width="50%"
