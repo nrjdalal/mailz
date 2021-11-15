@@ -68,7 +68,7 @@
     <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -241,7 +241,7 @@
     <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/2.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/2.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -388,7 +388,7 @@
     <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/3.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/3.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -532,7 +532,7 @@
     <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/4.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/4.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -651,7 +651,7 @@
     <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/5.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/5.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -796,7 +796,7 @@
     <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/6.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/6.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -969,7 +969,7 @@
     <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/7.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/7.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -1141,7 +1141,7 @@
     <!-- <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.jpg"
           alt=""
           border-radius="10px"
           padding="0 30px 20px 30px"
@@ -1356,7 +1356,7 @@
           alt=""
           href="https://www.dxtint.com/"
           padding-bottom="0"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.jpg"
           width="200px"
         />
 
