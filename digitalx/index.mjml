@@ -1,286 +1,1425 @@
 <mjml>
   <mj-head>
-    <!-- set fonts here -->
     <mj-font
       name="DM Sans"
       href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
     />
-
-    <!-- set styles here -->
-    <mj-style>
-      a { color: inherit; font-weight: 500; text-decoration: none; } span {
-      color: #b1706c; }
-    </mj-style>
-
-    <!-- set title here -->
-    <mj-title>
-      This is the preview text that can be changed accordingly.
-    </mj-title>
-
-    <!-- set preview here -->
-    <mj-preview>
-      This is the preview text that can be changed accordingly.
-    </mj-preview>
-
-    <!-- set attributes here -->
-    <mj-attributes>
-      <mj-image padding="0" href="https://hardnightgoodmorning.com/" />
-      <mj-section background-color="black" padding="0" />
-      <mj-text
-        align="center"
-        color="white"
-        font-family="DM Sans, sans-serif"
-        font-size="16px"
-        font-weight="400"
-        line-height="1.4"
-      />
-    </mj-attributes>
   </mj-head>
 
-  <mj-body css-class="master">
-    <mj-section padding="12px">
+  <mj-body>
+    <!--  -->
+    <mj-section background-color="#0a0908" padding-bottom="0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.png"
-          width="168px"
+          href="https://www.runecast.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.webp"
+          alt=""
+          width="200px"
+          padding-bottom="0"
         />
       </mj-column>
     </mj-section>
 
-    <mj-section>
+    <!--  -->
+    <mj-section background-color="#0a0908">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          DIGITAL TRANSFORMATION SERVICES
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          A wide spectrum of services to accelerate your company's digital
+          transformation.
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          From requirements to retirement, our support extends through each
+          phase of the systems life cycle. If you are thinking best practices,
+          quality, sustainability, and compliance. Think DigITalX.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- colored -->
+    <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/hero.gif"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          MANAGED IT SERVICES
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Harness and integrate the best of technology for your bussines. Our
+          holistic, integrative approach lets you unlock the value of intrinsic
+          and quantifiable gains.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Identity and access management
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Policies administration
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Systems monitoring and maintenance
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Security updates/patches
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              IT assets management
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Help desk
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              IT suppliers management
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              IT equipment repairs
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Business continuity plans
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Disaster recovery strategy
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span>
-            Inspired by Mother Nature
-            <br />
-            Proven by Science
-          </span>
-        </mj-text>
-
-        <mj-text>
-          Hard Night Good Morning® products are highly researched, formulated
-          for maximum efficacy, and regarded for their safety and value,
-          enabling our customers to feel confident in our cruelty-free,
-          botanically- based products.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- offers -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text color="black">
-          Subscribe and Save 10% on all products.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
+    <!-- dark -->
+    <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
-          width="320px"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/2.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          IT INFRASTRUCTURE AND CLOUD SERVICES
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          DigITalX's reliable, flexible, and scalable solutions are capable of
+          adapting and growing your business. Whether on-prem or on the cloud,
+          our services help you reduce costs and increase availability,
+          flexibility and performance.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Servers and computers
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Virtualization
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Storage systems
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Network devices
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Load balancers
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              VPNs
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Backup tools
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Restore tools
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <!-- product 01 -->
-    <mj-section>
+    <!-- colored -->
+    <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/L22_3_2000x.png?v=1587600648"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/3.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          CYBERSECURITY AND DATA PROTECTION
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Establish in-depth protection for your business, and stakeholders.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Cybersecurity assessments
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Incident response
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Development of cybersecurity programs
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Administration of cybersecurity programs
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Detection and recovery strategies
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Systems monitoring
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Anti-virus protection
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Network security
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> L22 Elixir </span>
-        </mj-text>
-
-        <mj-text>
-          An advanced anti-aging formula made to soothe, moisturize and hydrate
-          the skin. Helps in reducing fine lines and evening out skin tone by
-          targeting dark spots.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- product 02 -->
-    <mj-section>
+    <!-- dark -->
+    <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/eye_cream_1_2000x.png?v=1587600566"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/4.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          QUALITY AND COMPLIANCE
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Stay out of legal problems, improve the bottom line and garner your
+          customers' trust with our compliance services that benefit you in the
+          longrun.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Computer Systems Validations
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Standard Operating Procedures
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Requirements and Specifications
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Maintenance Procedures
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Cyber Security Compliance
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              CFR 21 Part 11
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> Eye Cream </span>
-        </mj-text>
-
-        <mj-text>
-          Our revolutionary eye cream contains four key trademarked actives in a
-          botanical infusion of plant extracts. It is formulated with an
-          abundance of smoothing, firming, and lifting ingredients that not only
-          reduce crow’s feet wrinkles, but also fight puffiness, dark circles
-          and improve elasticity. Instantly provides luminosity and restores the
-          eye area to a more youthful appearance.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- offers -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text color="black">
-          Our products are enriched with 100% natural ingredients.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
+    <!-- colored -->
+    <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
-          width="320px"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/5.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          SOFTWARE ENGINEERING
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Optimize your productivity with custom software solutions governed by
+          quality and compliance measures.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Software architecture design
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Software migration
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Software modernization
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Testing
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Deployment
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Maintenance
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Data engineering
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Database configuration
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <!-- product 03 -->
-    <mj-section>
+    <!-- dark -->
+    <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/detox_2_2000x.png?v=1587598683"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/6.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          INDUSTRIAL AUTOMATION AND CONTROL
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Bring digital transformation to the production floor. Ensure the best
+          quality for your products, achieve unprecented levels of efficiency,
+          and gain the flexibility to adapt to unexpected changes.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Process Automation Systems
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Building Automation Systems
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Machines Automation and Safety
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Vision Inspection Systems
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Packaging Automation
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Motion Control System
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Motion Control System
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Alarms Management
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Control systems integration
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              Projects engineering/management
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              11
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1f2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              12
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> Detox Toner </span>
-        </mj-text>
-
-        <mj-text>
-          An exfoliating toner that protects skin from pollution and balances
-          its pH with a blend of fruit stem cells, botanicals, and minerals.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- product 04 -->
-    <mj-section>
+    <!-- colored -->
+    <mj-section background-color="#1F2937" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Facial_Serum2_2000x.png?v=1587599174"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/7.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          ETHERNET NETWORKS & TELECOM
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Achieve high-speed networking technologies for network savvy
+          operations. Stay connected with solutions that offer resilience,
+          security, and performance at all times.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Network design
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Devices installation/configuration
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Data cables installation/certification
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Network segmentation
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Administration and maintenance
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Network monitoring
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Business continuity plans
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Disaster recovery procedures
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Network security and protection
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #0a0908;
+                padding: 10px;
+                border-right: 10px solid #1f2937;
+                border-left: 10px solid #1f2937;
+              "
+            >
+              Telephony
+            </td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> Facial Cocktail Serum </span>
-        </mj-text>
-
-        <mj-text>
-          Lifts, tones, tightens, smooths and firms, all while enhancing and
-          hydrating your skin.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- offers -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text color="black">
-          We believe in beautiful skin and beautiful attitudes.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
+    <!-- <mj-section background-color="#0a0908" padding="30px 0">
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
-          width="320px"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/1.webp"
+          alt=""
+          border-radius="10px"
+          padding="0 30px 20px 30px"
         />
-      </mj-column>
-    </mj-section>
 
-    <!-- product 05 -->
-    <mj-section>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          MANAGED IT SERVICES
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="lightgray"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          Harness and integrate the best of technology for your bussines. Our
+          holistic, integrative approach lets you unlock the value of intrinsic
+          and quantifiable gains.
+        </mj-text>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              1
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              2
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              3
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              4
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              5
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              6
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              7
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              8
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              9
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              10
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding-bottom="0">
+          <tr align="center">
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              11
+            </td>
+            <td
+              width="50%"
+              style="
+                background-color: #1F2937;
+                padding: 10px;
+                border-right: 10px solid #0a0908;
+                border-left: 10px solid #0a0908;
+              "
+            >
+              12
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section> -->
+
+    <mj-section background-color="#000000">
       <mj-column>
+        <mj-button
+          href="https://www.dxtint.com/contact"
+          background-color="#1F2937"
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="16px"
+          font-weight="400"
+          letter-spacing="1px"
+          padding-bottom="20px"
+        >
+          Contact Us
+        </mj-button>
+
         <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Exfoliating_gel2_2000x.png?v=1587600491"
+          alt=""
+          href="https://www.dxtint.com/"
+          padding-bottom="0"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.webp"
+          width="200px"
         />
-      </mj-column>
-    </mj-section>
 
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> Exfoliating Gel Cleanser </span>
+        <mj-text
+          align="center"
+          color="#FFFFFF"
+          font-family="Poppins, sans-serif"
+          font-size="12px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="2"
+        >
+          Copyright © 2021. All rights reserved.<br />
+          <a
+            href="https://www.dxtint.com/"
+            style="color: #ffffff; text-decoration: none"
+          >
+            Digital Transformation Technologies LLC
+          </a>
+          <br />
+          <br />
+          <a
+            href="tel:939-609-2449"
+            style="text-decoration: none; color: deepskyblue"
+          >
+            939-609-2449
+          </a>
+
+          <br />
+          <a
+            href="mailto:info@dxtint.com"
+            style="text-decoration: none; color: deepskyblue"
+          >
+            info@dxtint.com
+          </a>
         </mj-text>
-
-        <mj-text>
-          An antioxidant-rich exfoliating cleanser enhanced with jojoba beads to
-          gently slough off dead skin cells and leave skin glowing.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- product 06 -->
-    <mj-section>
-      <mj-column>
-        <mj-image
-          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Cream_Cleanser_2_2000x.png?v=1587600448"
-        />
-      </mj-column>
-    </mj-section>
-
-    <mj-section padding="24px">
-      <mj-column>
-        <mj-text font-size="18px" font-weight="500">
-          <span> Hydrating Cream Cleanser </span>
-        </mj-text>
-
-        <mj-text>
-          A gentle everyday cream cleanser that dissolves makeup and impurities
-          and cleanses skin without stripping the skin's protective moisture
-          mantle.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- offers -->
-    <mj-section background-color="white">
-      <mj-column>
-        <mj-text color="black">
-          Female owned and operated. All products created in the USA.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <mj-section>
-      <mj-column>
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
-          width="320px"
-        />
       </mj-column>
     </mj-section>
   </mj-body>
