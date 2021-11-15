@@ -1,0 +1,287 @@
+<mjml>
+  <mj-head>
+    <!-- set fonts here -->
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <!-- set styles here -->
+    <mj-style>
+      a { color: inherit; font-weight: 500; text-decoration: none; } span {
+      color: #b1706c; }
+    </mj-style>
+
+    <!-- set title here -->
+    <mj-title>
+      This is the preview text that can be changed accordingly.
+    </mj-title>
+
+    <!-- set preview here -->
+    <mj-preview>
+      This is the preview text that can be changed accordingly.
+    </mj-preview>
+
+    <!-- set attributes here -->
+    <mj-attributes>
+      <mj-image padding="0" href="https://hardnightgoodmorning.com/" />
+      <mj-section background-color="black" padding="0" />
+      <mj-text
+        align="center"
+        color="white"
+        font-family="DM Sans, sans-serif"
+        font-size="16px"
+        font-weight="400"
+        line-height="1.4"
+      />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body css-class="master">
+    <mj-section padding="12px">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/logo.png"
+          width="168px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/hero.gif"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span>
+            Inspired by Mother Nature
+            <br />
+            Proven by Science
+          </span>
+        </mj-text>
+
+        <mj-text>
+          Hard Night Good Morning® products are highly researched, formulated
+          for maximum efficacy, and regarded for their safety and value,
+          enabling our customers to feel confident in our cruelty-free,
+          botanically- based products.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Subscribe and Save 10% on all products.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- product 01 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/L22_3_2000x.png?v=1587600648"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> L22 Elixir </span>
+        </mj-text>
+
+        <mj-text>
+          An advanced anti-aging formula made to soothe, moisturize and hydrate
+          the skin. Helps in reducing fine lines and evening out skin tone by
+          targeting dark spots.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 02 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/eye_cream_1_2000x.png?v=1587600566"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Eye Cream </span>
+        </mj-text>
+
+        <mj-text>
+          Our revolutionary eye cream contains four key trademarked actives in a
+          botanical infusion of plant extracts. It is formulated with an
+          abundance of smoothing, firming, and lifting ingredients that not only
+          reduce crow’s feet wrinkles, but also fight puffiness, dark circles
+          and improve elasticity. Instantly provides luminosity and restores the
+          eye area to a more youthful appearance.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Our products are enriched with 100% natural ingredients.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- product 03 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/detox_2_2000x.png?v=1587598683"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Detox Toner </span>
+        </mj-text>
+
+        <mj-text>
+          An exfoliating toner that protects skin from pollution and balances
+          its pH with a blend of fruit stem cells, botanicals, and minerals.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 04 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Facial_Serum2_2000x.png?v=1587599174"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Facial Cocktail Serum </span>
+        </mj-text>
+
+        <mj-text>
+          Lifts, tones, tightens, smooths and firms, all while enhancing and
+          hydrating your skin.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          We believe in beautiful skin and beautiful attitudes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- product 05 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Exfoliating_gel2_2000x.png?v=1587600491"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Exfoliating Gel Cleanser </span>
+        </mj-text>
+
+        <mj-text>
+          An antioxidant-rich exfoliating cleanser enhanced with jojoba beads to
+          gently slough off dead skin cells and leave skin glowing.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- product 06 -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://cdn.shopify.com/s/files/1/0183/4457/products/Cream_Cleanser_2_2000x.png?v=1587600448"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="500">
+          <span> Hydrating Cream Cleanser </span>
+        </mj-text>
+
+        <mj-text>
+          A gentle everyday cream cleanser that dissolves makeup and impurities
+          and cleanses skin without stripping the skin's protective moisture
+          mantle.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- offers -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text color="black">
+          Female owned and operated. All products created in the USA.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/digitalx/assets/afterpay.png"
+          width="320px"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
