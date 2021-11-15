@@ -962,33 +962,6 @@
             </td>
           </tr>
         </mj-table>
-
-        <mj-table color="white" align="center" padding-bottom="0">
-          <tr align="center">
-            <td
-              width="50%"
-              style="
-                background-color: #1f2937;
-                padding: 10px;
-                border-right: 10px solid #0a0908;
-                border-left: 10px solid #0a0908;
-              "
-            >
-              11
-            </td>
-            <td
-              width="50%"
-              style="
-                background-color: #1f2937;
-                padding: 10px;
-                border-right: 10px solid #0a0908;
-                border-left: 10px solid #0a0908;
-              "
-            >
-              12
-            </td>
-          </tr>
-        </mj-table>
       </mj-column>
     </mj-section>
 
