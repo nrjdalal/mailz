@@ -10,6 +10,7 @@
       <mj-image
         padding="0"
         href="https://discoveredgifts.carlsoncraft.com/Christmas/Christmas-Cards/index.cat"
+        fluid-on-mobile="true"
       />
     </mj-attributes>
   </mj-head>
