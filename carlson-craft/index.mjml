@@ -11,6 +11,7 @@
         padding="0"
         href="https://discoveredgifts.carlsoncraft.com/Christmas/Christmas-Cards/index.cat"
         fluid-on-mobile="true"
+        alt="HOLIDAY CARDS"
       />
     </mj-attributes>
   </mj-head>
@@ -22,14 +23,12 @@
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/1.jpg"
-          alt=""
           padding="0"
         />
       </mj-column>
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/2.jpg"
-          alt=""
           padding="0"
         />
       </mj-column>
@@ -42,14 +41,12 @@
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/3.jpg"
-          alt=""
           padding="0"
         />
       </mj-column>
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/4.jpg"
-          alt=""
           padding="0"
         />
       </mj-column>
@@ -63,14 +60,12 @@
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/5.jpg"
-          alt=""
           padding="5px 0 5px 5px"
         />
       </mj-column>
       <mj-column>
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/6.jpg"
-          alt=""
           padding="5px 5px 5px 0"
         />
       </mj-column>
