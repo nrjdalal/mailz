@@ -51,6 +51,7 @@
     <mj-section
       padding="0"
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding-bottom="15px"
     >
       <mj-column>
         <mj-image
