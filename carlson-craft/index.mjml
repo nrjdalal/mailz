@@ -1,5 +1,12 @@
 <mjml>
-  <mj-head> </mj-head>
+  <mj-head>
+    <mj-attributes>
+      <mj-image
+        padding="0"
+        href="https://discoveredgifts.carlsoncraft.com/Christmas/Christmas-Cards/index.cat"
+      />
+    </mj-attributes>
+  </mj-head>
   <mj-body>
     <mj-section
       padding="0"
