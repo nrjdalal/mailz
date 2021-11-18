@@ -20,5 +20,25 @@
         />
       </mj-column>
     </mj-section>
+
+    <mj-section
+      padding="0"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/3.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/carlson-craft/assets/4.jpg"
+          alt=""
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
