@@ -27,23 +27,21 @@
       <mj-column>
         <mj-image
           href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/alfa.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/modular-ad-banner-maker-1053.png"
           alt=""
           padding="0 0 24px 0"
         />
 
         <mj-text
           align="center"
-          font-size="21px"
-          font-weight="500"
+          font-size="24px"
+          font-weight="700"
           line-height="1.4"
-          color="#e70000"
+          color="#CA8A04"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          September 8-10th.
-          <br />
-          Only at Your Local Macy’s!
+          ABOUT US
         </mj-text>
 
         <mj-text
@@ -54,22 +52,22 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Here is your chance to save! From Ralph Lauren to Calvin Klein to Hugo
-          Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
-          on the best deals of the season.
+          At Terquois, we are designing clothes for your next holiday, your
+          getaways, your house parties and your offices.
           <br /><br />
-          Visit your local Macy’s from September 8-10th and Save 40% on an array
-          of men’s sweaters from top brands.
+          Capturing the warmth of the sun's rays and coolness of sea's breeze,
+          our garments are made in Mumbai. We use country made sourced fabrics
+          and ethical vendors, each garment is carefully crafted with LOVE ❤
         </mj-text>
 
         <mj-button
           href=""
-          background-color="#e70000"
+          background-color="#CA8A04"
           font-family="DM Sans, sans-serif"
-          font-size="16px"
+          font-size="14px"
           font-weight="500"
         >
-          LEARN MORE
+          KNOW MORE
         </mj-button>
       </mj-column>
     </mj-section>
