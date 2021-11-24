@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
+          alt=""
+          width="128px"
+          border-radius="50px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding-top="0" padding-bottom="36px">
+      <mj-column>
+        <mj-image
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/alfa.png"
+          alt=""
+          padding="0 0 24px 0"
+        />
+
+        <mj-text
+          align="center"
+          font-size="21px"
+          font-weight="500"
+          line-height="1.4"
+          color="#e70000"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          September 8-10th.
+          <br />
+          Only at Your Local Macy’s!
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Here is your chance to save! From Ralph Lauren to Calvin Klein to Hugo
+          Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
+          on the best deals of the season.
+          <br /><br />
+          Visit your local Macy’s from September 8-10th and Save 40% on an array
+          of men’s sweaters from top brands.
+        </mj-text>
+
+        <mj-button
+          href=""
+          background-color="#e70000"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+          font-weight="500"
+        >
+          LEARN MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
