@@ -13,11 +13,12 @@
     >
       <mj-column>
         <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
+          href="https://terquois.in/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/logo.png"
           alt=""
-          width="128px"
+          width="256px"
           border-radius="50px"
+          padding="30px"
         />
       </mj-column>
     </mj-section>
@@ -26,7 +27,7 @@
     <mj-section background-color="white" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
-          href=""
+          href="https://terquois.in/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/modular-ad-banner-maker-1053.png"
           alt=""
           padding="0 0 24px 0"
@@ -56,12 +57,15 @@
           getaways, your house parties and your offices.
           <br /><br />
           Capturing the warmth of the sun's rays and coolness of sea's breeze,
-          our garments are made in Mumbai. We use country made sourced fabrics
-          and ethical vendors, each garment is carefully crafted with LOVE ❤
+          our garments are made in Mumbai.
+          <br /><br />
+          We use country made sourced fabrics and ethical vendors, each garment
+          is carefully crafted with LOVE ❤
+          <br />
         </mj-text>
 
         <mj-button
-          href=""
+          href="https://terquois.in/"
           background-color="#CA8A04"
           font-family="DM Sans, sans-serif"
           font-size="14px"
@@ -69,6 +73,129 @@
         >
           KNOW MORE
         </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding-top="0">
+      <mj-column>
+        <mj-image
+          href="https://terquois.in/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/online-banner-maker-for-black-friday-sale-742.png"
+          alt=""
+          padding="0 0 24px 0"
+        />
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          You can wear us to the beach, a garden brunch, a citywalk or a casual
+          get together. Our fusion wear and dresses stays fresh as daisies.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- section -->
+    <mj-section background-color="white" padding-top="0">
+      <mj-column>
+        <mj-image
+          href="https://terquois.in/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/banner-design-template-for-clearance-sales-362f.png"
+          alt=""
+          padding="0 0 24px 0"
+        />
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="black"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Timeless and trans-seasonal, our dresses will leave you with tha
+          nostalgic hint of summer romance.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="tel:+919820974645"
+            style="text-decoration: none; color: white"
+            >+91 9820 974 645</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:terquois_klothing@yahoo.com"
+            style="text-decoration: none; color: white"
+            >terquois_klothing@yahoo.com
+          </a>
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/terquoisklothing25/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="pinterest"
+            href="https://in.pinterest.com/terquois_klothing/_created/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#833AB4"
+            name="instagram"
+            href="https://www.instagram.com/terquois_klothing/?hl=en"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="twitter"
+            href="https://in.linkedin.com/in/terquois-klothing-510a06116"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="10px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:terquois_klothing@yahoo.com"
+            style="text-decoration: none; color: white"
+            >UNSUBSCRIBE HERE</a
+          >
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
