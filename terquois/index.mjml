@@ -81,9 +81,16 @@
       <mj-column>
         <mj-image
           href="https://terquois.in/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/online-banner-maker-for-black-friday-sale-742.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-banner.png"
           alt=""
-          padding="0 0 24px 0"
+          padding="0 0 0 0"
+        />
+
+        <mj-image
+          href="https://terquois.in/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-items.jpg"
+          alt=""
+          padding="24px 0 12px 0"
         />
 
         <mj-text
