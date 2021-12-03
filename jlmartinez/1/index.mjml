@@ -6,23 +6,6 @@
     />
   </mj-head>
   <mj-body>
-    <!-- header section -->
-    <!-- <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-      padding="0"
-    >
-      <mj-column>
-        <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
-          alt=""
-          width="128px"
-          border-radius="50px"
-        />
-      </mj-column>
-    </mj-section> -->
-
-    <!-- section -->
     <mj-section background-color="black" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
@@ -34,13 +17,13 @@
 
         <mj-text
           align="center"
-          font-size="18px"
+          font-size="16px"
           font-weight="500"
           line-height="1.4"
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          padding="64px"
+          padding="48px 24px"
         >
           It Is That Time Of The Year For Swimsuit Season And To Get Your Body
           Ready.
@@ -58,12 +41,24 @@
           href=""
           background-color="#14B8A6"
           font-family="DM Sans, sans-serif"
-          font-size="16px"
+          font-size="14px"
           font-weight="500"
           color="black"
         >
           LEARN MORE
         </mj-button>
+
+        <mj-text
+          align="center"
+          font-size="12px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding="48px 24px 12px 24px"
+        >
+          3252 Holiday Court, Suite 229, La Jolla, California 92037
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
