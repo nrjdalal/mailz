@@ -6,31 +6,13 @@
     />
   </mj-head>
   <mj-body>
-    <mj-section background-color="black" padding-bottom="36px">
+    <mj-section background-color="black" padding-top="0" padding-bottom="36px">
       <mj-column>
-        <mj-text
-          align="center"
-          font-size="16px"
-          font-weight="500"
-          line-height="1.4"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          padding="24px"
-        >
-          <span style="color: #0ea5e9">CONGRATULATIONS !!!</span>
-
-          <br /><br />
-          You’ve just taken the first step to getting the best relationship
-          advice to a healthy and outstanding relationship.
-        </mj-text>
-
         <mj-image
-          href="https://www.lulu.com/en/us/shop/sandy-s/a-fems-guide-to-dating-a-stud/paperback/product-evrjkd.html"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/pdisband/assets/evrjkd-front-shortedge-384.jpg"
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/jlmartinez/assets/pinterest-pin-creator-for-a-dog-adoption-announcement-2150f.png"
           alt=""
-          padding="24px 64px"
-          border-radius="10px"
+          padding="0 0 24px 0"
         />
 
         <mj-text
@@ -41,21 +23,42 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          padding="24px"
+          padding="48px 24px"
         >
-          Check out this month's books by following the link below!
+          It Is That Time Of The Year For Swimsuit Season And To Get Your Body
+          Ready.
+
+          <br /><br />
+          Covid Was Hard On So Many Levels. It Certainly Didn’t Help Our
+          Waistline Either.
+
+          <br /><br />
+          Good News Is There Are Solutions To Getting Rid Of All That Excess
+          Fat.
         </mj-text>
 
         <mj-button
-          href="https://www.lulu.com/en/us/shop/sandy-s/a-fems-guide-to-dating-a-stud/paperback/product-evrjkd.html"
-          background-color="#0EA5E9"
+          href=""
+          background-color="#14B8A6"
           font-family="DM Sans, sans-serif"
           font-size="14px"
           font-weight="500"
-          color="white"
+          color="black"
         >
           LEARN MORE
         </mj-button>
+
+        <mj-text
+          align="center"
+          font-size="12px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          padding="48px 24px 12px 24px"
+        >
+          3252 Holiday Court, Suite 229, La Jolla, California 92037
+        </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
