@@ -43,7 +43,7 @@
           letter-spacing="0.5px"
           padding="24px"
         >
-          Check out this month's books by following the link below!
+          Check out this month's book by following the link below!
         </mj-text>
 
         <mj-button
