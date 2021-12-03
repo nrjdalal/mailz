@@ -10,7 +10,7 @@
       <mj-column>
         <mj-image
           href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/jlmartinez/assets/pinterest-pin-creator-for-a-dog-adoption-announcement-2150f.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/jlmartinez/assets/pinterest-post-maker-for-a-sporty-themed-collage-1901h.png"
           alt=""
           padding="0 0 24px 0"
         />
@@ -39,11 +39,11 @@
 
         <mj-button
           href=""
-          background-color="#14B8A6"
+          background-color="#06B6D4"
           font-family="DM Sans, sans-serif"
           font-size="14px"
           font-weight="500"
-          color="black"
+          color="white"
         >
           LEARN MORE
         </mj-button>
