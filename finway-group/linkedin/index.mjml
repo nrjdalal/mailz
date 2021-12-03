@@ -83,15 +83,16 @@
           line-height="1.4"
           align="center"
         >
-          <singleline> Your 3(16) Connection </singleline>
+          <singleline> #AdvisorSeries </singleline>
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-alfa.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-1.png"
           alt=""
-          href="https://www.linkedin.com/feed/update/urn:li:activity:6863496251279835136/"
+          href="https://www.linkedin.com/feed/update/urn:li:activity:6871500093426601984/"
           padding-bottom="30px"
           border-radius="50px"
+          border="1px solid gray"
         /><mj-text
           font-family="DM Sans, sans-serif"
           color="black"
@@ -101,15 +102,16 @@
           line-height="1.4"
           align="center"
         >
-          <singleline> Your New TPA Connection </singleline>
+          <singleline> #Your316Connection </singleline>
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/video-beta.jpg"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-2.png"
           alt=""
-          href="https://www.linkedin.com/posts/the-finway-group-llc_your-new-tpa-connection-activity-6851260997064368128-U39p/"
+          href="https://www.linkedin.com/posts/the-finway-group-llc_pep-in-their-step-activity-6853415056458309632-LbMX/"
           padding-bottom="30px"
           border-radius="50px"
+          border="1px solid gray"
         />
 
         <!-- <mj-text
