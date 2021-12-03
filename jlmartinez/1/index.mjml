@@ -7,67 +7,60 @@
   </mj-head>
   <mj-body>
     <!-- header section -->
-    <mj-section
+    <!-- <mj-section
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
       padding="0"
     >
       <mj-column>
         <mj-image
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/macys-icon.png"
           alt=""
           width="128px"
           border-radius="50px"
         />
       </mj-column>
-    </mj-section>
+    </mj-section> -->
 
     <!-- section -->
-    <mj-section background-color="white" padding-top="0" padding-bottom="36px">
+    <mj-section background-color="black" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/frankentripp/macys/assets/alfa.png"
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/jlmartinez/assets/pinterest-pin-creator-for-a-dog-adoption-announcement-2150f.png"
           alt=""
           padding="0 0 24px 0"
         />
 
         <mj-text
           align="center"
-          font-size="21px"
+          font-size="18px"
           font-weight="500"
           line-height="1.4"
-          color="#e70000"
+          color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
+          padding="64px"
         >
-          September 8-10th.
-          <br />
-          Only at Your Local Macy’s!
-        </mj-text>
+          It Is That Time Of The Year For Swimsuit Season And To Get Your Body
+          Ready.
 
-        <mj-text
-          align="center"
-          font-size="16px"
-          line-height="1.5"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Here is your chance to save! From Ralph Lauren to Calvin Klein to Hugo
-          Boss, Macy’s Men’s Fall Sweater Event has you covered. Don’t miss out
-          on the best deals of the season.
           <br /><br />
-          Visit your local Macy’s from September 8-10th and Save 40% on an array
-          of men’s sweaters from top brands.
+          Covid Was Hard On So Many Levels. It Certainly Didn’t Help Our
+          Waistline Either.
+
+          <br /><br />
+          Good News Is There Are Solutions To Getting Rid Of All That Excess
+          Fat.
         </mj-text>
 
         <mj-button
-          href="https://www.macys.com/shop/mens-clothing/mens-sweaters"
-          background-color="#e70000"
+          href=""
+          background-color="#14B8A6"
           font-family="DM Sans, sans-serif"
           font-size="16px"
           font-weight="500"
+          color="black"
         >
           LEARN MORE
         </mj-button>
