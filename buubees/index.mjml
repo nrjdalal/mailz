@@ -13,7 +13,7 @@
     >
       <mj-column>
         <mj-image
-          href=""
+          href="https://buubees.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/logo_alt.png"
           alt=""
           width="256px"
@@ -27,8 +27,8 @@
     <mj-section background-color="white" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/modular-ad-banner-maker-1053.png"
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00015.png"
           alt=""
           padding="0 0 24px 0"
         />
@@ -53,19 +53,31 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          At Terquois, we are designing clothes for your next holiday, your
-          getaways, your house parties and your offices.
+          Wearing bras should be pain-less and thought-less for us ladies even
+          if we are just lounging at home. Here at Buubees, we want to bring
+          alluring and comfortable undergarments that will create a confident
+          you.
           <br /><br />
-          Capturing the warmth of the sun's rays and coolness of sea's breeze,
-          our garments are made in Mumbai.
+          Buubees took form from a simple desire of bringing to women basic
+          comfortable intimates that feel and look great on the skin. Our
+          undergarments are designed in the way to suit your skin and clothes
+          instead of the other way round. Wearing any kind of clothing should be
+          as easy as counting 1, 2, 3.
           <br /><br />
-          We use country made sourced fabrics and ethical vendors, each garment
-          is carefully crafted with LOVE ❤
+          We believe that creating confident and beautiful women comes from
+          wearing our easy carefree undergarment everyday. Our inventions are
+          carefully designed and tested to ensure that your boobies are well
+          supported and happily nested!
+          <br /><br />
+          Look out for our fun and cheeky limited edition collection to spice up
+          your own wardrobe. Sometimes, girls just want to have fun.
+          <br /><br />
+          And you deserve it!
           <br />
         </mj-text>
 
         <mj-button
-          href=""
+          href="https://buubees.com/pages/about-us"
           background-color="#CA8A04"
           font-family="DM Sans, sans-serif"
           font-size="14px"
@@ -80,17 +92,10 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-banner.png"
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00010.jpg"
           alt=""
-          padding="0 0 0 0"
-        />
-
-        <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-items.jpg"
-          alt=""
-          padding="24px 0 12px 0"
+          padding="0 0 12px 0"
         />
 
         <mj-text
@@ -101,8 +106,9 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          You can wear us to the beach, a garden brunch, a citywalk or a casual
-          get together. Our fusion wear and dresses stays fresh as daisies.
+          LINGERIE FOR SUPER WOMEN
+          <br />
+          We transform girls into women
         </mj-text>
       </mj-column>
     </mj-section>
@@ -111,23 +117,39 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
-          href=""
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/banner-design-template-for-clearance-sales-362f.png"
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00009.png"
           alt=""
-          padding="0 0 24px 0"
+          padding="0 0 0 0"
         />
 
-        <mj-text
-          align="center"
-          font-size="16px"
-          line-height="1.5"
-          color="black"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Timeless and trans-seasonal, our dresses will leave you with tha
-          nostalgic hint of summer romance.
-        </mj-text>
+        <mj-image
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00014.png"
+          alt=""
+          padding="0 0 0 0"
+        />
+
+        <mj-image
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00013.png"
+          alt=""
+          padding="0 0 0 0"
+        />
+
+        <mj-image
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00012.png"
+          alt=""
+          padding="0 0 0 0"
+        />
+
+        <mj-image
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00008.png"
+          alt=""
+          padding="24px 0 0 0"
+        />
       </mj-column>
     </mj-section>
 
@@ -159,34 +181,34 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:terquois_klothing@yahoo.com"
+            href="mailto:sales@buubees.com"
             style="text-decoration: none; color: white"
-            >terquois_klothing@yahoo.com
+            >sales@buubees.com
           </a>
         </mj-text>
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element
+          <!-- <mj-social-element
             name="facebook"
             href="https://www.facebook.com/terquoisklothing25/"
           >
-          </mj-social-element>
-          <mj-social-element
+          </mj-social-element> -->
+          <!-- <mj-social-element
             name="pinterest"
             href="https://in.pinterest.com/terquois_klothing/_created/"
           >
-          </mj-social-element>
+          </mj-social-element> -->
           <mj-social-element
             background-color="#833AB4"
             name="instagram"
-            href="https://www.instagram.com/terquois_klothing/?hl=en"
+            href="https://www.instagram.com/buubees.sg"
           >
           </mj-social-element>
-          <mj-social-element
+          <!-- <mj-social-element
             name="twitter"
             href="https://in.linkedin.com/in/terquois-klothing-510a06116"
           >
-          </mj-social-element>
+          </mj-social-element> -->
         </mj-social>
 
         <mj-text
@@ -198,7 +220,7 @@
           letter-spacing="0.5px"
         >
           <a
-            href="mailto:terquois_klothing@yahoo.com"
+            href="mailto:sales@buubees.com"
             style="text-decoration: none; color: white"
             >UNSUBSCRIBE HERE</a
           >
