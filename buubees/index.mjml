@@ -13,8 +13,8 @@
     >
       <mj-column>
         <mj-image
-          href="https://terquois.in/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/logo.png"
+          href=""
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/logo.png"
           alt=""
           width="256px"
           border-radius="50px"
@@ -27,7 +27,7 @@
     <mj-section background-color="white" padding-top="0" padding-bottom="36px">
       <mj-column>
         <mj-image
-          href="https://terquois.in/"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/modular-ad-banner-maker-1053.png"
           alt=""
           padding="0 0 24px 0"
@@ -65,7 +65,7 @@
         </mj-text>
 
         <mj-button
-          href="https://terquois.in/"
+          href=""
           background-color="#CA8A04"
           font-family="DM Sans, sans-serif"
           font-size="14px"
@@ -80,14 +80,14 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
-          href="https://terquois.in/"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-banner.png"
           alt=""
           padding="0 0 0 0"
         />
 
         <mj-image
-          href="https://terquois.in/"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/sale-items.jpg"
           alt=""
           padding="24px 0 12px 0"
@@ -111,7 +111,7 @@
     <mj-section background-color="white" padding-top="0">
       <mj-column>
         <mj-image
-          href="https://terquois.in/"
+          href=""
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/terquois/assets/banner-design-template-for-clearance-sales-362f.png"
           alt=""
           padding="0 0 24px 0"
