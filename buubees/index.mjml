@@ -28,7 +28,14 @@
       <mj-column>
         <mj-image
           href="https://buubees.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00015.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/alfa.jpg"
+          alt=""
+          padding="0 0 24px 0"
+        />
+
+        <mj-image
+          href="https://buubees.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/free.jpg"
           alt=""
           padding="0 0 24px 0"
         />
@@ -38,7 +45,7 @@
           font-size="24px"
           font-weight="700"
           line-height="1.4"
-          color="#CA8A04"
+          color="red"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -78,7 +85,7 @@
 
         <mj-button
           href="https://buubees.com/pages/about-us"
-          background-color="#CA8A04"
+          background-color="red"
           font-family="DM Sans, sans-serif"
           font-size="14px"
           font-weight="500"
@@ -119,20 +126,6 @@
         <mj-image
           href="https://buubees.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00009.png"
-          alt=""
-          padding="0 0 0 0"
-        />
-
-        <mj-image
-          href="https://buubees.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00014.png"
-          alt=""
-          padding="0 0 0 0"
-        />
-
-        <mj-image
-          href="https://buubees.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/buubees/assets/buubees-00013.png"
           alt=""
           padding="0 0 0 0"
         />
