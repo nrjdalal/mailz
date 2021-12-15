@@ -49,6 +49,7 @@
         </mj-text>
 
         <mj-button
+          href=""
           padding="24px"
           background-color="#fe8d26"
           font-size="18px"
