@@ -8,15 +8,15 @@
     <mj-attributes>
       <mj-text
         font-family="Nunito, sans-serif"
-        font-size="18px"
+        font-size="16px"
         font-weight="600"
         line-height="1.4"
       />
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section background-color="#fe8d26" padding="30px 30px 0 30px">
-      <mj-column background-color="white" padding-top="30px" width="400px">
+    <mj-section background-color="#fe8d26" padding="30px 15px 0 15px">
+      <mj-column background-color="white" padding-top="30px" width="500px">
         <mj-text
           align="center"
           font-size="24px"
@@ -25,7 +25,83 @@
         >
           Welcome!
         </mj-text>
-        <mj-image src="" alt="" />
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/nyah/assets/handshake.png"
+          alt="handshake logo"
+          width="64px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#bbbdbf" padding="0 15px 30px 15px">
+      <mj-column background-color="white" padding="24px 0" width="500px">
+        <mj-text>
+          Hi {Firstname},
+          <br /><br />
+          We're excited for you to begin experiencing NYAH!
+          <br /><br />
+          Click the button below to verify your email and get started.
+        </mj-text>
+
+        <mj-button
+          padding="24px"
+          background-color="#fe8d26"
+          font-size="18px"
+          font-weight="800"
+          letter-spacing="1px"
+        >
+          Confirm Account
+        </mj-button>
+
+        <mj-text>
+          If that doesn't work, copy and paste the following link in your
+          browser:
+          <br /><br />
+          {Email verification link}
+          <br /><br />
+          If you have any questions, simply reply to this email - we're always
+          happy to help
+          <br /><br />
+          Transforming health,
+          <br />
+          Team NYAH!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#bbbdbf" padding="0 15px 30px 15px">
+      <mj-column background-color="#F6F3EA" padding="24px 0" width="500px">
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="800"
+          padding-bottom="0"
+        >
+          Need more help?
+        </mj-text>
+        <mj-text
+          align="center"
+          color="#fe8d26"
+          font-size="18px"
+          font-weight="800"
+          padding-top="0"
+        >
+          We're here to help you out
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#bbbdbf" padding="0 15px 30px 15px">
+      <mj-column width="500px">
+        <mj-text font-size="14px" padding="0">
+          If these emails get annoying, please feel free to
+          <a
+            href=""
+            style="color: black; font-weight: 800; text-decoration: none"
+            >unsubscribe</a
+          >
+          .</mj-text
+        >
       </mj-column>
     </mj-section>
   </mj-body>
