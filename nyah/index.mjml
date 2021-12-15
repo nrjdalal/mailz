@@ -20,7 +20,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/nyah/assets/logo.png"
           alt="handshake logo"
-          width="128px"
+          width="192px"
         />
         <mj-text
           align="center"
@@ -66,9 +66,9 @@
           {Email verification link}
           <br /><br />
           If you have any questions, simply reply to this email - we're always
-          happy to help
+          happy to help.
           <br /><br />
-          Transforming health,
+          Transforming Health,
           <br />
           Team NYAH!
         </mj-text>
@@ -83,7 +83,7 @@
           font-weight="800"
           padding-bottom="0"
         >
-          Need more help?
+          Need furthur help?
         </mj-text>
         <mj-text
           align="center"
