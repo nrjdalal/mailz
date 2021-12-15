@@ -17,6 +17,11 @@
   <mj-body>
     <mj-section background-color="#fe8d26" padding="30px 15px 0 15px">
       <mj-column background-color="white" padding-top="30px" width="500px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/nyah/assets/logo.png"
+          alt="handshake logo"
+          width="128px"
+        />
         <mj-text
           align="center"
           font-size="24px"
