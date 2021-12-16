@@ -94,6 +94,58 @@
         >
           We're here to help you out
         </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="800"
+          padding-bottom="0"
+        >
+          FOLLOW NYAH
+        </mj-text>
+
+        <mj-social
+          font-size="15px"
+          icon-size="30px"
+          mode="horizontal"
+          padding-top="0"
+        >
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/"
+            padding="5px"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            background-color="violet"
+            name="instagram"
+            href="https://www.instagram.com/"
+            padding="5px"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/"
+            padding="5px"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="twitter"
+            href="https://www.twitter.com/"
+            padding="5px"
+          >
+          </mj-social-element>
+
+          <mj-social-element
+            name="youtube"
+            href="https://www.youtube.com/"
+            padding="5px"
+          >
+          </mj-social-element>
+        </mj-social>
       </mj-column>
     </mj-section>
 
