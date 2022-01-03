@@ -1,0 +1,87 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/black.png"
+      padding="0"
+    >
+      <mj-column>
+        <mj-image
+          href="https://nfs.com"
+          src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"
+          alt=""
+          width="192px"
+          padding="24px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 01 -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Here is you login link {link}!</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="tel:(800) 961-7847"
+            style="text-decoration: none; color: white"
+            >987 987 987</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:info@nfs.com"
+            style="text-decoration: none; color: white"
+            >info@nfs.com</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://nfs.com">
+          </mj-social-element>
+          <mj-social-element name="google" href="https://nfs.com">
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://nfs.com">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
