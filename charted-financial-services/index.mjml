@@ -1,0 +1,510 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+
+  <mj-body>
+    <!--  -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="http://www.finwaygroup.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/logo.png"
+          alt=""
+          width="216px"
+          padding-bottom="24px"
+        />
+
+        <mj-image
+          href="http://www.finwaygroup.com/contact"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/hero.gif"
+          alt=""
+          padding="0"
+          padding-bottom="24px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/EmployerPlanFiduciary-outsource-liability.png"
+          alt=""
+          border-radius="10px"
+          padding="30px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            ATW Training Solutions & New Horizons Computer Learning Center
+          </singleline>
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                We have worked exclusively with The Finway Group since the
+                implementation of our company 401(k) plan in 2012. The knowledge
+                and guidance they have provided us has been invaluable.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 30px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                The entire staff always provide excellent service whether it’s
+                just a “quick” question, a plan change, or when it comes to
+                assisting with our year-end census. We can’t thank the Finway
+                team enough for all they do for us. ATW Training is grateful for
+                the opportunity to work with The Finway Group
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> Designated Plan Fiduciary </singleline>
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            Plan Sponsors are looking for help. Many are not equipped or
+            qualified to run and maintain their retirement plan and do not know
+            they are personally responsible.
+          </singleline>
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            As a Designated Plan Fiduciary, we will provide peace of mind and
+            stand shoulder to shoulder with the employer.
+          </singleline>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/alfa.jpg"
+          alt=""
+          border-radius="10px"
+          padding="30px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> McHenry Savings Bank </singleline>
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                The Finway Group has been our 401(k) administrator since 2003 —
+                through two different investment providers. We have obviously
+                been extremely pleased over the last 17 years.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 30px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                With the speedy service and attention to detail we have always
+                received from The Finway Group. Thank you, Finway, for your
+                3(16) Administrator service — you rock!
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> First-Class TPA </singleline>
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            Our administrators have an average of 20+ years of industry
+            experience. We pride ourselves with 98% of Form 5500s filed on time
+            as well as 99.5% client retention for the past five years.
+          </singleline>
+        </mj-text>
+
+        <mj-text
+          padding-top="0"
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            With experienced administrators and the latest technology, our
+            clients stay with us for the long term.
+          </singleline>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/ServingEmployers-focused-professional.png"
+          alt=""
+          border-radius="10px"
+          padding="30px"
+        />
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="white"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> Wild Rose Casino </singleline>
+        </mj-text>
+
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                The Finway Group has always done an excellent job for us. We
+                have had the pleasure of working with them for several years
+                now. We are highly satisfied with their services,
+                professionalism, and responsiveness to emails and phone calls.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table
+          color="white"
+          align="center"
+          padding="25px 30px"
+          padding-top="0"
+        >
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #ff0b00;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                Dealing with retirement plans can be a complex situation, but
+                The Finway Group makes it an easier process by explaining things
+                in a manner that we all understand. We have a great deal of
+                trust and integrity in The Finway Group and would highly
+                recommend them as an administrator for any company’s retirement
+                plan.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> Customer Service </singleline>
+        </mj-text>
+
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="18px"
+          font-weight="400"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline>
+            Getting it done right the first time. We work hard to provide
+            personal service, detailed processes, and the promise to stand by
+            you, your plan, and our work.
+          </singleline>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#47ebc6"
+          font-size="18px"
+          font-weight="700"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          CONTACT US
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          5625 Mills Civic Pkwy
+          <br />
+          Suite 101 West Des Moines
+          <br />
+          IA 50266
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a href="tel:866-955-4015" style="text-decoration: none; color: white"
+            >866-955-4015</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:info@finwaygroup.com"
+            style="text-decoration: none; color: white"
+            >info@finwaygroup.com</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/pages/category/Financial-Service/The-Finway-Group-302032073561303/"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="youtube"
+            href="https://www.youtube.com/watch?v=qTZ40p8ukEA&list=UUtF9vUCEaJNRR9UDsJUNn5A"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/the-finway-group-llc"
+            padding="5px"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          ©2021 The Finway Group, 5625 Mills Civic Pkwy. Suite 101 West Des
+          Moines, IA 50266 You are receiving this email because of your
+          association with Finway Group
+          <a href="http://www.finwaygroup.com" style="color: white"
+            >www.finwaygroup.com</a
+          >
+          <br />
+          <br />
+          <unsubscribe>Unsubscribe</unsubscribe>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

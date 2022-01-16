@@ -1,0 +1,240 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+
+  <mj-body>
+    <!--  -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="http://www.finwaygroup.com"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/logo.png"
+          alt=""
+          width="216px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #ff0b00;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                Finway is creating helpful marketing content for advisors!
+                Follow us on linked in to not miss a video!
+              </singleline>
+
+              <h4
+                font-family="DM Sans, sans-serif"
+                color="#38BDF8"
+                font-size="24px"
+                font-weight="500"
+                letter-spacing="1px"
+                line-height="1.4"
+                align="center"
+                style="color: #38bdf8"
+              >
+                <singleline> To watch more! Follow Us On </singleline>
+              </h4>
+
+              <a href="https://www.linkedin.com/company/the-finway-group-llc">
+                <img
+                  src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/linkedin-w.png"
+                  alt=""
+                  width="164px"
+                />
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> #AdvisorSeries </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-1.png"
+          alt=""
+          href="https://www.linkedin.com/feed/update/urn:li:activity:6871500093426601984/"
+          padding-bottom="30px"
+          border-radius="50px"
+          border="1px solid gray"
+        /><mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> #Your316Connection </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-2.png"
+          alt=""
+          href="https://www.linkedin.com/posts/the-finway-group-llc_pep-in-their-step-activity-6853415056458309632-LbMX/"
+          padding-bottom="30px"
+          border-radius="50px"
+          border="1px solid gray"
+        />
+
+        <!-- <mj-text
+          font-family="DM Sans, sans-serif"
+          color="black"
+          font-size="24px"
+          font-weight="500"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          <singleline> To watch more! Follow Us On </singleline>
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/LI-Logo.png"
+          alt=""
+          width="192px"
+          href="https://www.linkedin.com/company/the-finway-group-llc"
+          padding-bottom="30px"
+        /> -->
+      </mj-column>
+    </mj-section>
+
+    <!--  -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#47ebc6"
+          font-size="18px"
+          font-weight="700"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          CONTACT US
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          5625 Mills Civic Pkwy
+          <br />
+          Suite 101 West Des Moines
+          <br />
+          IA 50266
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a href="tel:866-955-4015" style="text-decoration: none; color: white"
+            >866-955-4015</a
+          >
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="mailto:info@finwaygroup.com"
+            style="text-decoration: none; color: white"
+            >info@finwaygroup.com</a
+          >
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/pages/category/Financial-Service/The-Finway-Group-302032073561303/"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="youtube"
+            href="https://www.youtube.com/watch?v=qTZ40p8ukEA&list=UUtF9vUCEaJNRR9UDsJUNn5A"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="linkedin"
+            href="https://www.linkedin.com/company/the-finway-group-llc"
+            padding="5px"
+          >
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          ©2021 The Finway Group, 5625 Mills Civic Pkwy. Suite 101 West Des
+          Moines, IA 50266 You are receiving this email because of your
+          association with Finway Group
+          <a href="http://www.finwaygroup.com" style="color: white"
+            >www.finwaygroup.com</a
+          >
+          <br />
+          <br />
+          <unsubscribe>Unsubscribe</unsubscribe>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
