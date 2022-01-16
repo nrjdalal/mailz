@@ -13,10 +13,10 @@
     >
       <mj-column>
         <mj-image
-          href="http://www.finwaygroup.com"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/logo.png"
+          href="https://www.youtube.com/watch?v=wPtMBp7H_Qw&list=PLXVQnBXmSTW8cvsVxWF3bblIcy4N1awLy&index=3"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/charted-financial-services/assets/logo.png"
           alt=""
-          width="216px"
+          width="160px"
         />
       </mj-column>
     </mj-section>
@@ -42,7 +42,7 @@
             >
               <singleline>
                 Finway is creating helpful marketing content for advisors!
-                Follow us on linked in to not miss a video!
+                Follow us on YouTube to not miss a video!
               </singleline>
 
               <h4
@@ -58,11 +58,14 @@
                 <singleline> To watch more! Follow Us On </singleline>
               </h4>
 
-              <a href="https://www.linkedin.com/company/the-finway-group-llc">
+              <a
+                href="https://www.youtube.com/watch?v=wPtMBp7H_Qw&list=PLXVQnBXmSTW8cvsVxWF3bblIcy4N1awLy&index=3"
+              >
                 <img
-                  src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/linkedin-w.png"
+                  src="https://raw.githubusercontent.com/nrjdalal/mailz/master/charted-financial-services/assets/brandfetch_youtube_logo_idmctklu93.png"
                   alt=""
                   width="164px"
+                  style="background: white; padding: 8px; border-radius: 5px"
                 />
               </a>
             </td>
@@ -89,7 +92,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-1.png"
           alt=""
-          href="https://www.linkedin.com/feed/update/urn:li:activity:6871500093426601984/"
+          href="https://www.youtube.com/watch?v=tJnc2aIMea0"
           padding-bottom="30px"
           border-radius="50px"
           border="1px solid gray"
@@ -108,7 +111,7 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-2.png"
           alt=""
-          href="https://www.linkedin.com/posts/the-finway-group-llc_pep-in-their-step-activity-6853415056458309632-LbMX/"
+          href="https://www.youtube.com/watch?v=o8VhlJxhDSs"
           padding-bottom="30px"
           border-radius="50px"
           border="1px solid gray"
@@ -195,7 +198,7 @@
           >
         </mj-text>
 
-        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+        <!-- <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
             name="facebook"
             href="https://www.facebook.com/pages/category/Financial-Service/The-Finway-Group-302032073561303/"
@@ -214,7 +217,7 @@
             padding="5px"
           >
           </mj-social-element>
-        </mj-social>
+        </mj-social> -->
 
         <mj-text
           align="center"
@@ -232,7 +235,7 @@
           >
           <br />
           <br />
-          <unsubscribe>Unsubscribe</unsubscribe>
+          <unsubscribe style="cursor: pointer">Unsubscribe</unsubscribe>
         </mj-text>
       </mj-column>
     </mj-section>
