@@ -86,11 +86,11 @@
           line-height="1.4"
           align="center"
         >
-          <singleline> #AdvisorSeries </singleline>
+          <singleline> #WhatIsFiduciary </singleline>
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-1.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/charted-financial-services/assets/video-alfa.png"
           alt=""
           href="https://www.youtube.com/watch?v=tJnc2aIMea0"
           padding-bottom="30px"
@@ -105,11 +105,11 @@
           line-height="1.4"
           align="center"
         >
-          <singleline> #Your316Connection </singleline>
+          <singleline> #TypesOfFiduciaries </singleline>
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/finway-group/assets/new-vid-2.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/charted-financial-services/assets/video-beta.png"
           alt=""
           href="https://www.youtube.com/watch?v=o8VhlJxhDSs"
           padding-bottom="30px"
