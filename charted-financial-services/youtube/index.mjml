@@ -29,8 +29,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #ff0b00;
-                border-left: 10px solid #47ebc6;
+                border-right: 10px solid white;
+                border-left: 10px solid white;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 18px;
@@ -53,7 +53,7 @@
                 letter-spacing="1px"
                 line-height="1.4"
                 align="center"
-                style="color: #38bdf8"
+                style="color: #1c4096"
               >
                 <singleline> To watch more! Follow Us On </singleline>
               </h4>
@@ -144,7 +144,7 @@
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#47ebc6"
+          color="#1c4096"
           font-size="18px"
           font-weight="700"
           letter-spacing="1px"
