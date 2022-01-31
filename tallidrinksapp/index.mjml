@@ -63,7 +63,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#bd1717">
+    <mj-section background-color="#bd1717" padding-bottom="0">
       <mj-column>
         <mj-text align="center" font-size="20px" font-weight="500" line-height="1.4" color="white">
           Drinks on tap.
@@ -74,20 +74,29 @@
           <br />
           Get wine, liquor, beer and more delivered with just a few taps.
         </mj-text>
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
-          alt=""
-          width="128px"
-        />
-
-        <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
-          alt=""
-          width="128px"
-          padding-top="0"
-        />
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#bd1717" padding-top="0">
+      <mj-group width="160px">
+        <mj-column>
+          <mj-image
+            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
+            alt=""
+            width="128px"
+          />
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="160px">
+        <mj-column>
+          <mj-image
+            src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
+            alt=""
+            width="128px"
+          />
+        </mj-column>
+      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>
