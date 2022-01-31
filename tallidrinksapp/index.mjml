@@ -84,7 +84,8 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
           alt=""
-          width="160px"
+          width="140px"
+          padding="0"
         />
       </mj-column>
     </mj-section>
