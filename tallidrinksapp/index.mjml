@@ -75,7 +75,17 @@
           Get wine, liquor, beer and more delivered with just a few taps.
         </mj-text>
 
-        <mj-button background-color="white" color="#bd1717">Shop Now</mj-button>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
+          alt=""
+          width="160px"
+        />
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
+          alt=""
+          width="160px"
+        />
       </mj-column>
     </mj-section>
   </mj-body>
