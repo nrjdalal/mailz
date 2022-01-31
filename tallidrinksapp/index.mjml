@@ -62,7 +62,7 @@
           So drink up and let your hair down, because you deserve it!</mj-text
         >
 
-        <mj-button background-color="#bd1717">Shop Now</mj-button>
+        <mj-button background-color="#bd1717" font-weight="500">Shop Now</mj-button>
       </mj-column>
     </mj-section>
 
