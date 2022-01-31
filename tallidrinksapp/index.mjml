@@ -46,7 +46,18 @@
           Straight to Your Door.
         </mj-text>
 
-        <mj-text align="center" line-height="1.4"> A drink for every vibe, A drink for your entire tribe. </mj-text>
+        <mj-text align="center" line-height="1.4"
+          >Kick away the pandemic blues by raising a toast to yourself!
+          <br />
+          It’s not a secret that work from home has not exactly been a cakewalk.
+          <br />
+          <br />
+          So, to raise your spirits during this overwhelming time, we bring to you the Spiritzone app; to be your silver
+          lining and get you feeling good again.
+          <br />
+          <br />
+          So drink up and let your hair down, because you deserve it!</mj-text
+        >
 
         <mj-button background-color="#bd1717">Shop Now</mj-button>
       </mj-column>
@@ -59,16 +70,9 @@
         </mj-text>
 
         <mj-text align="center" line-height="1.4" color="white">
-          Kick away the pandemic blues by raising a toast to yourself!
+          Download our free mobile app for an even better shopping experience.
           <br />
-          It’s not a secret that work from home has not exactly been a cakewalk.
-          <br />
-          <br />
-          So, to raise your spirits during this overwhelming time, we bring to you the Spiritzone app; to be your silver
-          lining and get you feeling good again.
-          <br />
-          <br />
-          So drink up and let your hair down, because you deserve it!
+          Get wine, liquor, beer and more delivered with just a few taps.
         </mj-text>
 
         <mj-button background-color="white" color="#bd1717">Shop Now</mj-button>
