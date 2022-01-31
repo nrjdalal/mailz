@@ -81,13 +81,14 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#bd1717" padding-top="0">
+    <mj-section background-color="#bd1717" padding-bottom="32px">
       <mj-group width="160px">
         <mj-column>
           <mj-image
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
             alt=""
             width="128px"
+            padding="0"
           />
         </mj-column>
       </mj-group>
@@ -98,6 +99,7 @@
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
             alt=""
             width="128px"
+            padding="0"
           />
         </mj-column>
       </mj-group>
