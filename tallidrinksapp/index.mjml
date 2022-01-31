@@ -89,6 +89,7 @@
             alt=""
             width="128px"
             padding="0"
+            padding-bottom="12px"
           />
         </mj-column>
       </mj-group>
@@ -100,6 +101,7 @@
             alt=""
             width="128px"
             padding="0"
+            padding-bottom="12px"
           />
         </mj-column>
       </mj-group>
