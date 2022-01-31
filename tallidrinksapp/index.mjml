@@ -78,14 +78,14 @@
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
           alt=""
-          width="160px"
+          width="128px"
         />
 
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
           alt=""
-          width="140px"
-          padding="0"
+          width="128px"
+          padding-top="0"
         />
       </mj-column>
     </mj-section>
