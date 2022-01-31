@@ -34,7 +34,7 @@
       <mj-column>
         <mj-image
           src="https://images.unsplash.com/photo-1587773403675-ba676c122bf3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
-          alt=""
+          alt="Hero Image"
           padding="0"
         />
       </mj-column>
@@ -86,7 +86,7 @@
         <mj-column>
           <mj-image
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
-            alt=""
+            alt="Download on Google Play"
             width="128px"
             padding="0"
             padding-bottom="12px"
@@ -98,7 +98,7 @@
         <mj-column>
           <mj-image
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
-            alt=""
+            alt="Download on App Store"
             width="128px"
             padding="0"
             padding-bottom="12px"
