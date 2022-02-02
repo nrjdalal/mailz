@@ -14,17 +14,38 @@
     <mj-section background-color="#bd1717">
       <mj-column>
         <mj-image
+          href="https://tallidrinksapp.com"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/logo.png"
           alt="Talli Logo"
           width="96px"
         />
 
         <mj-text align="center">
-          <a href="" style="color: white; margin: 4px; text-decoration: none">Vodka</a>
-          <a href="" style="color: white; margin: 4px; text-decoration: none">Whiskey</a>
-          <a href="" style="color: white; margin: 4px; text-decoration: none">Rum</a>
-          <a href="" style="color: white; margin: 4px; text-decoration: none">Tequila</a>
-          <a href="" style="color: white; margin: 4px; text-decoration: none">Wine</a>
+          <a
+            href="https://tallidrinksapp.com/product-category/liquor/vodka/"
+            style="color: white; margin: 4px; text-decoration: none"
+            >Vodka</a
+          >
+          <a
+            href="https://tallidrinksapp.com/product-category/liquor/whiskey/"
+            style="color: white; margin: 4px; text-decoration: none"
+            >Whiskey</a
+          >
+          <a
+            href="https://tallidrinksapp.com/product-category/liquor/rum/"
+            style="color: white; margin: 4px; text-decoration: none"
+            >Rum</a
+          >
+          <a
+            href="https://tallidrinksapp.com/product-category/liquor/tequila/"
+            style="color: white; margin: 4px; text-decoration: none"
+            >Tequila</a
+          >
+          <a
+            href="https://tallidrinksapp.com/product-category/liquor/wine/"
+            style="color: white; margin: 4px; text-decoration: none"
+            >Wine</a
+          >
         </mj-text>
       </mj-column>
     </mj-section>
@@ -33,6 +54,7 @@
     <mj-section padding="0" background-color="white">
       <mj-column>
         <mj-image
+          href="https://tallidrinksapp.com"
           src="https://images.unsplash.com/photo-1587773403675-ba676c122bf3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
           alt="Hero Image"
           padding="0"
@@ -62,7 +84,7 @@
           So drink up and let your hair down, because you deserve it!</mj-text
         >
 
-        <mj-button background-color="#bd1717" font-weight="500">Shop Now</mj-button>
+        <mj-button href="https://tallidrinksapp.com" background-color="#bd1717" font-weight="500">Shop Now</mj-button>
       </mj-column>
     </mj-section>
 
@@ -85,6 +107,7 @@
       <mj-group width="160px">
         <mj-column>
           <mj-image
+            href="https://play.google.com/store/apps/details?id=com.talli.customer&hl=en_IN&gl=US"
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
             alt="Download on Google Play"
             width="128px"
@@ -97,6 +120,7 @@
       <mj-group width="160px">
         <mj-column>
           <mj-image
+            href="https://apps.apple.com/in/app/talli-good-times-delivered/id1529077077"
             src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/app-store-badge.png"
             alt="Download on App Store"
             width="128px"
