@@ -108,5 +108,30 @@
     </mj-section>
 
     <!-- footer -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text align="center" color="white" font-weight="500"> Need furthur help? </mj-text>
+        <mj-text align="center" color="white" padding-top="0" line-height="1.4">
+          Contact us at
+          <br />
+          <a href="tel:+917779027171" style="color: white; margin: 4px; text-decoration: none">+91 777 902 7171</a>
+        </mj-text>
+        <mj-text align="center" color="white" padding-top="0" line-height="1.4">
+          Support at
+          <br />
+          <a href="mailto:support@tallidrinks.com" style="color: white; margin: 4px; text-decoration: none"
+            >support@tallidrinks.com</a
+          >
+        </mj-text>
+
+        <mj-text align="center" color="white" font-weight="800"> TALLIDRINKSAPP </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding-top="0">
+          <mj-social-element name="facebook" href="https://www.facebook.com/" padding="5px"> </mj-social-element>
+          <mj-social-element background-color="violet" name="instagram" href="https://www.instagram.com/" padding="5px">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
