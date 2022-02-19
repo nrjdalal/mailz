@@ -13,10 +13,10 @@
   </mj-head>
   <mj-body>
     <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/background.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/gray.png"
       padding="0"
       background-repeat="repeat"
-      background-color="white"
+      background-color="#FFFFFF"
     >
       <mj-column>
         <mj-image
@@ -28,7 +28,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text>
           Dear Valued Customer,
@@ -56,6 +56,35 @@
           Kind regards,<br />
           The One Delivery Team
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#cbd5e1">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            background-color="#FA314A"
+            border-radius="99px"
+            name="facebook"
+            href="https://www.facebook.com/terquoisklothing25/"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#FA314A"
+            border-radius="99px"
+            name="pinterest"
+            href="https://in.pinterest.com/terquois_klothing/_created/"
+            padding="0 20px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#FA314A"
+            border-radius="99px"
+            name="instagram"
+            href="https://www.instagram.com/terquois_klothing/?hl=en"
+          >
+          </mj-social-element>
+        </mj-social>
       </mj-column>
     </mj-section>
   </mj-body>
