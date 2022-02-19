@@ -13,14 +13,14 @@
   </mj-head>
   <mj-body>
     <mj-section
-      background-url="https://documentation.mjml.io/images/logo.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/background.png"
       padding="0"
       background-repeat="repeat"
       background-color="white"
     >
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/6af87d3991ee5837a3bc6a446faa16bff1fa4fbb/one-delivery/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo.png"
           alt=""
           padding="0"
           width="128px"
