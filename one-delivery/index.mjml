@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-text font-family="DM Sans, sans-serif" line-height="1.4" />
+    </mj-attributes>
+
+    mj
+  </mj-head>
+  <mj-body>
+    <mj-section
+      background-url="https://documentation.mjml.io/images/logo.png"
+      padding="0"
+      background-repeat="repeat"
+      background-color="white"
+    >
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/6af87d3991ee5837a3bc6a446faa16bff1fa4fbb/one-delivery/assets/logo.png"
+          alt=""
+          padding="0"
+          width="128px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text>
+          Dear Valued Customer,
+          <br /><br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet,
+          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+          labore et dolore magna aliqua.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sit amet nisl suscipit adipiscing
+          bibendum est ultricies integer. Volutpat odio facilisis mauris sit.
+          Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper
+          dignissim. Felis eget nunc lobortis mattis aliquam. Vel elit
+          scelerisque mauris pellentesque pulvinar. Quam viverra orci sagittis
+          eu volutpat odio facilisis mauris.
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Turpis egestas maecenas pharetra
+          convallis posuere morbi. In iaculis nunc sed augue lacus viverra vitae
+          congue. Lectus urna duis convallis convallis. Tristique et egestas
+          quis ipsum suspendisse ultrices gravida dictum fusce. Sit amet
+          facilisis magna etiam tempor orci eu lobortis elementum. Nullam non
+          nisi est sit amet facilisis magna etiam tempor. Donec ultrices
+          tincidunt arcu non. Eget lorem dolor sed viverra ipsum nunc aliquet
+          bibendum enim. Imperdiet dui accumsan sit amet.
+          <br /><br />
+          Kind regards,<br />
+          The One Delivery Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
