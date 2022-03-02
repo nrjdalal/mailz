@@ -66,6 +66,14 @@
 
     <mj-section background-color="#000000">
       <mj-column>
+        <mj-image
+          href="https://one-delivery.co.uk"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/iphone-x.png"
+          alt=""
+          padding="0"
+          width="200px"
+        />
+
         <mj-text color="#ffffff" padding-left="5px">
           <ul>
             <li>
@@ -104,9 +112,9 @@
           Start enjoying the benefits today by simply completing our sign-up form!
         </mj-text>
 
-        <mj-button href="https://one-delivery.co.uk" background-color="#f13139" font-size="18px" color="#ffffff"
-          >LET'S GO</mj-button
-        >
+        <mj-button href="https://one-delivery.co.uk" background-color="#f13139" font-size="18px" color="#ffffff">
+          LET'S GO
+        </mj-button>
       </mj-column>
     </mj-section>
 
