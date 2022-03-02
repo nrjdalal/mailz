@@ -6,7 +6,7 @@
     />
 
     <mj-attributes>
-      <mj-text font-family="DM Sans, sans-serif" line-height="1.6" />
+      <mj-text font-family="DM Sans, sans-serif" font-size="14px" line-height="1.6" />
     </mj-attributes>
 
     <mj-style> body { background-color: #9CA3AF; padding: 50px 0; } </mj-style>
@@ -59,7 +59,7 @@
 
     <mj-section background-color="#f13139">
       <mj-column>
-        <mj-text color="#ffffff" font-size="14px" padding-left="5px">
+        <mj-text color="#ffffff" padding-left="5px">
           <ul>
             <li>
               No set up costs at all, we do everything! So, if there are no orders it costs you nothing.
