@@ -105,6 +105,14 @@
 
     <mj-section background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/gray.png">
       <mj-column>
+        <mj-image
+          href="https://one-delivery.co.uk"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-alt.png"
+          alt=""
+          width="72px"
+          border-radius="10px"
+        />
+
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element
             background-color="#f13139"
