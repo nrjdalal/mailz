@@ -8,11 +8,12 @@
     <mj-attributes>
       <mj-text font-family="DM Sans, sans-serif" line-height="1.4" />
     </mj-attributes>
+
+    <mj-style> body { background-color: #cbd5e1; } </mj-style>
   </mj-head>
   <mj-body>
     <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/background.png"
-      padding="0"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/assets/backgrounds/white.png"
       background-repeat="repeat"
       background-color="#FFFFFF"
     >
@@ -21,16 +22,28 @@
           href="https://one-delivery.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo.png"
           alt=""
-          padding="0"
           width="128px"
+          align="left"
         />
       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fa314a">
+      <mj-column>
+        <mj-text font-size="32px" font-weight="500">
+          Partnership
+          <span style="color: #ffffff">Benefit</span>
+          Email
+        </mj-text>
+      </mj-column>
+      <mj-column></mj-column>
     </mj-section>
 
     <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text>
-          Dear Valued Customer,
+          <span style="font-weight: 700">Dear Valued Customer,</span>
+
           <br /><br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua.
