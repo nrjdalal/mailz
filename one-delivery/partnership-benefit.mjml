@@ -29,11 +29,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#f13139">
+    <mj-section background-color="#000000">
       <mj-column>
-        <mj-text color="#fecaca" font-size="32px" font-weight="500">
+        <mj-text color="#ffffff" font-size="32px" font-weight="500">
           Partnership
-          <span style="color: #ffffff">Benefit</span>
+          <span style="color: #f13139">Benefit</span>
           Email
         </mj-text>
       </mj-column>
@@ -57,7 +57,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#f13139">
+    <mj-section background-color="#000000">
       <mj-column>
         <mj-text color="#ffffff" padding-left="5px">
           <ul>
@@ -68,22 +68,24 @@
                 <li>No Set-up fees</li>
               </ul>
             </li>
-            <li>No contracts, just an agreement.</li>
+            <li style="color: #f13139">No contracts, just an agreement.</li>
             <li>Set up and menu build will be done by One Delivery.</li>
-            <li>24/7 access to support – no robots, just human.</li>
+            <li style="color: #f13139">24/7 access to support – no robots, just human.</li>
             <li>Full access to your back office where you can edit all settings and view orders.</li>
-            <li>
+            <li style="color: #f13139">
               A low discount rate of 25% on all orders to One Delivery, compared to Uber Eats, Deliveroo and Just Eats.
             </li>
             <li>Ability to accept orders as delivery or collection.</li>
-            <li>Set discount codes and special offers.</li>
+            <li style="color: #f13139">Set discount codes and special offers.</li>
             <li>Accept both card and cash payment.</li>
-            <li>
+            <li style="color: #f13139">
               Receive orders via an android app or email (Android app requires a tablet to operate, one can be provided
               for a small deposit).
             </li>
             <li>Initial marketing across One Delivery and Imagery for your own social media.</li>
-            <li>Unique URL and landing page so you can promote your own page and not get lost in the list of sites.</li>
+            <li style="color: #f13139">
+              Unique URL and landing page so you can promote your own page and not get lost in the list of sites.
+            </li>
           </ul>
         </mj-text>
       </mj-column>
