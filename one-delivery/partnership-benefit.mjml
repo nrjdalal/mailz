@@ -43,7 +43,6 @@
       <mj-column>
         <mj-text>
           <span style="font-weight: 700">Dear Valued Customer,</span>
-
           <br /><br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua.
@@ -62,6 +61,16 @@
           Kind regards,<br />
           The One Delivery Team
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/partnership-benefits.png"
+          alt=""
+          padding="0"
+        />
       </mj-column>
     </mj-section>
 
