@@ -95,7 +95,9 @@
           Start enjoying the benefits today by simply completing our sign-up form!
         </mj-text>
 
-        <mj-button background-color="#f13139" font-size="18px" color="#ffffff">LET'S GO</mj-button>
+        <mj-button href="https://one-delivery.co.uk" background-color="#f13139" font-size="18px" color="#ffffff"
+          >LET'S GO</mj-button
+        >
       </mj-column>
     </mj-section>
 
@@ -127,6 +129,7 @@
         </mj-social>
 
         <mj-image
+          href="https://one-delivery.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/tallidrinksapp/assets/google-play-badge.png"
           alt="Download on Google Play"
           width="128px"
