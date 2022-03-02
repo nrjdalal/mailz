@@ -20,10 +20,11 @@
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-alt.png"
           alt=""
           width="128px"
           align="left"
+          border-radius="10px"
         />
       </mj-column>
     </mj-section>
