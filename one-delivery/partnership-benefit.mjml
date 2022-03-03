@@ -6,13 +6,13 @@
     />
 
     <mj-attributes>
-      <mj-text font-family="DM Sans, sans-serif" font-size="14px" line-height="1.6" />
+      <mj-text font-family="ProximaNova, sans-serif" font-size="14px" line-height="1.6" />
     </mj-attributes>
 
     <mj-style>
-      @font-face { font-family: DM Sans; src:
+      @font-face { font-family: ProximaNova; src:
       url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Regular.otf')
-      format('otf'); } @font-face { font-family: DM Sans; src:
+      format('otf'); } @font-face { font-family: ProximaNova; src:
       url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Bold.otf')
       format('otf'); } body { background-color: #9CA3AF; padding: 50px 0; }
     </mj-style>
