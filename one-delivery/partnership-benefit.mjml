@@ -12,7 +12,7 @@
     <mj-style> body { background-color: #9CA3AF; padding: 50px 0; } </mj-style>
   </mj-head>
   <mj-body>
-    <mj-section background-color="#FCA5A5" background-repeat="repeat" background-color="#FFFFFF">
+    <mj-section background-color="#FECACA" background-repeat="repeat" background-color="#FFFFFF">
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
@@ -60,7 +60,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FCA5A5">
+    <mj-section background-color="#FECACA">
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
@@ -118,7 +118,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FCA5A5">
+    <mj-section background-color="#FECACA">
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
