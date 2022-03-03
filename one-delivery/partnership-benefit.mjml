@@ -130,7 +130,11 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding="10px"> </mj-section>
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/gray.png"
+      padding="10px"
+    >
+    </mj-section>
 
     <mj-section background-color="#FECACA">
       <mj-column>
