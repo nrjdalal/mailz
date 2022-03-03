@@ -121,7 +121,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FECACA">
+    <mj-section background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/gray.png">
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
