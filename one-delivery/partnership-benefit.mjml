@@ -33,7 +33,7 @@
 
     <mj-section background-color="#000000" padding="0">
       <mj-column>
-        <mj-text color="#ffffff" font-size="30px" font-weight="500" padding="32px">
+        <mj-text color="#ffffff" font-size="28px" font-weight="500" padding="32px">
           Partnership
           <span style="color: #f13139">Benefit</span>
           Email
