@@ -13,17 +13,17 @@
   </mj-head>
   <mj-body>
     <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/background-alt.png"
+      padding="0"
       background-repeat="repeat"
       background-color="#FFFFFF"
-      padding="0"
     >
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-beta.png"
           alt=""
-          width="128px"
+          width="105px"
           align="left"
           padding-top="0"
           padding-bottom="0"
