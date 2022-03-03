@@ -29,9 +29,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#000000" padding="0">
+    <mj-section background-color="#FECACA" padding="0">
       <mj-column>
-        <mj-text color="#ffffff" font-size="24px" font-weight="500" padding="32px">
+        <mj-text color="#000000" font-size="24px" font-weight="500" padding="32px">
           Partnership
           <span style="color: #f13139">Benefit</span>
           Email
@@ -39,7 +39,7 @@
       </mj-column>
       <mj-column>
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/chef.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/chef-alt.png"
           alt=""
           padding="0"
           align="right"
