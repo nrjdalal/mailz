@@ -118,7 +118,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF" padding="48px">
+    <mj-section background-color="#FFFFFF" padding="48px 16px">
       <mj-column padding-bottom="24px">
         <mj-text align="center" font-size="18px">
           Start enjoying the benefits today by simply completing our sign-up form!
