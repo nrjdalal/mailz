@@ -75,7 +75,7 @@
         </mj-text>
 
         <mj-text color="#ffffff" padding-left="5px">
-          <ul style="color: #000000">
+          <ul style="color: #000000; font-weight: 500">
             <li>
               No set up costs at all, we do everything! So, if there are no orders it costs you nothing.
               <ul>
