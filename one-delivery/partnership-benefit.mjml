@@ -11,10 +11,10 @@
 
     <mj-style>
       @font-face { font-family: ProximaNova; src:
-      url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Regular.otf')
-      format('otf'); } @font-face { font-family: ProximaNova; src:
-      url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Bold.otf')
-      format('otf'); } body { background-color: #9CA3AF; padding: 50px 0; }
+      url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Regular.woff')
+      format('woff'); } @font-face { font-family: ProximaNovaBold; src:
+      url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Bold.woff')
+      format('woff'); } body { background-color: #9CA3AF; padding: 50px 0; }
     </mj-style>
   </mj-head>
   <mj-body>
@@ -40,7 +40,7 @@
 
     <mj-section background-color="#000000" padding="0">
       <mj-column>
-        <mj-text color="#ffffff" font-size="28px" font-weight="500" padding="32px">
+        <mj-text color="#ffffff" font-size="28px" font-family="ProximaNovaBold, sans-serif" padding="32px">
           Partnership
           <span style="color: #f13139">Benefit</span>
           Email
@@ -59,7 +59,7 @@
     <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text>
-          <span style="color: #f13139; font-weight: 700">Dear Valued Customer,</span>
+          <span style="color: #f13139; font-family: ProximaNovaBold, sans-serif">Dear Valued Customer,</span>
           <br /><br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This email is to thank you for taking the time out to connect with one of
           our representative and to remind you about how you can benefit with a quality and cost-efficient fast-food
@@ -93,7 +93,7 @@
         />
 
         <mj-text color="#ffffff" padding-left="5px" font-size="16px">
-          <ul style="color: #000000; font-weight: 700">
+          <ul style="color: #000000; font-family: ProximaNovaBold, sans-serif">
             <li>
               No set up costs at all, we do everything! So, if there are no orders it costs you nothing.
               <ul>
