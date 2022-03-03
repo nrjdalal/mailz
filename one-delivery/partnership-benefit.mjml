@@ -12,6 +12,8 @@
     <mj-style>
       @font-face { font-family: ProximaNova; src:
       url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Regular.woff')
+      format('woff'); } @font-face { font-family: ProximaNovaSemibold; src:
+      url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Semibold.woff')
       format('woff'); } @font-face { font-family: ProximaNovaBold; src:
       url('https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/proxima_font/ProximaNova-Bold.woff')
       format('woff'); } body { background-color: #9CA3AF; padding: 50px 0; }
