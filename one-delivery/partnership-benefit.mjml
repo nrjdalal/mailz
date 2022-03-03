@@ -75,7 +75,7 @@
         </mj-text>
 
         <mj-text color="#ffffff" padding-left="5px">
-          <ul style="color: #000000; font-weight: 500">
+          <ul style="color: #000000; font-weight: 700">
             <li>
               No set up costs at all, we do everything! So, if there are no orders it costs you nothing.
               <ul>
@@ -83,22 +83,22 @@
                 <li>No Set-up fees</li>
               </ul>
             </li>
-            <li style="color: #f13139">No contracts, just an agreement.</li>
+            <li style="color: #000000">No contracts, just an agreement.</li>
             <li>Set up and menu build will be done by One Delivery.</li>
-            <li style="color: #f13139">24/7 access to support – no robots, just human.</li>
+            <li style="color: #000000">24/7 access to support – no robots, just human.</li>
             <li>Full access to your back office where you can edit all settings and view orders.</li>
-            <li style="color: #f13139">
+            <li style="color: #000000">
               A low discount rate of 25% on all orders to One Delivery, compared to Uber Eats, Deliveroo and Just Eats.
             </li>
             <li>Ability to accept orders as delivery or collection.</li>
-            <li style="color: #f13139">Set discount codes and special offers.</li>
+            <li style="color: #000000">Set discount codes and special offers.</li>
             <li>Accept both card and cash payment.</li>
-            <li style="color: #f13139">
+            <li style="color: #000000">
               Receive orders via an android app or email (Android app requires a tablet to operate, one can be provided
               for a small deposit).
             </li>
             <li>Initial marketing across One Delivery and Imagery for your own social media.</li>
-            <li style="color: #f13139">
+            <li style="color: #000000">
               Unique URL and landing page so you can promote your own page and not get lost in the list of sites.
             </li>
           </ul>
