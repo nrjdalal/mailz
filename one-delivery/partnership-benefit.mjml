@@ -13,6 +13,7 @@
   </mj-head>
   <mj-body>
     <mj-section
+      background-color="#FECACA"
       background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/background-alt.png"
       padding="0"
       background-repeat="repeat"
@@ -58,10 +59,9 @@
           our representative and to remind you about how you can benefit with a quality and cost-efficient fast-food
           delivery service like One Delivery.
           <br /><br />
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At One Delivery, we understand how tough it can be for restaurants, to
-          operate with high costs and rigid demands that are currently offered by other fast-food delivery providers.
-          That is why we endeavoured to provide you a budget-friendly food delivery service that will help you save more
-          with greater flexibility
+          At One Delivery, we understand how tough it can be for restaurants, to operate with high costs and rigid
+          demands that are currently offered by other fast-food delivery providers. That is why we endeavoured to
+          provide you a budget-friendly food delivery service that will help you save more with greater flexibility
         </mj-text>
       </mj-column>
     </mj-section>
@@ -130,7 +130,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/gray.png">
+    <mj-section background-color="#FECACA">
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
