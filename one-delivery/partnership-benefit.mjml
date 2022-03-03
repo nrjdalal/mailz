@@ -130,6 +130,8 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding="10px"> </mj-section>
+
     <mj-section background-color="#FECACA">
       <mj-column>
         <mj-image
