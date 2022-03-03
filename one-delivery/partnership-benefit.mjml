@@ -86,7 +86,7 @@
           width="200px"
         />
 
-        <mj-text color="#ffffff" padding-left="5px">
+        <mj-text color="#ffffff" padding-left="5px" font-size="16px">
           <ul style="color: #000000; font-weight: 700">
             <li>
               No set up costs at all, we do everything! So, if there are no orders it costs you nothing.
@@ -118,9 +118,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF">
-      <mj-column>
-        <mj-text align="center" font-size="16px">
+    <mj-section background-color="#FFFFFF" padding="48px">
+      <mj-column padding-bottom="24px">
+        <mj-text align="center" font-size="18px">
           Start enjoying the benefits today by simply completing our sign-up form!
         </mj-text>
 
