@@ -136,6 +136,7 @@
             border-radius="99px"
             name="facebook"
             href="https://www.facebook.com/One-delivery-North-west-London-111049028141208"
+            padding="0 10px"
           >
           </mj-social-element>
           <mj-social-element
@@ -143,7 +144,23 @@
             border-radius="99px"
             name="pinterest"
             href="https://in.pinterest.com/onedelivery_nwlondon"
-            padding="0 20px"
+            padding="0 10px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#f13139"
+            border-radius="99px"
+            name="linkedin"
+            href="https://in.pinterest.com/onedelivery_nwlondon"
+            padding="0 10px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            background-color="#f13139"
+            border-radius="99px"
+            name="twitter"
+            href="https://in.pinterest.com/onedelivery_nwlondon"
+            padding="0 10px"
           >
           </mj-social-element>
           <mj-social-element
@@ -151,6 +168,7 @@
             border-radius="99px"
             name="instagram"
             href="https://www.instagram.com/onedelivery_nwlondon"
+            padding="0 10px"
           >
           </mj-social-element>
         </mj-social>
