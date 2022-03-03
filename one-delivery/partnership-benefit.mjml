@@ -49,7 +49,7 @@
     <mj-section background-color="#FFFFFF">
       <mj-column>
         <mj-text>
-          <span style="font-weight: 700">Dear Valued Customer,</span>
+          <span style="color: #f13139; font-weight: 700">Dear Valued Customer,</span>
           <br /><br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This email is to thank you for taking the time out to connect with one of
           our representative and to remind you about how you can benefit with a quality and cost-efficient fast-food
