@@ -20,11 +20,10 @@
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-alt.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-beta.png"
           alt=""
           width="128px"
           align="left"
-          border-radius="10px"
         />
       </mj-column>
     </mj-section>
@@ -126,10 +125,9 @@
       <mj-column>
         <mj-image
           href="https://one-delivery.co.uk"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-alt.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/one-delivery/assets/logo-beta.png"
           alt=""
           width="96px"
-          border-radius="10px"
         />
 
         <mj-social font-size="15px" icon-size="30px" mode="horizontal">
