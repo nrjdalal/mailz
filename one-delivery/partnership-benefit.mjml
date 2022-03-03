@@ -64,7 +64,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="#FFFFFF">
+    <mj-section background-color="#FFFFFF" padding-top="48px" padding-bottom="48px">
       <mj-column>
         <mj-text>
           <span style="color: #f13139; font-family: ProximaNovaBold, sans-serif">Dear Valued Customer,</span>
