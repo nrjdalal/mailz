@@ -161,5 +161,93 @@
         <mj-divider border-color="#333333" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          font-family="DM Sans, sans-serif"
+          color="#47ebc6"
+          font-size="18px"
+          font-weight="700"
+          letter-spacing="1px"
+          line-height="1.4"
+          align="center"
+        >
+          CONTACT US
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          5625 Mills Civic Pkwy
+          <br />
+          Suite 101 West Des Moines
+          <br />
+          IA 50266
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a href="tel:866-955-4015" style="text-decoration: none; color: white">866-955-4015</a>
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a href="mailto:info@finwaygroup.com" style="text-decoration: none; color: white">info@finwaygroup.com</a>
+        </mj-text>
+
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element
+            name="facebook"
+            href="https://www.facebook.com/pages/category/Financial-Service/The-Finway-Group-302032073561303/"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element
+            name="youtube"
+            href="https://www.youtube.com/watch?v=qTZ40p8ukEA&list=UUtF9vUCEaJNRR9UDsJUNn5A"
+            padding="5px"
+          >
+          </mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/the-finway-group-llc" padding="5px">
+          </mj-social-element>
+        </mj-social>
+
+        <mj-text
+          align="center"
+          font-size="11px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          ©2021 The Finway Group, 5625 Mills Civic Pkwy. Suite 101 West Des Moines, IA 50266 You are receiving this
+          email because of your association with Finway Group
+          <a href="http://www.finwaygroup.com" style="color: white">www.finwaygroup.com</a>
+          <br />
+          <br />
+          <unsubscribe>Unsubscribe</unsubscribe>
+        </mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
