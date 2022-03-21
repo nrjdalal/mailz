@@ -7,13 +7,11 @@
   </mj-head>
   <mj-body>
     <!-- header section -->
-    <mj-section
-      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
-    >
+    <mj-section background-color="black">
       <mj-column>
         <mj-image
-          href="https://www.awwsume.com/"
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/logo.jpg"
+          href="https://www.finwaygroup.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/logo.png"
           alt=""
           width="256px"
         />
@@ -32,39 +30,31 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Set Your Business Up To Look Great, Everywhere That
-          Matters...</mj-text
-        >
+          Finway Group Presents
+          <br />
+          The Architect Retirement PEP
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
+          alt=""
+          width="450px"
+          href="https://www.awwsume.com/"
+        />
 
         <mj-text
           align="center"
           font-size="18px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          Be The First Choice For New Customers Who Are Looking & Ready To
-          Buy</mj-text
-        >
-
-        <mj-text
-          align="center"
-          font-size="16px"
-          line-height="1.5"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >Effortlessly, manage your online reputation & get more business
-          reviews than ever before on every site with Awwsume.com
+          A Retirement Plan Built Easier and More Affordable for Small Businesses
         </mj-text>
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -101,11 +91,7 @@
           href="https://www.awwsume.com/"
         />
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -117,7 +103,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Take control of your reputation ​
@@ -131,10 +117,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >You know consumers are relying on reviews & the internet more than
-          ever before to inform their purchasing decisions. 93% of people look
-          to Google when deciding where to shop. Ratings can be the difference
-          between you or your competition growing or closing the doors.
+          >You know consumers are relying on reviews & the internet more than ever before to inform their purchasing
+          decisions. 93% of people look to Google when deciding where to shop. Ratings can be the difference between you
+          or your competition growing or closing the doors.
         </mj-text>
 
         <mj-text
@@ -142,7 +127,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >So what are you doing about it?
@@ -156,11 +141,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >You can take complete control of your entire online reputation
-          without doing much of anything different tomorrow than you are doing
-          today… input manually past clients or new sales. Use our onboarding
-          tool of integration with over 700 platforms for automatically sending
-          review requests.
+          >You can take complete control of your entire online reputation without doing much of anything different
+          tomorrow than you are doing today… input manually past clients or new sales. Use our onboarding tool of
+          integration with over 700 platforms for automatically sending review requests.
         </mj-text>
 
         <mj-image
@@ -177,7 +160,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >What use to be a Burden is now an opportunity
@@ -191,8 +174,8 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >You know you need reviews but getting your customers to write a
-          review used to be like pulling teeth, painful…
+          >You know you need reviews but getting your customers to write a review used to be like pulling teeth,
+          painful…
         </mj-text>
 
         <mj-text
@@ -200,7 +183,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Now it is easy for you to get real reviews
@@ -214,15 +197,10 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >It is now easy and painless for you to ask for and your customers to
-          leave real reviews.
+          >It is now easy and painless for you to ask for and your customers to leave real reviews.
         </mj-text>
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -248,9 +226,8 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >The Awwsume Reputation Marketing System will automatically route each
-          new review based on real time reputation information to the review
-          website where it will be most effective online and internalizes the
+          >The Awwsume Reputation Marketing System will automatically route each new review based on real time
+          reputation information to the review website where it will be most effective online and internalizes the
           negative reviews as customer feedback that only you can see.
         </mj-text>
 
@@ -273,10 +250,9 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Every worry about unhappy customers taking out their frustrations
-          online? Worry no more! Negative reviews will be internalized. You will
-          be alerted in real time to important changes instantly allowing you to
-          respond at the speed of business from within the alerts.
+          >Every worry about unhappy customers taking out their frustrations online? Worry no more! Negative reviews
+          will be internalized. You will be alerted in real time to important changes instantly allowing you to respond
+          at the speed of business from within the alerts.
         </mj-text>
 
         <mj-image
@@ -298,11 +274,7 @@
           Learn More
         </mj-button>
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -314,7 +286,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Why Awwsume?
@@ -329,10 +301,9 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >Put Awwsume to work. Invest your time where it's needed <br /><br />
-          Awwsume.com easily integrates with over 700 existing applications like
-          Quickbooks, Salesforce, Mailchimp and much more.
-          <br /><br />Let us set it up once, & you're good to go. No hassle or
-          code required.
+          Awwsume.com easily integrates with over 700 existing applications like Quickbooks, Salesforce, Mailchimp and
+          much more.
+          <br /><br />Let us set it up once, & you're good to go. No hassle or code required.
         </mj-text>
 
         <mj-image
@@ -351,11 +322,7 @@
           Try Now
         </mj-button>
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -381,17 +348,14 @@
           color="white"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Google and other major search engines are putting more emphasis on
-          current reviews every time they do an update. Google boost review
-          traffic by up to 15% <br /><br />
+          >Google and other major search engines are putting more emphasis on current reviews every time they do an
+          update. Google boost review traffic by up to 15% <br /><br />
 
-          Our users have seen dramatic rank increases on Google when we
-          consistently getting positive reviews from their happy customers.
-          Reviews contain keywords which will attract more people to your web
-          presence, increasing your visibility.<br /><br />
+          Our users have seen dramatic rank increases on Google when we consistently getting positive reviews from their
+          happy customers. Reviews contain keywords which will attract more people to your web presence, increasing your
+          visibility.<br /><br />
 
-          ​ With our Fence feature, Awwsume only allows posts 4 or 5 star
-          reviews to be posted!
+          ​ With our Fence feature, Awwsume only allows posts 4 or 5 star reviews to be posted!
         </mj-text>
 
         <mj-image
@@ -412,11 +376,7 @@
           Book a Demo
         </mj-button>
 
-        <mj-divider
-          border-color="#222222"
-          border-width="1px"
-          padding-top="36px"
-        />
+        <mj-divider border-color="#222222" border-width="1px" padding-top="36px" />
       </mj-column>
     </mj-section>
 
@@ -428,7 +388,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
           >So what is this going to cost me?
@@ -450,11 +410,10 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="deepskyblue"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
-          >Then if your happy it's just $145 a month with a 12 month commitment.
-          $1740 a year
+          >Then if your happy it's just $145 a month with a 12 month commitment. $1740 a year
         </mj-text>
 
         <mj-text
@@ -490,11 +449,7 @@
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
-          <a
-            href="https://www.awwsume.com/"
-            style="text-decoration: none; color: black"
-            >www.awwsume.com</a
-          >
+          <a href="https://www.awwsume.com/" style="text-decoration: none; color: black">www.awwsume.com</a>
         </mj-text>
       </mj-column>
     </mj-section>
