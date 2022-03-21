@@ -26,7 +26,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="#47ebc6"
+          color="#fb7185"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -41,7 +41,7 @@
           border-radius="24px"
           href="https://www.awwsume.com/"
           padding="32px"
-          border="2px solid #FB7185"
+          border="2px solid #47ebc6"
         />
 
         <mj-text
@@ -68,7 +68,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="#47ebc6"
+          color="#fb7185"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -80,8 +80,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #fb7185;
+                border-right: 10px solid #fb7185;
+                border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -112,7 +112,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="#FB7185"
+          color="#47ebc6"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -124,8 +124,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #fb7185;
-                border-left: 10px solid #47ebc6;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #fb7185;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -145,8 +145,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #fb7185;
+                border-right: 10px solid #fb7185;
+                border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -166,8 +166,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #fb7185;
-                border-left: 10px solid #47ebc6;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #fb7185;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -187,8 +187,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #fb7185;
+                border-right: 10px solid #fb7185;
+                border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -208,8 +208,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #fb7185;
-                border-left: 10px solid #47ebc6;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #fb7185;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -229,8 +229,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #fb7185;
+                border-right: 10px solid #fb7185;
+                border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -250,8 +250,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #fb7185;
-                border-left: 10px solid #47ebc6;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #fb7185;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -278,7 +278,7 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="#47ebc6"
+          color="#fb7185"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
@@ -290,8 +290,8 @@
             <td
               style="
                 padding: 10px;
-                border-right: 10px solid #47ebc6;
-                border-left: 10px solid #fb7185;
+                border-right: 10px solid #fb7185;
+                border-left: 10px solid #47ebc6;
                 font-family: 'DM Sans', sans-serif;
                 color: white;
                 font-size: 17px;
@@ -318,7 +318,7 @@
       <mj-column>
         <mj-text
           font-family="DM Sans, sans-serif"
-          color="#FB7185"
+          color="#47ebc6"
           font-size="18px"
           font-weight="700"
           letter-spacing="1px"
