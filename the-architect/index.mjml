@@ -1,0 +1,502 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="DM Sans"
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap"
+    />
+  </mj-head>
+  <mj-body>
+    <!-- header section -->
+    <mj-section
+      background-url="https://raw.githubusercontent.com/nrjdalal/mailz/master/universal/backgrounds/white.png"
+    >
+      <mj-column>
+        <mj-image
+          href="https://www.awwsume.com/"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/logo.jpg"
+          alt=""
+          width="256px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 01 -->
+    <mj-section background-color="black">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Set Your Business Up To Look Great, Everywhere That
+          Matters...</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Be The First Choice For New Customers Who Are Looking & Ready To
+          Buy</mj-text
+        >
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.5"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Effortlessly, manage your online reputation & get more business
+          reviews than ever before on every site with Awwsume.com
+        </mj-text>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- light sec -->
+    <mj-section background-color="#000000" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="orange"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Does it work with … site?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="18px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >YES is always the answer! <br /><br />
+          Your reputation will improve across all review sites you choose.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
+          alt=""
+          width="450px"
+          href="https://www.awwsume.com/"
+        />
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- dark sec -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Take control of your reputation ​
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >You know consumers are relying on reviews & the internet more than
+          ever before to inform their purchasing decisions. 93% of people look
+          to Google when deciding where to shop. Ratings can be the difference
+          between you or your competition growing or closing the doors.
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >So what are you doing about it?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >You can take complete control of your entire online reputation
+          without doing much of anything different tomorrow than you are doing
+          today… input manually past clients or new sales. Use our onboarding
+          tool of integration with over 700 platforms for automatically sending
+          review requests.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/graphic-img.jpeg"
+          alt=""
+          width="450px"
+          href="https://www.awwsume.com/"
+          padding-top="36px"
+          padding-bottom="36px"
+        />
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >What use to be a Burden is now an opportunity
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >You know you need reviews but getting your customers to write a
+          review used to be like pulling teeth, painful…
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Now it is easy for you to get real reviews
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >It is now easy and painless for you to ask for and your customers to
+          leave real reviews.
+        </mj-text>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- dark sec -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="orange"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Feedback & reviews from 40% or more of your customers
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >The Awwsume Reputation Marketing System will automatically route each
+          new review based on real time reputation information to the review
+          website where it will be most effective online and internalizes the
+          negative reviews as customer feedback that only you can see.
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="orange"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Quickly respond to your customers concerns instantly
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Every worry about unhappy customers taking out their frustrations
+          online? Worry no more! Negative reviews will be internalized. You will
+          be alerted in real time to important changes instantly allowing you to
+          respond at the speed of business from within the alerts.
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/graphic-img.png"
+          alt=""
+          width="192px"
+          href="https://www.awwsume.com/"
+          padding-top="36px"
+          padding-bottom="36px"
+          border-radius="24px"
+        />
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Learn More
+        </mj-button>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Why Awwsume?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Put Awwsume to work. Invest your time where it's needed <br /><br />
+          Awwsume.com easily integrates with over 700 existing applications like
+          Quickbooks, Salesforce, Mailchimp and much more.
+          <br /><br />Let us set it up once, & you're good to go. No hassle or
+          code required.
+        </mj-text>
+
+        <mj-image
+          src="https://static.wixstatic.com/media/55abf6_c5c86ffa4f9041a18d5ce2b5e55e5c1e~mv2.png/v1/fill/w_401,h_320,al_c,q_85,usm_0.66_1.00_0.01/connect-img.webp"
+          alt=""
+          width="450px"
+          href="https://www.awwsume.com/"
+        />
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Try Now
+        </mj-button>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="orange"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Quickly get to the top of search with Organic SEO from Reviews
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Google and other major search engines are putting more emphasis on
+          current reviews every time they do an update. Google boost review
+          traffic by up to 15% <br /><br />
+
+          Our users have seen dramatic rank increases on Google when we
+          consistently getting positive reviews from their happy customers.
+          Reviews contain keywords which will attract more people to your web
+          presence, increasing your visibility.<br /><br />
+
+          ​ With our Fence feature, Awwsume only allows posts 4 or 5 star
+          reviews to be posted!
+        </mj-text>
+
+        <mj-image
+          src="https://static.wixstatic.com/media/55abf6_032fa8f77b6448eda1975646605cad1e~mv2.png/v1/fill/w_300,h_658,al_c,q_85,usm_0.66_1.00_0.01/mobile-img.webp"
+          alt=""
+          width="192px"
+          padding-top="36px"
+          padding-bottom="36px"
+          href="https://www.awwsume.com/"
+        />
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Book a Demo
+        </mj-button>
+
+        <mj-divider
+          border-color="#222222"
+          border-width="1px"
+          padding-top="36px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- section 03 -->
+    <mj-section background-color="black" padding-top="0" padding-bottom="36px">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >So what is this going to cost me?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >How about you test it out for 2 weeks for free?
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="500"
+          line-height="1.4"
+          color="deepskyblue"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >Then if your happy it's just $145 a month with a 12 month commitment.
+          $1740 a year
+        </mj-text>
+
+        <mj-text
+          align="center"
+          font-size="16px"
+          line-height="1.4"
+          padding-top="0"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+          >If you pay the year in advance we discount it to $1500
+        </mj-text>
+
+        <mj-button
+          href="https://calendly.com/jacconsulting"
+          background-color="green"
+          font-family="DM Sans, sans-serif"
+          font-size="16px"
+        >
+          Get Started Today
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          line-height="1.4"
+          color="white"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          <a
+            href="https://www.awwsume.com/"
+            style="text-decoration: none; color: black"
+            >www.awwsume.com</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
