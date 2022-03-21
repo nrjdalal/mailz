@@ -36,10 +36,11 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/awwsume/assets/social-img.png"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/epf.gif"
           alt=""
-          width="450px"
+          border-radius="24px"
           href="https://www.awwsume.com/"
+          padding="32px"
         />
 
         <mj-text
