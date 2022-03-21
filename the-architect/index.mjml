@@ -74,18 +74,30 @@
           Pooled Plan Provider
         </mj-text>
 
-        <mj-text
-          align="center"
-          font-size="18px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-          >A pooled plan provider is the plan administrator and named fiduciary for a pooled employer plan. The provider
-          is responsible for performing most administrative and fiduciary functions for the plan. As a named fiduciary,
-          we will provide peace of mind and stand shoulder to shoulder with the employer.
-        </mj-text>
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #f43f5e;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                A pooled plan provider is the plan administrator and named fiduciary for a pooled employer plan. The
+                provider is responsible for performing most administrative and fiduciary functions for the plan. As a
+                named fiduciary, we will provide peace of mind and stand shoulder to shoulder with the employer.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
 
         <mj-divider border-color="#333333" border-width="1px" padding-top="36px" />
       </mj-column>
@@ -99,32 +111,159 @@
           font-size="20px"
           font-weight="500"
           line-height="1.4"
-          color="#47ebc6"
+          color="#f43f5e"
           font-family="DM Sans, sans-serif"
           letter-spacing="0.5px"
         >
           3(16)
         </mj-text>
 
-        <mj-text
-          align="center"
-          font-size="18px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          <li>Track eligibility</li>
+        <mj-table color="white" align="center" padding="25px 30px 10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #f43f5e;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Sign & File IRS Form 5500 </singleline>
+            </td>
+          </tr>
+        </mj-table>
 
-          <li>Mail all required notices</li>
-          <li>Contribution monitoring</li>
-          <li>Monitoring Payroll Uploads</li>
-          <li>Daily phone and email relief</li>
-          <li>A Sign & File IRS Form 5500</li>
+        <mj-table color="white" align="center" padding="10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #f43f5e;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Track eligibility </singleline>
+            </td>
+          </tr>
+        </mj-table>
 
-          <li>Approve loans & distributions</li>
-        </mj-text>
+        <mj-table color="white" align="center" padding="10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #f43f5e;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Mail all required notices </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #f43f5e;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Approve loans & distributions </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #f43f5e;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Daily phone and email relief </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="10px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #f43f5e;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Contribution monitoring </singleline>
+            </td>
+          </tr>
+        </mj-table>
+
+        <mj-table color="white" align="center" padding="10px 30px 25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #f43f5e;
+                border-left: 10px solid #47ebc6;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline> Monitoring Payroll Uploads </singleline>
+            </td>
+          </tr>
+        </mj-table>
 
         <mj-divider border-color="#333333" border-width="1px" padding-top="36px" />
       </mj-column>
@@ -145,18 +284,29 @@
           TPA
         </mj-text>
 
-        <mj-text
-          align="center"
-          font-size="18px"
-          line-height="1.4"
-          padding-top="0"
-          color="white"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Our administrators have an average of 20+ years of industry experience. We pride ourselves on 98% of Form
-          5500s filed on time and 99.5% client retention for the past five years.
-        </mj-text>
+        <mj-table color="white" align="center" padding="25px 30px">
+          <tr align="center">
+            <td
+              style="
+                padding: 10px;
+                border-right: 10px solid #47ebc6;
+                border-left: 10px solid #f43f5e;
+                font-family: 'DM Sans', sans-serif;
+                color: white;
+                font-size: 17px;
+                font-weight: 400;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                align: center;
+              "
+            >
+              <singleline>
+                Our administrators have an average of 20+ years of industry experience. We pride ourselves on 98% of
+                Form 5500s filed on time and 99.5% client retention for the past five years.
+              </singleline>
+            </td>
+          </tr>
+        </mj-table>
 
         <mj-divider border-color="#333333" border-width="1px" padding-top="36px" />
       </mj-column>
