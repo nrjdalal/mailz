@@ -9,6 +9,17 @@
     <!-- header section -->
     <mj-section background-color="black">
       <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="700"
+          line-height="1.4"
+          color="#fb7185"
+          font-family="DM Sans, sans-serif"
+          letter-spacing="0.5px"
+        >
+          Finway Group is Proud to Present
+        </mj-text>
         <mj-image
           href="https://www.finwaygroup.com/"
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/logo.png"
@@ -21,20 +32,6 @@
     <!-- section 01 -->
     <mj-section background-color="black">
       <mj-column>
-        <mj-text
-          align="center"
-          font-size="20px"
-          font-weight="700"
-          line-height="1.4"
-          color="#fb7185"
-          font-family="DM Sans, sans-serif"
-          letter-spacing="0.5px"
-        >
-          Finway Group is Proud to Present
-          <br />
-          The Architect Retirement PEP
-        </mj-text>
-
         <mj-image
           src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/epf.gif"
           alt=""
@@ -120,8 +117,9 @@
         </mj-text>
 
         <mj-image
-          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/icons.webp"
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/icons.jpg"
           alt=""
+          padding-top="24px"
           padding-right="0"
           padding-left="0"
         />
