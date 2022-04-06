@@ -119,7 +119,14 @@
           3(16)
         </mj-text>
 
-        <mj-table color="white" align="center" padding="25px 30px 10px 30px">
+        <mj-image
+          src="https://raw.githubusercontent.com/nrjdalal/mailz/master/the-architect/assets/icons.webp"
+          alt=""
+          padding-right="0"
+          padding-left="0"
+        />
+
+        <!-- <mj-table color="white" align="center" padding="25px 30px 10px 30px">
           <tr align="center">
             <td
               style="
@@ -264,9 +271,9 @@
               <singleline> Monitoring Payroll Uploads </singleline>
             </td>
           </tr>
-        </mj-table>
+        </mj-table> -->
 
-        <mj-divider border-color="#333333" border-width="1px" padding-top="36px" />
+        <!-- <mj-divider border-color="#333333" border-width="1px" padding-top="36px" /> -->
       </mj-column>
     </mj-section>
 
